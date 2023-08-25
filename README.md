@@ -6,5 +6,5 @@ IQTREE outputs for the 10 ML replicates + topology evaluation file. Replicates c
 #### Dir HMM_profiles:
 HMM profiles for each OG used to build the distanca matrix for the NJ tree
 
-##### Dir Alignments:
+#### Dir Alignments:
 Single-OG alignments, comprehending all sequences before subsampling (see Materials and Methods). All alignments were later merged and realigned altogehter with MAFFT-DASH, previous to ML tree inference
