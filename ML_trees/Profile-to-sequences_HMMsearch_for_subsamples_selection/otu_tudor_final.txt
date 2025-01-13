@@ -1,0 +1,76 @@
+#                                                                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                             accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                     ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Phoronis_australis|PHORONIDA|otu|g18503.t1|TUD-1/1                        -          otu_tudor_final      -            6.7e-31   98.2   0.1   7.3e-31   98.1   0.1   1.0   1   0   0   1   1   1   1 -
+Branchiostoma_floridae|CHORDATA|otu|035681095.1|TUD-1/1                   -          otu_tudor_final      -            8.6e-31   97.8   0.5   9.3e-31   97.7   0.5   1.0   1   0   0   1   1   1   1 -
+Anneissia_japonica|ECHINODERMATA|otu|033111352.1|TUD-1/1                  -          otu_tudor_final      -            4.2e-30   95.6   0.0   4.6e-30   95.5   0.0   1.0   1   0   0   1   1   1   1 -
+Asterias_rubens|ECHINODERMATA|otu|033631677.1|TUD-1/1                     -          otu_tudor_final      -            1.2e-29   94.2   0.2   1.3e-29   94.1   0.2   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|otu|013388854.1|TUD-1/1                       -          otu_tudor_final      -              3e-29   92.9   0.0   3.2e-29   92.8   0.0   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|otu|034759151.1|TUD-1/1                       -          otu_tudor_final      -            5.4e-29   92.1   0.1   5.9e-29   92.0   0.1   1.0   1   0   0   1   1   1   1 -
+Notospermus_geniculatus|NEMERTEA|otu|g33086.t1|TUD-1/1                    -          otu_tudor_final      -            6.5e-29   91.8   0.1   6.9e-29   91.7   0.1   1.0   1   0   0   1   1   1   1 -
+Notospermus_geniculatus|NEMERTEA|otu|g37766.t1|TUD-1/1                    -          otu_tudor_final      -            6.5e-29   91.8   0.1   6.9e-29   91.7   0.1   1.0   1   0   0   1   1   1   1 -
+Centruroides_sculpturatus|ARTHROPODA|otu|023224853.1|TUD-1/1              -          otu_tudor_final      -            1.5e-28   90.6   0.1   1.6e-28   90.6   0.1   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|otu|015132202.1|TUD-1/1                            -          otu_tudor_final      -            1.8e-28   90.4   0.3     2e-28   90.3   0.3   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|otu|002938835.2|TUD-1/1                       -          otu_tudor_final      -            1.9e-28   90.3   0.1     2e-28   90.2   0.1   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|otu|015278407.1|TUD-1/1                          -          otu_tudor_final      -              2e-28   90.2   0.2   2.2e-28   90.1   0.2   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|otu|001072598.1|TUD-1/1                       -          otu_tudor_final      -            2.2e-28   90.1   0.7   2.4e-28   90.0   0.7   1.0   1   0   0   1   1   1   1 -
+Strongylocentrotus_purpuratus|ECHINODERMATA|otu|030836520.1|TUD-1/1       -          otu_tudor_final      -            2.3e-28   90.1   0.6   2.4e-28   90.0   0.6   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|otu|034776410.1|TUD-1/1                       -          otu_tudor_final      -            4.4e-28   89.2   0.1   4.7e-28   89.1   0.1   1.0   1   0   0   1   1   1   1 -
+Cryptotermes_secundus|ARTHROPODA|otu|033606450.1|TUD-1/1                  -          otu_tudor_final      -            5.1e-28   89.0   0.1   5.5e-28   88.9   0.1   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|otu|033891468.2|TUD-1/1                       -          otu_tudor_final      -            9.3e-28   88.1   0.0     1e-27   88.0   0.0   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|otu|005161471.1|TUD-1/1                              -          otu_tudor_final      -              2e-27   87.0   0.0   2.2e-27   86.9   0.0   1.0   1   0   0   1   1   1   1 -
+Pomacea_canaliculata|MOLLUSCA|otu|025086426.1|TUD-1/1                     -          otu_tudor_final      -            4.6e-27   85.9   1.5   5.1e-27   85.8   1.5   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|otu|022240718.1|TUD-1/1                     -          otu_tudor_final      -            6.9e-27   85.3   0.1   7.4e-27   85.2   0.1   1.0   1   0   0   1   1   1   1 -
+Octopus_bimaculoides|MOLLUSCA|otu|014774356.1|TUD-1/1                     -          otu_tudor_final      -              7e-27   85.3   0.8   7.5e-27   85.2   0.8   1.0   1   0   0   1   1   1   1 -
+Owenia_fusiformis|ANNELIDA|otu|CAC9536351.1|TUD-1/1                       -          otu_tudor_final      -            1.6e-26   84.2   0.0   1.7e-26   84.1   0.0   1.0   1   0   0   1   1   1   1 -
+Mizuhopecten_yessoensis|MOLLUSCA|otu|021366138.1|TUD-1/1                  -          otu_tudor_final      -            3.7e-26   83.0   0.1     4e-26   82.9   0.1   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|otu|033871604.1|TUD-1/1                       -          otu_tudor_final      -            4.5e-26   82.7   0.0   4.9e-26   82.6   0.0   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|otu|032873962.1|TUD-1/1                        -          otu_tudor_final      -            4.9e-26   82.6   0.1   5.3e-26   82.5   0.1   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|otu|001299588.1|TUD-1/1                              -          otu_tudor_final      -            5.6e-26   82.4   0.0     6e-26   82.3   0.0   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|otu|015282097.1|TUD-1/1                          -          otu_tudor_final      -            1.3e-25   81.2   0.3   1.4e-25   81.1   0.3   1.0   1   0   0   1   1   1   1 -
+Capitella_teleta|ANNELIDA|otu|ELT94044.1|TUD-1/1                          -          otu_tudor_final      -            1.5e-25   81.1   0.1   1.6e-25   81.0   0.1   1.0   1   0   0   1   1   1   1 -
+Daphnia_magna|ARTHROPODA|otu|032787712.1|TUD-1/1                          -          otu_tudor_final      -            1.7e-25   80.9   0.2   1.8e-25   80.8   0.2   1.0   1   0   0   1   1   1   1 -
+Priapulus_caudatus|PRIAPULIDA|otu|014662871.1|TUD-1/1                     -          otu_tudor_final      -            1.1e-24   78.3   0.3   1.1e-24   78.3   0.3   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|otu|020601337.1|TUD-1/1                      -          otu_tudor_final      -            2.1e-24   77.4   0.1   2.2e-24   77.3   0.1   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|otu|026473734.1|TUD-1/1                  -          otu_tudor_final      -            7.9e-24   75.5   0.1   8.6e-24   75.4   0.1   1.0   1   0   0   1   1   1   1 -
+Petromyzon_marinus|CHORDATA|otu|032811109.1|TUD-1/1                       -          otu_tudor_final      -            4.1e-23   73.3   0.1   4.4e-23   73.2   0.1   1.0   1   0   0   1   1   1   1 -
+Nymphon_striatum|ARTHROPODA|otu|KAG1677529.1|TUD-1/1                      -          otu_tudor_final      -              9e-23   72.2   0.1   9.5e-23   72.1   0.1   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|otu|029840166.1|TUD-1/1                      -          otu_tudor_final      -            1.7e-22   71.2   0.0   1.9e-22   71.1   0.0   1.0   1   0   0   1   1   1   1 -
+Drosophila_melanogaster|ARTHROPODA|otu|511089.2|TUD-1/1                   -          otu_tudor_final      -            2.4e-22   70.8   1.5   2.6e-22   70.7   1.5   1.0   1   0   0   1   1   1   1 -
+Dimorphilus_gyrociliatus|ANNELIDA|otu|CAD5112017.1|TUD-1/1                -          otu_tudor_final      -              3e-22   70.5   0.1   3.2e-22   70.4   0.1   1.0   1   0   0   1   1   1   1 -
+Apostichopus_japonicus|ECHINODERMATA|otu|PIK37515.1|TUD-1/1               -          otu_tudor_final      -              6e-22   69.5   0.3   6.4e-22   69.4   0.3   1.0   1   0   0   1   1   1   1 -
+Acropora_digitifera|CNIDARIA|otu|015776414.1|TUD-1/1                      -          otu_tudor_final      -              2e-21   67.9   0.3   2.2e-21   67.7   0.3   1.0   1   0   0   1   1   1   1 -
+Ciona_intestinalis|CHORDATA|otu|026689607.1|TUD-1/1                       -          otu_tudor_final      -            2.6e-21   67.5   0.0   2.8e-21   67.4   0.0   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|otu|027050546.1|TUD-1/1                   -          otu_tudor_final      -            3.6e-21   67.0   0.0   3.9e-21   66.9   0.0   1.0   1   0   0   1   1   1   1 -
+Saccoglossus_kowalevskii|HEMICHORDATA|otu|006823738.1|TUD-1/1             -          otu_tudor_final      -            6.2e-21   66.3   0.0   6.5e-21   66.2   0.0   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|otu|001636546.2|TUD-1/1                   -          otu_tudor_final      -            8.1e-21   65.9   0.0   8.9e-21   65.8   0.0   1.0   1   0   0   1   1   1   1 -
+Crassostrea_gigas|MOLLUSCA|otu|034299838.1|TUD-1/1                        -          otu_tudor_final      -              9e-21   65.8   0.0   9.8e-21   65.6   0.0   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|otu|020901993.1|TUD-1/1                      -          otu_tudor_final      -            1.1e-20   65.5   0.1   1.2e-20   65.4   0.1   1.0   1   0   0   1   1   1   1 -
+Petromyzon_marinus|CHORDATA|otu|032812452.1|TUD-1/1                       -          otu_tudor_final      -              2e-20   64.6   0.0   2.2e-20   64.5   0.0   1.0   1   0   0   1   1   1   1 -
+Drosophila_melanogaster|ARTHROPODA|otu|608851.1|TUD-1/1                   -          otu_tudor_final      -              5e-20   63.4   0.3   5.4e-20   63.3   0.3   1.0   1   0   0   1   1   1   1 -
+Lottia_gigantea|MOLLUSCA|otu|009060886.1|TUD-1/1                          -          otu_tudor_final      -            7.1e-20   62.9   0.0   7.5e-20   62.8   0.0   1.0   1   0   0   1   1   1   1 -
+Aphis_gossypii|ARTHROPODA|otu|027842641.1|TUD-1/1                         -          otu_tudor_final      -            7.2e-20   62.9   2.1   7.7e-20   62.8   2.1   1.0   1   0   0   1   1   1   1 -
+Brachionus_calyciflorus|ROTIFERA|otu|CAF0761983.1|TUD-1/1                 -          otu_tudor_final      -            5.1e-19   60.1   0.0   5.5e-19   60.0   0.0   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|otu|011530342.2|TUD-1/1                             -          otu_tudor_final      -            7.1e-19   59.7   0.2   7.6e-19   59.6   0.2   1.0   1   0   0   1   1   1   1 -
+Acropora_digitifera|CNIDARIA|otu|015749321.1|TUD-1/1                      -          otu_tudor_final      -            1.1e-18   59.1   0.6   1.1e-18   59.0   0.6   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|otu|028397717.1|TUD-1/1                  -          otu_tudor_final      -            2.2e-18   58.1   0.1   2.4e-18   58.0   0.1   1.0   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|otu|022787273.1|TUD-1/1                    -          otu_tudor_final      -              3e-18   57.7   0.0   3.2e-18   57.6   0.0   1.0   1   0   0   1   1   1   1 -
+Aurelia_aurita|CNIDARIA|otu|scaffold30.g43.t3|TUD-1/1                     -          otu_tudor_final      -              4e-17   54.1   0.2   4.4e-17   53.9   0.2   1.0   1   0   0   1   1   1   1 -
+Parasteatoda_tepidariorum|ARTHROPODA|otu|021000082.1|TUD-1/1              -          otu_tudor_final      -            5.1e-17   53.7   4.2   5.4e-17   53.7   4.2   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|otu|CAB3381277.1|TUD-1/1                       -          otu_tudor_final      -            1.2e-16   52.5   0.2   1.3e-16   52.4   0.2   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|otu|CAB3381278.1|TUD-1/1                       -          otu_tudor_final      -            1.2e-16   52.5   0.2   1.3e-16   52.4   0.2   1.0   1   0   0   1   1   1   1 -
+Sitophilus_oryzae|ARTHROPODA|otu|030751622.1|TUD-1/1                      -          otu_tudor_final      -            4.4e-16   50.8   0.1   4.7e-16   50.7   0.1   1.0   1   0   0   1   1   1   1 -
+Plectus_sambesii|NEMATODA|otu|PSAMB.scaffold330size56329.g4927.t1|TUD-1/2 -          otu_tudor_final      -            3.1e-15   48.0   0.0   3.4e-15   47.9   0.0   1.0   1   0   0   1   1   1   1 -
+Varroa_destructor|ARTHROPODA|otu|022643684.1|TUD-1/1                      -          otu_tudor_final      -            1.1e-13   43.1   0.0   1.1e-13   43.0   0.0   1.0   1   0   0   1   1   1   1 -
+Bugula_neritina|BRIOZOA|otu|KAF6025766.1|TUD-1/1                          -          otu_tudor_final      -            6.6e-13   40.6   0.3   6.9e-13   40.5   0.3   1.0   1   0   0   1   1   1   1 -
+Plectus_sambesii|NEMATODA|otu|PSAMB.scaffold330size56329.g4927.t1|TUD-2/2 -          otu_tudor_final      -            1.3e-12   39.7   0.0   1.3e-12   39.6   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/otu_tudor_final.hmm
+# Target file:     ../../otu_tudor_final.fasta
+# Option settings: hmmsearch --tblout otu_tudor_final.txt ../0.5/otu_tudor_final.hmm ../../otu_tudor_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:22 2022
+# [ok]

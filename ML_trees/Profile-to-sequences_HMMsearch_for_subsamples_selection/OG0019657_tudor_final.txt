@@ -1,0 +1,20 @@
+#                                                                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                                     accession  query name            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                             ------------------- ----------  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Brugia_malayi|NEMATODA|OG0019657|001896484.1|TUD-1/1                              -          OG0019657_tudor_final -            7.1e-46  143.6   0.0   7.9e-46  143.5   0.0   1.0   1   0   0   1   1   1   1 -
+Loa_loa|NEMATODA|OG0019657|003149550.1|TUD-1/1                                    -          OG0019657_tudor_final -            3.4e-44  138.2   0.0   3.8e-44  138.1   0.0   1.0   1   0   0   1   1   1   1 -
+Plectus_sambesii|NEMATODA|OG0019657|PSAMB.scaffold2464size23067.g17850.t1|TUD-1/1 -          OG0019657_tudor_final -            9.2e-41  127.2   0.0     1e-40  127.1   0.0   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|OG0019657|029830958.1|TUD-1/1                        -          OG0019657_tudor_final -            9.9e-39  120.7   0.0   1.1e-38  120.5   0.0   1.0   1   0   0   1   1   1   1 -
+Strongyloides_ratti|NEMATODA|OG0019657|024508598.1|TUD-1/1                        -          OG0019657_tudor_final -            2.7e-36  112.8   0.1     3e-36  112.7   0.1   1.0   1   0   0   1   1   1   1 -
+Necator_americanus|NEMATODA|OG0019657|013298470.1|TUD-1/1                         -          OG0019657_tudor_final -            7.3e-33  101.8   0.0     8e-33  101.7   0.0   1.0   1   0   0   1   1   1   1 -
+Plectus_sambesii|NEMATODA|OG0019657|PSAMB.scaffold9467size4946.g32470.t1|TUD-1/1  -          OG0019657_tudor_final -            1.8e-31   97.3   0.0     2e-31   97.2   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/OG0019657_tudor_final.hmm
+# Target file:     ../../OG0019657_tudor_final.fasta
+# Option settings: hmmsearch --tblout OG0019657_tudor_final.txt ../0.5/OG0019657_tudor_final.hmm ../../OG0019657_tudor_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:22 2022
+# [ok]

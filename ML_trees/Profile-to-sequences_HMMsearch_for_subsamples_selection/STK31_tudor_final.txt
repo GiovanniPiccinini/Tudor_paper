@@ -1,0 +1,54 @@
+#                                                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                 ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Mizuhopecten_yessoensis|MOLLUSCA|STK31|021374414.1|TUD-1/1            -          STK31_tudor_final    -            1.9e-46  148.1   1.0     2e-46  147.9   1.0   1.0   1   0   0   1   1   1   1 -
+Biomphalaria_glabrata|MOLLUSCA|STK31|013068342.1|TUD-1/1              -          STK31_tudor_final    -              4e-46  147.0   0.0   4.4e-46  146.9   0.0   1.0   1   0   0   1   1   1   1 -
+Pomacea_canaliculata|MOLLUSCA|STK31|025097142.1|TUD-1/1               -          STK31_tudor_final    -            4.3e-46  146.9   0.1   4.7e-46  146.8   0.1   1.0   1   0   0   1   1   1   1 -
+Owenia_fusiformis|ANNELIDA|STK31|CAC9668463.1|TUD-1/1                 -          STK31_tudor_final    -            1.3e-44  142.1   0.1   1.4e-44  142.0   0.1   1.0   1   0   0   1   1   1   1 -
+Crassostrea_gigas|MOLLUSCA|STK31|034314604.1|TUD-1/1                  -          STK31_tudor_final    -            2.5e-44  141.2   0.1   2.8e-44  141.1   0.1   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|STK31|013782492.2|TUD-1/1               -          STK31_tudor_final    -            3.9e-44  140.6   0.1   4.3e-44  140.5   0.1   1.0   1   0   0   1   1   1   1 -
+Notospermus_geniculatus|NEMERTEA|STK31|g1761.t1|TUD-2/2               -          STK31_tudor_final    -            4.9e-44  140.3   0.0   5.3e-44  140.1   0.0   1.0   1   0   0   1   1   1   1 -
+Aplysia_californica|MOLLUSCA|STK31|005100543.1|TUD-1/1                -          STK31_tudor_final    -            1.8e-43  138.5   0.0   1.9e-43  138.3   0.0   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|STK31|022248911.1|TUD-1/1               -          STK31_tudor_final    -            3.8e-43  137.4   0.1   4.1e-43  137.3   0.1   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|STK31|028393628.1|TUD-1/1            -          STK31_tudor_final    -            9.6e-43  136.1   0.0   1.1e-42  136.0   0.0   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|STK31|028414677.1|TUD-1/1            -          STK31_tudor_final    -            9.6e-43  136.1   0.0   1.1e-42  136.0   0.0   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|STK31|028418580.1|TUD-1/1            -          STK31_tudor_final    -            9.6e-43  136.1   0.0   1.1e-42  136.0   0.0   1.0   1   0   0   1   1   1   1 -
+Branchiostoma_floridae|CHORDATA|STK31|035669019.1|TUD-1/1             -          STK31_tudor_final    -            1.1e-42  135.9   0.0   1.2e-42  135.7   0.0   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|STK31|015274345.1|TUD-1/1                    -          STK31_tudor_final    -            1.8e-42  135.2   0.1     2e-42  135.1   0.1   1.0   1   0   0   1   1   1   1 -
+Clytia_hemisphaerica|CNIDARIA|STK31|CLYHEMP018591.1|TUD-1/1           -          STK31_tudor_final    -            2.4e-42  134.8   0.5   2.6e-42  134.7   0.5   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|STK31|025003196.1|TUD-1/1                      -          STK31_tudor_final    -            2.7e-42  134.7   0.2     3e-42  134.5   0.2   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|STK31|031562659.1|TUD-1/1                  -          STK31_tudor_final    -            2.9e-42  134.5   0.0   3.2e-42  134.4   0.0   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|STK31|011513751.2|TUD-1/1                       -          STK31_tudor_final    -            5.5e-42  133.7   0.1     6e-42  133.5   0.1   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|STK31|032231950.1|TUD-1/1             -          STK31_tudor_final    -            7.4e-42  133.2   0.0   8.2e-42  133.1   0.0   1.0   1   0   0   1   1   1   1 -
+Capitella_teleta|ANNELIDA|STK31|ELT94759.1|TUD-1/1                    -          STK31_tudor_final    -            9.1e-42  133.0   0.0     1e-41  132.8   0.0   1.0   1   0   0   1   1   1   1 -
+Acropora_digitifera|CNIDARIA|STK31|015764044.1|TUD-1/1                -          STK31_tudor_final    -            1.3e-41  132.5   0.1   1.4e-41  132.4   0.1   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|STK31|013407204.1|TUD-1/1                 -          STK31_tudor_final    -            3.4e-41  131.1   0.1   3.8e-41  131.0   0.1   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|STK31|002933446.3|TUD-1/1                 -          STK31_tudor_final    -            3.8e-41  130.9   0.0   4.2e-41  130.8   0.0   1.0   1   0   0   1   1   1   1 -
+Asterias_rubens|ECHINODERMATA|STK31|033644278.1|TUD-1/1               -          STK31_tudor_final    -            7.3e-41  130.0   0.1   8.5e-41  129.8   0.1   1.1   1   0   0   1   1   1   1 -
+Octopus_bimaculoides|MOLLUSCA|STK31|014783548.1|TUD-1/1               -          STK31_tudor_final    -            1.4e-40  129.1   2.0   1.5e-40  129.0   2.0   1.0   1   0   0   1   1   1   1 -
+Aurelia_aurita|CNIDARIA|STK31|scaffold101.g49.t3|TUD-1/1              -          STK31_tudor_final    -              2e-40  128.7   0.0   2.2e-40  128.5   0.0   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|STK31|032902348.1|TUD-1/1                  -          STK31_tudor_final    -            2.1e-40  128.6   0.0   2.3e-40  128.5   0.0   1.0   1   0   0   1   1   1   1 -
+Helobdella_robusta|ANNELIDA|STK31|009026908.1|TUD-1/1                 -          STK31_tudor_final    -            2.8e-39  125.0   0.1     3e-39  124.8   0.1   1.0   1   0   0   1   1   1   1 -
+Strongylocentrotus_purpuratus|ECHINODERMATA|STK31|030835782.1|TUD-1/1 -          STK31_tudor_final    -            5.7e-38  120.7   0.1   6.2e-38  120.6   0.1   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|STK31|029831860.1|TUD-1/1                -          STK31_tudor_final    -            1.8e-37  119.2   0.0   1.9e-37  119.0   0.0   1.0   1   0   0   1   1   1   1 -
+Phoronis_australis|PHORONIDA|STK31|g4419.t1|TUD-1/1                   -          STK31_tudor_final    -            7.6e-37  117.1   0.0   8.4e-37  117.0   0.0   1.0   1   0   0   1   1   1   1 -
+Parasteatoda_tepidariorum|ARTHROPODA|STK31|015914206.1|TUD-1/1        -          STK31_tudor_final    -            2.9e-36  115.2   0.1   3.2e-36  115.1   0.1   1.0   1   0   0   1   1   1   1 -
+Apostichopus_japonicus|ECHINODERMATA|STK31|PIK59467.1|TUD-1/1         -          STK31_tudor_final    -            1.3e-35  113.1   0.0   1.4e-35  113.0   0.0   1.0   1   0   0   1   1   1   1 -
+Styela_clava|CHORDATA|STK31|039265760.1|TUD-1/1                       -          STK31_tudor_final    -            1.4e-34  109.8   0.0   1.5e-34  109.7   0.0   1.0   1   0   0   1   1   1   1 -
+Bugula_neritina|BRIOZOA|STK31|KAF6016635.1|TUD-1/1                    -          STK31_tudor_final    -            3.8e-34  108.4   0.3   4.1e-34  108.3   0.3   1.0   1   0   0   1   1   1   1 -
+Mnemiopsis_leidyi|CTENOPHORA|STK31|ML161327a|TUD-1/1                  -          STK31_tudor_final    -              1e-30   97.4   0.0   1.1e-30   97.3   0.0   1.0   1   0   0   1   1   1   1 -
+Hormiphora_californiensis|CTENOPHORA|STK31|Hcv1.1.c6.g434.i1|TUD-1/1  -          STK31_tudor_final    -            1.6e-29   93.5   0.7   1.7e-29   93.4   0.7   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|STK31|027059242.1|TUD-1/1             -          STK31_tudor_final    -            6.4e-29   91.6   0.1   6.9e-29   91.5   0.1   1.0   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|STK31|022789212.1|TUD-1/1              -          STK31_tudor_final    -            2.8e-28   89.5   0.1     3e-28   89.4   0.1   1.0   1   0   0   1   1   1   1 -
+Xenoturbella_bocki|XENACOELOMORPHA|STK31|scaffold1222_6|TUD-1/1       -          STK31_tudor_final    -              1e-26   84.5   0.0   1.1e-26   84.4   0.0   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|STK31|028512675.1|TUD-1/1                -          STK31_tudor_final    -            4.7e-25   79.1   0.1     5e-25   79.0   0.1   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/STK31_tudor_final.hmm
+# Target file:     ../../STK31_tudor_final.fasta
+# Option settings: hmmsearch --tblout STK31_tudor_final.txt ../0.5/STK31_tudor_final.hmm ../../STK31_tudor_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:22 2022
+# [ok]

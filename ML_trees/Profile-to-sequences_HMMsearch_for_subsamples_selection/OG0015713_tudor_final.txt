@@ -1,0 +1,34 @@
+#                                                                                                           --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                   accession  query name            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                           ------------------- ----------  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Adineta_ricciae|ROTIFERA|OG0015713|CAF1192436.1|TUD-1/2         -          OG0015713_tudor_final -            1.1e-48  154.5   0.5   1.3e-48  154.4   0.5   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|OG0015713|CAF1396588.1|TUD-1/2         -          OG0015713_tudor_final -              4e-48  152.8   0.6   4.4e-48  152.6   0.6   1.0   1   0   0   1   1   1   1 -
+Rotaria_socialis|ROTIFERA|OG0015713|CAF4783736.1|TUD-1/2        -          OG0015713_tudor_final -              7e-48  152.0   0.1   7.7e-48  151.9   0.1   1.0   1   0   0   1   1   1   1 -
+Rotaria_socialis|ROTIFERA|OG0015713|CAF4487649.1|TUD-1/2        -          OG0015713_tudor_final -            4.4e-47  149.4   0.1   4.9e-47  149.3   0.1   1.0   1   0   0   1   1   1   1 -
+Didymodactylos_carnosus|ROTIFERA|OG0015713|CAF0774902.1|TUD-1/2 -          OG0015713_tudor_final -            2.4e-46  147.1   0.2   2.6e-46  146.9   0.2   1.0   1   0   0   1   1   1   1 -
+Didymodactylos_carnosus|ROTIFERA|OG0015713|CAF0938274.1|TUD-1/2 -          OG0015713_tudor_final -            9.1e-45  142.0   0.1     1e-44  141.8   0.1   1.0   1   0   0   1   1   1   1 -
+Rotaria_socialis|ROTIFERA|OG0015713|CAF4503098.1|TUD-1/2        -          OG0015713_tudor_final -            1.4e-41  131.7   0.8   1.6e-41  131.6   0.8   1.0   1   0   0   1   1   1   1 -
+Didymodactylos_carnosus|ROTIFERA|OG0015713|CAF0739596.1|TUD-1/2 -          OG0015713_tudor_final -            4.3e-41  130.1   0.2   4.7e-41  130.0   0.2   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|OG0015713|CAF1192436.1|TUD-2/2         -          OG0015713_tudor_final -            9.7e-41  129.0   0.0   1.1e-40  128.9   0.0   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|OG0015713|CAF1396588.1|TUD-2/2         -          OG0015713_tudor_final -            1.3e-40  128.6   0.0   1.4e-40  128.5   0.0   1.0   1   0   0   1   1   1   1 -
+Rotaria_socialis|ROTIFERA|OG0015713|CAF4783736.1|TUD-2/2        -          OG0015713_tudor_final -              2e-40  128.0   0.1   2.2e-40  127.9   0.1   1.0   1   0   0   1   1   1   1 -
+Didymodactylos_carnosus|ROTIFERA|OG0015713|CAF0774902.1|TUD-2/2 -          OG0015713_tudor_final -            3.4e-40  127.2   0.0   3.7e-40  127.1   0.0   1.0   1   0   0   1   1   1   1 -
+Rotaria_socialis|ROTIFERA|OG0015713|CAF4487649.1|TUD-2/2        -          OG0015713_tudor_final -            6.8e-40  126.3   0.1   7.5e-40  126.1   0.1   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|OG0015713|CAF1685721.1|TUD-1/1         -          OG0015713_tudor_final -            2.9e-36  114.6   0.2   3.2e-36  114.4   0.2   1.0   1   0   0   1   1   1   1 -
+Didymodactylos_carnosus|ROTIFERA|OG0015713|CAF0739596.1|TUD-2/2 -          OG0015713_tudor_final -              4e-36  114.1   0.1   4.3e-36  114.0   0.1   1.0   1   0   0   1   1   1   1 -
+Didymodactylos_carnosus|ROTIFERA|OG0015713|CAF0938274.1|TUD-2/2 -          OG0015713_tudor_final -            5.2e-29   91.2   0.1     4e-27   85.1   0.1   2.0   1   1   0   1   1   1   1 -
+Aphis_gossypii|ARTHROPODA|OG0015713|027838945.1|TUD-2/2         -          OG0015713_tudor_final -            2.7e-26   82.4   0.0     3e-26   82.3   0.0   1.0   1   0   0   1   1   1   1 -
+Rotaria_socialis|ROTIFERA|OG0015713|CAF4503098.1|TUD-2/2        -          OG0015713_tudor_final -            4.2e-22   68.9   0.5   4.5e-22   68.8   0.5   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|OG0015713|CAF0952888.1|TUD-1/1         -          OG0015713_tudor_final -            5.2e-22   68.6   0.3   5.5e-22   68.6   0.3   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|OG0015713|CAF1646115.1|TUD-1/1         -          OG0015713_tudor_final -            9.2e-22   67.8   0.2   9.7e-22   67.8   0.2   1.0   1   0   0   1   1   1   1 -
+Aphis_gossypii|ARTHROPODA|OG0015713|027838945.1|TUD-1/2         -          OG0015713_tudor_final -            4.8e-14   43.0   0.0   5.4e-14   42.8   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/OG0015713_tudor_final.hmm
+# Target file:     ../../OG0015713_tudor_final.fasta
+# Option settings: hmmsearch --tblout OG0015713_tudor_final.txt ../0.5/OG0015713_tudor_final.hmm ../../OG0015713_tudor_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:21 2022
+# [ok]

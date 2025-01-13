@@ -1,0 +1,76 @@
+#                                                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                                accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                        ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Acipenser_ruthenus|CHORDATA|TDRD3|033864272.1|TUD-1/1                        -          TDRD3_tudor_final    -              8e-32  101.2   0.1   8.5e-32  101.1   0.1   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|TDRD3|033867408.2|TUD-1/1                        -          TDRD3_tudor_final    -              8e-32  101.2   0.1   8.5e-32  101.1   0.1   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|TDRD3|032878206.1|TUD-1/1                         -          TDRD3_tudor_final    -            2.7e-31   99.5   0.0   2.9e-31   99.4   0.0   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|TDRD3|031751679.1|TUD-1/1                        -          TDRD3_tudor_final    -            3.6e-31   99.1   0.0   3.9e-31   99.0   0.0   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|TDRD3|015271260.1|TUD-1/1                           -          TDRD3_tudor_final    -            4.7e-31   98.8   0.1     5e-31   98.7   0.1   1.0   1   0   0   1   1   1   1 -
+Phoronis_australis|PHORONIDA|TDRD3|g1608.t1|TUD-1/1                          -          TDRD3_tudor_final    -            5.5e-31   98.5   1.8     6e-31   98.4   1.8   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|TDRD3|005266613.1|TUD-1/1                              -          TDRD3_tudor_final    -            8.7e-31   97.9   0.1   9.3e-31   97.8   0.1   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|TDRD3|005169468.1|TUD-1/1                               -          TDRD3_tudor_final    -            9.5e-31   97.8   0.0     1e-30   97.7   0.0   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|TDRD3|001025993.1|TUD-1/1                             -          TDRD3_tudor_final    -            1.7e-30   97.0   0.0   1.8e-30   96.9   0.0   1.0   1   0   0   1   1   1   1 -
+Octopus_bimaculoides|MOLLUSCA|TDRD3|014770768.1|TUD-1/1                      -          TDRD3_tudor_final    -            2.3e-30   96.6   0.3   2.4e-30   96.5   0.3   1.0   1   0   0   1   1   1   1 -
+Strongylocentrotus_purpuratus|ECHINODERMATA|TDRD3|030836450.1|TUD-1/1        -          TDRD3_tudor_final    -            2.3e-30   96.5   0.2   2.5e-30   96.4   0.2   1.0   1   0   0   1   1   1   1 -
+Crassostrea_gigas|MOLLUSCA|TDRD3|011432003.2|TUD-1/1                         -          TDRD3_tudor_final    -            3.1e-30   96.1   0.1   3.4e-30   96.0   0.1   1.0   1   0   0   1   1   1   1 -
+Saccoglossus_kowalevskii|HEMICHORDATA|TDRD3|006818801.1|TUD-1/1              -          TDRD3_tudor_final    -            7.4e-30   94.9   0.2   7.8e-30   94.8   0.2   1.0   1   0   0   1   1   1   1 -
+Petromyzon_marinus|CHORDATA|TDRD3|032832930.1|TUD-1/1                        -          TDRD3_tudor_final    -            1.2e-29   94.3   0.1   1.2e-29   94.2   0.1   1.0   1   0   0   1   1   1   1 -
+Branchiostoma_floridae|CHORDATA|TDRD3|035681505.1|TUD-1/1                    -          TDRD3_tudor_final    -            1.6e-29   93.8   0.1   1.7e-29   93.8   0.1   1.0   1   0   0   1   1   1   1 -
+Capitella_teleta|ANNELIDA|TDRD3|ELU08898.1|TUD-1/1                           -          TDRD3_tudor_final    -              2e-29   93.5   0.3   2.1e-29   93.5   0.3   1.0   1   0   0   1   1   1   1 -
+Ciona_intestinalis|CHORDATA|TDRD3|018670423.1|TUD-1/1                        -          TDRD3_tudor_final    -            2.2e-29   93.4   0.5   2.3e-29   93.3   0.5   1.0   1   0   0   1   1   1   1 -
+Priapulus_caudatus|PRIAPULIDA|TDRD3|014677364.1|TUD-1/1                      -          TDRD3_tudor_final    -            2.4e-29   93.3   0.1   2.5e-29   93.2   0.1   1.0   1   0   0   1   1   1   1 -
+Centruroides_sculpturatus|ARTHROPODA|TDRD3|023238930.1|TUD-1/1               -          TDRD3_tudor_final    -            6.5e-29   91.9   0.2   6.7e-29   91.9   0.2   1.0   1   0   0   1   1   1   1 -
+Cryptotermes_secundus|ARTHROPODA|TDRD3|023711358.1|TUD-1/1                   -          TDRD3_tudor_final    -            6.5e-29   91.9   2.7   6.8e-29   91.8   2.7   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|TDRD3|029836264.1|TUD-1/1                       -          TDRD3_tudor_final    -            1.2e-28   91.1   0.5   1.2e-28   91.0   0.5   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|TDRD3|029836733.1|TUD-1/1                       -          TDRD3_tudor_final    -            1.2e-28   91.1   0.5   1.2e-28   91.0   0.5   1.0   1   0   0   1   1   1   1 -
+Aplysia_californica|MOLLUSCA|TDRD3|035827003.1|TUD-1/1                       -          TDRD3_tudor_final    -            1.8e-28   90.5   0.2   1.9e-28   90.4   0.2   1.0   1   0   0   1   1   1   1 -
+Notospermus_geniculatus|NEMERTEA|TDRD3|g14057.t1|TUD-1/1                     -          TDRD3_tudor_final    -            4.1e-28   89.3   0.1   4.4e-28   89.2   0.1   1.0   1   0   0   1   1   1   1 -
+Mizuhopecten_yessoensis|MOLLUSCA|TDRD3|021363049.1|TUD-1/1                   -          TDRD3_tudor_final    -            6.6e-28   88.7   0.0     7e-28   88.6   0.0   1.0   1   0   0   1   1   1   1 -
+Asterias_rubens|ECHINODERMATA|TDRD3|033631638.1|TUD-1/1                      -          TDRD3_tudor_final    -            9.7e-28   88.1   0.0     1e-27   88.1   0.0   1.0   1   0   0   1   1   1   1 -
+Pomacea_canaliculata|MOLLUSCA|TDRD3|025088490.1|TUD-1/1                      -          TDRD3_tudor_final    -            4.9e-27   85.9   0.0   5.2e-27   85.8   0.0   1.0   1   0   0   1   1   1   1 -
+Styela_clava|CHORDATA|TDRD3|039254631.1|TUD-1/1                              -          TDRD3_tudor_final    -            7.3e-27   85.3   0.1   7.7e-27   85.2   0.1   1.0   1   0   0   1   1   1   1 -
+Parasteatoda_tepidariorum|ARTHROPODA|TDRD3|021004088.1|TUD-1/1               -          TDRD3_tudor_final    -            9.7e-27   84.9   0.4     1e-26   84.9   0.4   1.0   1   0   0   1   1   1   1 -
+Apis_mellifera|ARTHROPODA|TDRD3|001120674.3|TUD-1/1                          -          TDRD3_tudor_final    -              1e-26   84.9   1.3   1.1e-26   84.8   1.3   1.0   1   0   0   1   1   1   1 -
+Varroa_destructor|ARTHROPODA|TDRD3|022665558.1|TUD-1/1                       -          TDRD3_tudor_final    -            1.1e-26   84.8   0.7   1.1e-26   84.7   0.7   1.0   1   0   0   1   1   1   1 -
+Drosophila_melanogaster|ARTHROPODA|TDRD3|648724.1|TUD-1/1                    -          TDRD3_tudor_final    -            1.3e-26   84.6   0.3   1.3e-26   84.5   0.3   1.0   1   0   0   1   1   1   1 -
+Dimorphilus_gyrociliatus|ANNELIDA|TDRD3|CAD5117972.1|TUD-1/1                 -          TDRD3_tudor_final    -            1.5e-26   84.4   0.7   1.6e-26   84.3   0.7   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|TDRD3|026481609.1|TUD-1/1                   -          TDRD3_tudor_final    -            4.4e-26   82.8   0.3   4.6e-26   82.8   0.3   1.0   1   0   0   1   1   1   1 -
+Anneissia_japonica|ECHINODERMATA|TDRD3|033127515.1|TUD-1/1                   -          TDRD3_tudor_final    -            3.5e-25   79.9   0.3   3.7e-25   79.8   0.3   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|TDRD3|013378844.1|TUD-1/1                        -          TDRD3_tudor_final    -            5.2e-25   79.4   1.1   5.4e-25   79.3   1.1   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|TDRD3|013399608.1|TUD-1/1                        -          TDRD3_tudor_final    -            5.2e-25   79.4   1.1   5.4e-25   79.3   1.1   1.0   1   0   0   1   1   1   1 -
+Owenia_fusiformis|ANNELIDA|TDRD3|CAC9542181.1|TUD-1/1                        -          TDRD3_tudor_final    -            1.4e-24   78.1   0.1   1.4e-24   78.0   0.1   1.0   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|TDRD3|022788841.1|TUD-1/1                     -          TDRD3_tudor_final    -            2.1e-24   77.4   0.0   2.2e-24   77.4   0.0   1.0   1   0   0   1   1   1   1 -
+Lepeophtheirus_salmonis|ARTHROPODA|TDRD3|040567345.1|TUD-1/1                 -          TDRD3_tudor_final    -            2.5e-24   77.2   0.1   2.9e-24   77.0   0.1   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|TDRD3|020619834.1|TUD-1/1                       -          TDRD3_tudor_final    -            6.4e-24   75.9   0.0   7.3e-24   75.7   0.0   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|TDRD3|020619840.1|TUD-1/1                       -          TDRD3_tudor_final    -            6.4e-24   75.9   0.0   7.3e-24   75.7   0.0   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|TDRD3|027059874.1|TUD-1/1                    -          TDRD3_tudor_final    -            7.7e-24   75.6   0.0   8.1e-24   75.6   0.0   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|TDRD3|CAB3365397.1|TUD-1/1                        -          TDRD3_tudor_final    -              1e-23   75.2   0.8   1.1e-23   75.2   0.8   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|TDRD3|CAF1129478.1|TUD-1/1                          -          TDRD3_tudor_final    -            4.3e-23   73.3   0.6   4.8e-23   73.1   0.6   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|TDRD3|031554539.1|TUD-1/1                         -          TDRD3_tudor_final    -            4.4e-23   73.2   0.0   4.6e-23   73.1   0.0   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|TDRD3|CAF1128880.1|TUD-1/1                          -          TDRD3_tudor_final    -            4.7e-23   73.1   1.3   5.2e-23   73.0   1.3   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|TDRD3|001622297.2|TUD-1/1                    -          TDRD3_tudor_final    -            1.2e-22   71.8   0.0   1.3e-22   71.7   0.0   1.0   1   0   0   1   1   1   1 -
+Sitophilus_oryzae|ARTHROPODA|TDRD3|030745527.1|TUD-1/1                       -          TDRD3_tudor_final    -            1.5e-22   71.5   0.1   1.6e-22   71.4   0.1   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|TDRD3|028406067.1|TUD-1/1                   -          TDRD3_tudor_final    -            3.9e-22   70.2   0.1   4.1e-22   70.1   0.1   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|TDRD3|020911712.2|TUD-1/1                       -          TDRD3_tudor_final    -              4e-22   70.1   0.0   4.6e-22   70.0   0.0   1.0   1   0   0   1   1   1   1 -
+Rotaria_socialis|ROTIFERA|TDRD3|CAF4523314.1|TUD-1/1                         -          TDRD3_tudor_final    -            2.3e-21   67.7   1.0   2.4e-21   67.6   1.0   1.0   1   0   0   1   1   1   1 -
+Loa_loa|NEMATODA|TDRD3|003142453.1|TUD-1/1                                   -          TDRD3_tudor_final    -            1.6e-20   65.1   0.0   1.7e-20   65.0   0.0   1.0   1   0   0   1   1   1   1 -
+Bugula_neritina|BRIOZOA|TDRD3|KAF6017392.1|TUD-1/1                           -          TDRD3_tudor_final    -            1.8e-20   64.9   0.1   1.9e-20   64.8   0.1   1.0   1   0   0   1   1   1   1 -
+Plectus_sambesii|NEMATODA|TDRD3|PSAMB.scaffold6209size9959.g28143.t1|TUD-1/1 -          TDRD3_tudor_final    -            4.1e-20   63.7   0.0   4.2e-20   63.7   0.0   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|TDRD3|PAA51622.1|TUD-1/1                 -          TDRD3_tudor_final    -            4.4e-20   63.6   0.2   4.7e-20   63.5   0.2   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|TDRD3|PAA51629.1|TUD-1/1                 -          TDRD3_tudor_final    -            4.4e-20   63.6   0.2   4.7e-20   63.5   0.2   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|TDRD3|PAA90568.1|TUD-1/1                 -          TDRD3_tudor_final    -            4.4e-20   63.6   0.2   4.7e-20   63.5   0.2   1.0   1   0   0   1   1   1   1 -
+Aphelenchus_avenae|NEMATODA|TDRD3|KAH7730023.1|TUD-1/1                       -          TDRD3_tudor_final    -            1.3e-19   62.1   0.0   1.5e-19   61.9   0.0   1.0   1   0   0   1   1   1   1 -
+Caenorhabditis_elegans|NEMATODA|TDRD3|503358.1|TUD-1/1                       -          TDRD3_tudor_final    -              4e-19   60.5   0.0   4.2e-19   60.5   0.0   1.0   1   0   0   1   1   1   1 -
+Daphnia_magna|ARTHROPODA|TDRD3|032779076.1|TUD-1/1                           -          TDRD3_tudor_final    -            4.2e-19   60.5   0.0   4.4e-19   60.4   0.0   1.0   1   0   0   1   1   1   1 -
+Helobdella_robusta|ANNELIDA|TDRD3|009018607.1|TUD-1/1                        -          TDRD3_tudor_final    -            3.6e-17   54.3   0.1   3.8e-17   54.2   0.1   1.0   1   0   0   1   1   1   1 -
+Salpingoeca_rosetta|CHOANOFALGELLATA|TDRD3|004996884.1|TUD-1/1               -          TDRD3_tudor_final    -            1.4e-16   52.4   0.1   1.4e-16   52.4   0.1   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/TDRD3_tudor_final.hmm
+# Target file:     ../../TDRD3_tudor_final.fasta
+# Option settings: hmmsearch --tblout TDRD3_tudor_final.txt ../0.5/TDRD3_tudor_final.hmm ../../TDRD3_tudor_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:23 2022
+# [ok]

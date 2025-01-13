@@ -1,0 +1,142 @@
+#                                                                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                                     accession  query name            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                             ------------------- ----------  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Acipenser_ruthenus|CHORDATA|ARID4A-4B|033859451.2|TUD-2/2                         -          ARID4A-4B_tudor_final -            1.1e-34  111.7   0.0   1.1e-34  111.6   0.0   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|ARID4A-4B|003641034.3|TUD-2/2                              -          ARID4A-4B_tudor_final -            1.3e-34  111.4   0.0   1.4e-34  111.3   0.0   1.0   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|ARID4A-4B|022792789.1|TUD-2/2                      -          ARID4A-4B_tudor_final -            2.6e-34  110.4   0.0   2.8e-34  110.3   0.0   1.0   1   0   0   1   1   1   1 -
+Pomacea_canaliculata|MOLLUSCA|ARID4A-4B|025104604.1|TUD-2/2                       -          ARID4A-4B_tudor_final -            3.4e-34  110.0   0.1   3.7e-34  109.9   0.1   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|ARID4A-4B|015142993.1|TUD-2/2                              -          ARID4A-4B_tudor_final -            5.1e-34  109.5   0.0   5.5e-34  109.4   0.0   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|ARID4A-4B|001193723.1|TUD-2/2                               -          ARID4A-4B_tudor_final -            5.1e-34  109.5   0.0   5.5e-34  109.4   0.0   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|ARID4A-4B|033873391.2|TUD-2/2                         -          ARID4A-4B_tudor_final -            6.1e-34  109.2   0.0   6.6e-34  109.1   0.0   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|ARID4A-4B|020607111.1|TUD-2/2                        -          ARID4A-4B_tudor_final -              7e-34  109.0   0.1   7.7e-34  108.9   0.1   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|ARID4A-4B|015280453.1|TUD-2/2                            -          ARID4A-4B_tudor_final -            8.2e-34  108.8   0.0   8.9e-34  108.7   0.0   1.0   1   0   0   1   1   1   1 -
+Crassostrea_gigas|MOLLUSCA|ARID4A-4B|011447626.2|TUD-2/2                          -          ARID4A-4B_tudor_final -              1e-33  108.6   0.1   1.1e-33  108.4   0.1   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|ARID4A-4B|027044434.1|TUD-2/2                     -          ARID4A-4B_tudor_final -            1.1e-33  108.4   0.0   1.2e-33  108.3   0.0   1.0   1   0   0   1   1   1   1 -
+Daphnia_magna|ARTHROPODA|ARID4A-4B|032792477.1|TUD-2/2                            -          ARID4A-4B_tudor_final -            1.2e-33  108.3   0.1   1.3e-33  108.1   0.1   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|ARID4A-4B|004914677.2|TUD-2/2                         -          ARID4A-4B_tudor_final -            1.6e-33  107.9   0.0   1.8e-33  107.8   0.0   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|ARID4A-4B|032877670.1|TUD-2/2                          -          ARID4A-4B_tudor_final -            1.7e-33  107.8   0.0   1.8e-33  107.7   0.0   1.0   1   0   0   1   1   1   1 -
+Folsomia_candida|ARTHROPODA|ARID4A-4B|021947171.1|TUD-2/2                         -          ARID4A-4B_tudor_final -            1.9e-33  107.7   0.0     2e-33  107.6   0.0   1.0   1   0   0   1   1   1   1 -
+Petromyzon_marinus|CHORDATA|ARID4A-4B|032804285.1|TUD-2/2                         -          ARID4A-4B_tudor_final -            2.1e-33  107.5   0.1   2.3e-33  107.4   0.1   1.0   1   0   0   1   1   1   1 -
+Aplysia_californica|MOLLUSCA|ARID4A-4B|012937176.1|TUD-2/2                        -          ARID4A-4B_tudor_final -            3.5e-33  106.8   0.0   3.7e-33  106.7   0.0   1.0   1   0   0   1   1   1   1 -
+Parasteatoda_tepidariorum|ARTHROPODA|ARID4A-4B|021000453.1|TUD-2/2                -          ARID4A-4B_tudor_final -              5e-33  106.3   0.0   5.5e-33  106.2   0.0   1.0   1   0   0   1   1   1   1 -
+Biomphalaria_glabrata|MOLLUSCA|ARID4A-4B|013080544.1|TUD-2/2                      -          ARID4A-4B_tudor_final -            5.9e-33  106.1   0.2   6.4e-33  106.0   0.2   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|ARID4A-4B|012824464.2|TUD-2/2                         -          ARID4A-4B_tudor_final -            1.1e-32  105.2   0.0   1.2e-32  105.1   0.0   1.0   1   0   0   1   1   1   1 -
+Apis_mellifera|ARTHROPODA|ARID4A-4B|006564269.1|TUD-2/2                           -          ARID4A-4B_tudor_final -            1.2e-32  105.2   0.3   1.3e-32  105.0   0.3   1.0   1   0   0   1   1   1   1 -
+Branchiostoma_floridae|CHORDATA|ARID4A-4B|035671737.1|TUD-2/2                     -          ARID4A-4B_tudor_final -            1.2e-32  105.1   0.1   1.3e-32  105.0   0.1   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|ARID4A-4B|005158686.1|TUD-2/2                                -          ARID4A-4B_tudor_final -            1.3e-32  105.0   0.0   1.4e-32  104.9   0.0   1.0   1   0   0   1   1   1   1 -
+Anneissia_japonica|ECHINODERMATA|ARID4A-4B|033109200.1|TUD-2/2                    -          ARID4A-4B_tudor_final -            1.3e-32  105.0   0.0   1.4e-32  104.9   0.0   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|ARID4A-4B|016877049.1|TUD-2/2                               -          ARID4A-4B_tudor_final -            1.5e-32  104.8   0.0   1.6e-32  104.7   0.0   1.0   1   0   0   1   1   1   1 -
+Cryptotermes_secundus|ARTHROPODA|ARID4A-4B|023711715.1|TUD-2/2                    -          ARID4A-4B_tudor_final -            1.6e-32  104.7   0.2   1.7e-32  104.6   0.2   1.0   1   0   0   1   1   1   1 -
+Drosophila_melanogaster|ARTHROPODA|ARID4A-4B|573330.3|TUD-2/2                     -          ARID4A-4B_tudor_final -            1.9e-32  104.5   0.1     2e-32  104.4   0.1   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|ARID4A-4B|015275465.1|TUD-2/2                            -          ARID4A-4B_tudor_final -            2.5e-32  104.1   0.0   2.7e-32  104.0   0.0   1.0   1   0   0   1   1   1   1 -
+Lottia_gigantea|MOLLUSCA|ARID4A-4B|009055695.1|TUD-2/2                            -          ARID4A-4B_tudor_final -              3e-32  103.8   0.2   3.2e-32  103.7   0.2   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|ARID4A-4B|031561010.1|TUD-2/2                          -          ARID4A-4B_tudor_final -            3.4e-32  103.7   0.1   3.7e-32  103.5   0.1   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|ARID4A-4B|001630181.2|TUD-2/2                     -          ARID4A-4B_tudor_final -            3.5e-32  103.6   0.4   3.8e-32  103.5   0.4   1.0   1   0   0   1   1   1   1 -
+Penaeus_vannamei|ARTHROPODA|ARID4A-4B|027236057.1|TUD-2/2                         -          ARID4A-4B_tudor_final -            4.6e-32  103.2   0.2     5e-32  103.1   0.2   1.0   1   0   0   1   1   1   1 -
+Morbakka_virulenta|CNIDARIA|ARID4A-4B|scaffold258.g30.t2|TUD-2/2                  -          ARID4A-4B_tudor_final -            4.7e-32  103.2   0.1   5.1e-32  103.1   0.1   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|ARID4A-4B|005173089.1|TUD-2/2                                -          ARID4A-4B_tudor_final -            5.1e-32  103.1   0.1   5.5e-32  103.0   0.1   1.0   1   0   0   1   1   1   1 -
+Saccoglossus_kowalevskii|HEMICHORDATA|ARID4A-4B|006811260.1|TUD-2/2               -          ARID4A-4B_tudor_final -            5.4e-32  103.0   0.0   5.8e-32  102.9   0.0   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|ARID4A-4B|032883085.1|TUD-2/2                          -          ARID4A-4B_tudor_final -            5.6e-32  102.9   0.0   6.1e-32  102.8   0.0   1.0   1   0   0   1   1   1   1 -
+Sitophilus_oryzae|ARTHROPODA|ARID4A-4B|030762644.1|TUD-2/2                        -          ARID4A-4B_tudor_final -            6.3e-32  102.8   0.3   6.9e-32  102.7   0.3   1.0   1   0   0   1   1   1   1 -
+Priapulus_caudatus|PRIAPULIDA|ARID4A-4B|014673418.1|TUD-2/2                       -          ARID4A-4B_tudor_final -            9.6e-32  102.2   0.1     1e-31  102.1   0.1   1.0   1   0   0   1   1   1   1 -
+Varroa_destructor|ARTHROPODA|ARID4A-4B|022653900.1|TUD-2/2                        -          ARID4A-4B_tudor_final -            1.6e-31  101.5   0.0   1.7e-31  101.4   0.0   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|ARID4A-4B|029823387.1|TUD-2/2                        -          ARID4A-4B_tudor_final -              2e-31  101.2   0.1   2.2e-31  101.1   0.1   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|ARID4A-4B|029844548.1|TUD-2/2                        -          ARID4A-4B_tudor_final -              2e-31  101.2   0.1   2.2e-31  101.1   0.1   1.0   1   0   0   1   1   1   1 -
+Phoronis_australis|PHORONIDA|ARID4A-4B|g13071.t1|TUD-2/2                          -          ARID4A-4B_tudor_final -              2e-31  101.2   0.0   2.2e-31  101.0   0.0   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|ARID4A-4B|026478135.1|TUD-2/2                    -          ARID4A-4B_tudor_final -            2.4e-31  100.9   0.0   2.6e-31  100.8   0.0   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|ARID4A-4B|026479195.1|TUD-1/1                    -          ARID4A-4B_tudor_final -            2.4e-31  100.9   0.0   2.6e-31  100.8   0.0   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|ARID4A-4B|013404516.1|TUD-2/2                         -          ARID4A-4B_tudor_final -            3.1e-31  100.6   0.0   3.3e-31  100.5   0.0   1.0   1   0   0   1   1   1   1 -
+Tetranychus_urticae|ARTHROPODA|ARID4A-4B|015790200.1|TUD-2/2                      -          ARID4A-4B_tudor_final -            3.1e-31  100.6   0.0   3.3e-31  100.5   0.0   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|ARID4A-4B|034761386.1|TUD-2/2                         -          ARID4A-4B_tudor_final -            3.1e-31  100.6   0.0   3.3e-31  100.5   0.0   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|ARID4A-4B|034783471.1|TUD-2/2                         -          ARID4A-4B_tudor_final -            3.1e-31  100.6   0.0   3.3e-31  100.5   0.0   1.0   1   0   0   1   1   1   1 -
+Centruroides_sculpturatus|ARTHROPODA|ARID4A-4B|023209385.1|TUD-2/3                -          ARID4A-4B_tudor_final -            3.2e-31  100.5   0.0   3.4e-31  100.4   0.0   1.0   1   0   0   1   1   1   1 -
+Apostichopus_japonicus|ECHINODERMATA|ARID4A-4B|PIK48922.1|TUD-2/2                 -          ARID4A-4B_tudor_final -            3.2e-31  100.5   0.0   3.5e-31  100.4   0.0   1.0   1   0   0   1   1   1   1 -
+Apostichopus_japonicus|ECHINODERMATA|ARID4A-4B|PIK58765.1|TUD-2/2                 -          ARID4A-4B_tudor_final -            3.2e-31  100.5   0.0   3.5e-31  100.4   0.0   1.0   1   0   0   1   1   1   1 -
+Asterias_rubens|ECHINODERMATA|ARID4A-4B|033624454.1|TUD-2/2                       -          ARID4A-4B_tudor_final -            3.3e-31  100.5   0.0   3.6e-31  100.4   0.0   1.0   1   0   0   1   1   1   1 -
+Mizuhopecten_yessoensis|MOLLUSCA|ARID4A-4B|021378482.1|TUD-2/2                    -          ARID4A-4B_tudor_final -            8.9e-31   99.1   0.1   9.6e-31   99.0   0.1   1.0   1   0   0   1   1   1   1 -
+Hyalella_azteca|ARTHROPODA|ARID4A-4B|018011451.1|TUD-2/2                          -          ARID4A-4B_tudor_final -            1.6e-30   98.3   0.0   1.8e-30   98.1   0.0   1.0   1   0   0   1   1   1   1 -
+Octopus_bimaculoides|MOLLUSCA|ARID4A-4B|014777621.1|TUD-2/2                       -          ARID4A-4B_tudor_final -            2.1e-30   97.9   0.0   2.3e-30   97.8   0.0   1.0   1   0   0   1   1   1   1 -
+Ptychodera_flava|HEMICHORDATA|ARID4A-4B|1g20418.t1|TUD-1/1                        -          ARID4A-4B_tudor_final -            2.8e-30   97.5   0.0     3e-30   97.4   0.0   1.0   1   0   0   1   1   1   1 -
+Notospermus_geniculatus|NEMERTEA|ARID4A-4B|g11530.t1|TUD-2/2                      -          ARID4A-4B_tudor_final -            4.2e-30   96.9   0.5   4.5e-30   96.8   0.5   1.0   1   0   0   1   1   1   1 -
+Notospermus_geniculatus|NEMERTEA|ARID4A-4B|g11532.t1|TUD-2/2                      -          ARID4A-4B_tudor_final -            4.2e-30   96.9   0.5   4.5e-30   96.8   0.5   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|ARID4A-4B|028396006.1|TUD-2/2                    -          ARID4A-4B_tudor_final -            4.3e-30   96.9   0.4   4.6e-30   96.8   0.4   1.0   1   0   0   1   1   1   1 -
+Eurytemora_affinis|ARTHROPODA|ARID4A-4B|023330812.1|TUD-2/2                       -          ARID4A-4B_tudor_final -            5.2e-30   96.7   0.0   5.6e-30   96.5   0.0   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|ARID4A-4B|020892614.1|TUD-2/2                        -          ARID4A-4B_tudor_final -            5.5e-30   96.6   0.1     6e-30   96.4   0.1   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|ARID4A-4B|013777199.2|TUD-2/3                       -          ARID4A-4B_tudor_final -            1.3e-29   95.4   0.1   1.4e-29   95.3   0.1   1.0   1   0   0   1   1   1   1 -
+Aphis_gossypii|ARTHROPODA|ARID4A-4B|027847638.1|TUD-2/2                           -          ARID4A-4B_tudor_final -            1.3e-29   95.4   0.4   1.4e-29   95.3   0.4   1.0   1   0   0   1   1   1   1 -
+Lepeophtheirus_salmonis|ARTHROPODA|ARID4A-4B|040569604.1|TUD-2/2                  -          ARID4A-4B_tudor_final -            1.8e-29   94.9   0.1     2e-29   94.8   0.1   1.0   1   0   0   1   1   1   1 -
+Amphimedon_queenslandica|PORIFERA|ARID4A-4B|011402461.2|TUD-2/2                   -          ARID4A-4B_tudor_final -            3.6e-29   94.0   0.1   3.9e-29   93.8   0.1   1.0   1   0   0   1   1   1   1 -
+Strongylocentrotus_purpuratus|ECHINODERMATA|ARID4A-4B|030854176.1|TUD-2/2         -          ARID4A-4B_tudor_final -            1.4e-28   92.0   0.0   1.6e-28   91.9   0.0   1.0   1   0   0   1   1   1   1 -
+Strongylocentrotus_purpuratus|ECHINODERMATA|ARID4A-4B|030854206.1|TUD-2/2         -          ARID4A-4B_tudor_final -            1.4e-28   92.0   0.0   1.6e-28   91.9   0.0   1.0   1   0   0   1   1   1   1 -
+Bugula_neritina|BRIOZOA|ARID4A-4B|KAF6017436.1|TUD-2/2                            -          ARID4A-4B_tudor_final -            1.6e-28   91.9   0.1   1.8e-28   91.7   0.1   1.0   1   0   0   1   1   1   1 -
+Bugula_neritina|BRIOZOA|ARID4A-4B|KAF6036835.1|TUD-2/2                            -          ARID4A-4B_tudor_final -            1.6e-28   91.9   0.1   1.8e-28   91.7   0.1   1.0   1   0   0   1   1   1   1 -
+Dimorphilus_gyrociliatus|ANNELIDA|ARID4A-4B|CAD5119870.1|TUD-2/2                  -          ARID4A-4B_tudor_final -            2.9e-28   91.1   0.2   3.1e-28   91.0   0.2   1.0   1   0   0   1   1   1   1 -
+Necator_americanus|NEMATODA|ARID4A-4B|013309332.1|TUD-2/2                         -          ARID4A-4B_tudor_final -            1.1e-27   89.2   0.6   1.2e-27   89.1   0.6   1.0   1   0   0   1   1   1   1 -
+Hydra_vulgaris|CNIDARIA|ARID4A-4B|002166884.1|TUD-2/2                             -          ARID4A-4B_tudor_final -            1.1e-27   89.2   0.1   1.2e-27   89.1   0.1   1.0   1   0   0   1   1   1   1 -
+Ciona_intestinalis|CHORDATA|ARID4A-4B|001072026.1|TUD-2/2                         -          ARID4A-4B_tudor_final -            3.5e-27   87.6   0.0   3.8e-27   87.5   0.0   1.0   1   0   0   1   1   1   1 -
+Mnemiopsis_leidyi|CTENOPHORA|ARID4A-4B|ML01813a|TUD-2/2                           -          ARID4A-4B_tudor_final -            6.6e-27   86.7   0.2   7.1e-27   86.6   0.2   1.0   1   0   0   1   1   1   1 -
+Aphelenchus_avenae|NEMATODA|ARID4A-4B|KAH7732294.1|TUD-2/2                        -          ARID4A-4B_tudor_final -            8.8e-27   86.3   0.8   9.6e-27   86.2   0.8   1.0   1   0   0   1   1   1   1 -
+Trichoplax_adhaerens|PLACOZOA|ARID4A-4B|002113149.1|TUD-2/2                       -          ARID4A-4B_tudor_final -              9e-27   86.3   0.0   9.8e-27   86.2   0.0   1.0   1   0   0   1   1   1   1 -
+Trichoplax_spH2|PLACOZOA|ARID4A-4B|RDD44936.1|TUD-2/2                             -          ARID4A-4B_tudor_final -              9e-27   86.3   0.0   9.8e-27   86.2   0.0   1.0   1   0   0   1   1   1   1 -
+Styela_clava|CHORDATA|ARID4A-4B|039259937.1|TUD-2/2                               -          ARID4A-4B_tudor_final -            9.5e-27   86.2   0.0     1e-26   86.1   0.0   1.0   1   0   0   1   1   1   1 -
+Echinococcus_granulosus|PLATYHELMINTHES|ARID4A-4B|024349757.1|TUD-2/2             -          ARID4A-4B_tudor_final -            1.1e-26   86.1   0.0   1.3e-26   85.8   0.0   1.1   1   0   0   1   1   1   1 -
+Folsomia_candida|ARTHROPODA|ARID4A-4B|021944050.1|TUD-2/2                         -          ARID4A-4B_tudor_final -            1.3e-26   85.7   0.3   1.4e-26   85.6   0.3   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|ARID4A-4B|PAA75467.1|TUD-2/2                  -          ARID4A-4B_tudor_final -            4.4e-26   84.1   0.2   4.8e-26   84.0   0.2   1.0   1   0   0   1   1   1   1 -
+Plectus_sambesii|NEMATODA|ARID4A-4B|PSAMB.scaffold6595size9166.g28762.t2|TUD-2/2  -          ARID4A-4B_tudor_final -            4.8e-26   83.9   0.1   5.2e-26   83.8   0.1   1.0   1   0   0   1   1   1   1 -
+Dermatophagoides_pteronyssinus|ARTHROPODA|ARID4A-4B|027199760.1|TUD-2/2           -          ARID4A-4B_tudor_final -            5.5e-26   83.8   0.0   6.2e-26   83.6   0.0   1.0   1   0   0   1   1   1   1 -
+Loa_loa|NEMATODA|ARID4A-4B|003145992.1|TUD-1/1                                    -          ARID4A-4B_tudor_final -            6.7e-26   83.5   0.9   7.3e-26   83.4   0.9   1.0   1   0   0   1   1   1   1 -
+Protopolystoma_xenopodis|PLATYHELMINTHES|ARID4A-4B|VEL27231.1|TUD-2/2             -          ARID4A-4B_tudor_final -            7.1e-26   83.4   0.0   7.7e-26   83.3   0.0   1.0   1   0   0   1   1   1   1 -
+Protopolystoma_xenopodis|PLATYHELMINTHES|ARID4A-4B|VEL28710.1|TUD-2/2             -          ARID4A-4B_tudor_final -            7.1e-26   83.4   0.0   7.7e-26   83.3   0.0   1.0   1   0   0   1   1   1   1 -
+Plectus_sambesii|NEMATODA|ARID4A-4B|PSAMB.scaffold3886size16527.g22818.t1|TUD-2/2 -          ARID4A-4B_tudor_final -            7.7e-26   83.3   0.1   8.4e-26   83.2   0.1   1.0   1   0   0   1   1   1   1 -
+Clytia_hemisphaerica|CNIDARIA|ARID4A-4B|CLYHEMP015218.1|TUD-2/2                   -          ARID4A-4B_tudor_final -            7.8e-26   83.3   0.2   8.4e-26   83.2   0.2   1.0   1   0   0   1   1   1   1 -
+Brugia_malayi|NEMATODA|ARID4A-4B|001902632.1|TUD-2/2                              -          ARID4A-4B_tudor_final -            9.5e-26   83.0   0.6     1e-25   82.9   0.6   1.0   1   0   0   1   1   1   1 -
+Hormiphora_californiensis|CTENOPHORA|ARID4A-4B|Hcv1.1.c12.g277.i1|TUD-2/2         -          ARID4A-4B_tudor_final -            2.6e-25   81.6   0.0   2.8e-25   81.5   0.0   1.0   1   0   0   1   1   1   1 -
+Folsomia_candida|ARTHROPODA|ARID4A-4B|021950598.1|TUD-2/2                         -          ARID4A-4B_tudor_final -            4.6e-25   80.8   0.3   4.9e-25   80.7   0.3   1.0   1   0   0   1   1   1   1 -
+Bursaphelenchus_okinawaensis|NEMATODA|ARID4A-4B|CAG9107277.1|TUD-2/2              -          ARID4A-4B_tudor_final -            6.3e-25   80.4   0.1   6.8e-25   80.3   0.1   1.0   1   0   0   1   1   1   1 -
+Schistosoma_mansoni|PLATYHELMINTHES|ARID4A-4B|018644114.1|TUD-2/2                 -          ARID4A-4B_tudor_final -            3.3e-24   78.1   0.1   3.8e-24   77.9   0.1   1.1   1   0   0   1   1   1   1 -
+Chromosphaera_perkinsii|ICHTHYOSPOREA|ARID4A-4B|evm3s228|TUD-2/2                  -          ARID4A-4B_tudor_final -            4.9e-24   77.5   0.1   5.2e-24   77.4   0.1   1.0   1   0   0   1   1   1   1 -
+Schmidtea_mediterranea|PLATYHELMINTHES|ARID4A-4B|SMEST047168002.1|TUD-2/2         -          ARID4A-4B_tudor_final -            9.2e-24   76.7   0.1     1e-23   76.5   0.1   1.0   1   0   0   1   1   1   1 -
+Caenorhabditis_elegans|NEMATODA|ARID4A-4B|001300004.1|TUD-2/2                     -          ARID4A-4B_tudor_final -            3.7e-23   74.7   0.6     4e-23   74.6   0.6   1.1   1   0   0   1   1   1   1 -
+Dibothriocephalus_latus|PLATYHELMINTHES|ARID4A-4B|VDN17591.1|TUD-1/1              -          ARID4A-4B_tudor_final -            1.5e-22   72.8   0.0   1.6e-22   72.7   0.0   1.0   1   0   0   1   1   1   1 -
+Intoshia_linei|MESOZOA|ARID4A-4B|OAF65492.1|TUD-2/2                               -          ARID4A-4B_tudor_final -            1.7e-22   72.6   0.1   1.9e-22   72.4   0.1   1.0   1   0   0   1   1   1   1 -
+Corallochytrium_limacisporum|INCERTAE_SEDIS|ARID4A-4B|evm6s15|TUD-2/2             -          ARID4A-4B_tudor_final -            6.2e-22   70.8   0.0   6.7e-22   70.7   0.0   1.0   1   0   0   1   1   1   1 -
+Strongyloides_ratti|NEMATODA|ARID4A-4B|024506161.1|TUD-2/2                        -          ARID4A-4B_tudor_final -            7.6e-22   70.5   0.2   8.2e-22   70.4   0.2   1.0   1   0   0   1   1   1   1 -
+Aphis_gossypii|ARTHROPODA|ARID4A-4B|027846728.1|TUD-2/2                           -          ARID4A-4B_tudor_final -            8.2e-22   70.4   0.8   8.8e-22   70.3   0.8   1.0   1   0   0   1   1   1   1 -
+Ichthyophonus_hoferi|ICHTHYOSPOREA|ARID4A-4B|evm19s22|TUD-2/2                     -          ARID4A-4B_tudor_final -            3.2e-21   68.5   0.0   3.3e-21   68.4   0.0   1.0   1   0   0   1   1   1   1 -
+Capsaspora_owczarzaki|FILASTEREA|ARID4A-4B|004365968.2|TUD-2/2                    -          ARID4A-4B_tudor_final -              5e-21   67.9   0.0   5.3e-21   67.8   0.0   1.0   1   0   0   1   1   1   1 -
+Ramazzottius_varieornatus|TARDIGRADA|ARID4A-4B|GAU89838.1|TUD-2/2                 -          ARID4A-4B_tudor_final -            1.4e-20   66.5   0.2   1.5e-20   66.3   0.2   1.0   1   0   0   1   1   1   1 -
+Brachionus_calyciflorus|ROTIFERA|ARID4A-4B|CAF0837113.1|TUD-2/2                   -          ARID4A-4B_tudor_final -            1.4e-20   66.4   0.1   1.5e-20   66.3   0.1   1.1   1   0   0   1   1   1   1 -
+Didymodactylos_carnosus|ROTIFERA|ARID4A-4B|CAF0914773.1|TUD-2/2                   -          ARID4A-4B_tudor_final -            3.5e-20   65.2   0.1   3.6e-20   65.1   0.1   1.0   1   0   0   1   1   1   1 -
+Hypsibius_dujardini|TARDIGRADA|ARID4A-4B|OQV20699.1|TUD-2/2                       -          ARID4A-4B_tudor_final -            4.8e-19   61.5   0.3     5e-19   61.5   0.3   1.0   1   0   0   1   1   1   1 -
+Pirum_gemmata|ICHTHYOSPOREA|ARID4A-4B|evm1s13364|TUD-2/2                          -          ARID4A-4B_tudor_final -              5e-19   61.5   0.4   5.4e-19   61.4   0.4   1.0   1   0   0   1   1   1   1 -
+Ichthyophonus_hoferi|ICHTHYOSPOREA|ARID4A-4B|evm10s60|TUD-2/2                     -          ARID4A-4B_tudor_final -            7.2e-18   57.8   0.0   7.8e-18   57.7   0.0   1.0   1   0   0   1   1   1   1 -
+Sphaeroforma_arctica|ICHTHYOSPOREA|ARID4A-4B|014154635.1|TUD-2/2                  -          ARID4A-4B_tudor_final -            4.8e-17   55.1   0.1     5e-17   55.1   0.1   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|ARID4A-4B|020892614.1|TUD-1/2                        -          ARID4A-4B_tudor_final -            1.5e-16   53.5   0.2   1.6e-16   53.4   0.2   1.0   1   0   0   1   1   1   1 -
+Branchiostoma_floridae|CHORDATA|ARID4A-4B|035671737.1|TUD-1/2                     -          ARID4A-4B_tudor_final -            1.9e-16   53.2   1.7   2.1e-16   53.1   1.7   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|ARID4A-4B|031561010.1|TUD-1/2                          -          ARID4A-4B_tudor_final -              3e-16   52.6   0.4   3.2e-16   52.5   0.4   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|ARID4A-4B|001630181.2|TUD-1/2                     -          ARID4A-4B_tudor_final -            9.9e-15   47.7   0.3     1e-14   47.7   0.3   1.0   1   0   0   1   1   1   1 -
+Saccoglossus_kowalevskii|HEMICHORDATA|ARID4A-4B|006811260.1|TUD-1/2               -          ARID4A-4B_tudor_final -            1.7e-14   47.0   0.1   1.7e-14   47.0   0.1   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|ARID4A-4B|032883085.1|TUD-1/2                          -          ARID4A-4B_tudor_final -            1.8e-14   46.9   0.3   1.9e-14   46.8   0.3   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|ARID4A-4B|012824464.2|TUD-1/2                         -          ARID4A-4B_tudor_final -              4e-14   45.8   0.4   4.2e-14   45.7   0.4   1.0   1   0   0   1   1   1   1 -
+Folsomia_candida|ARTHROPODA|ARID4A-4B|021944050.1|TUD-1/2                         -          ARID4A-4B_tudor_final -            4.2e-14   45.7   0.2   4.3e-14   45.7   0.2   1.0   1   0   0   1   1   1   1 -
+Helobdella_robusta|ANNELIDA|ARID4A-4B|009017133.1|TUD-1/1                         -          ARID4A-4B_tudor_final -            4.6e-14   45.6   0.1   4.7e-14   45.6   0.1   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|ARID4A-4B|016877049.1|TUD-1/2                               -          ARID4A-4B_tudor_final -            5.9e-14   45.2   0.3   6.2e-14   45.2   0.3   1.0   1   0   0   1   1   1   1 -
+Petromyzon_marinus|CHORDATA|ARID4A-4B|032804285.1|TUD-1/2                         -          ARID4A-4B_tudor_final -              6e-14   45.2   0.0   6.4e-14   45.1   0.0   1.0   1   0   0   1   1   1   1 -
+Intoshia_linei|MESOZOA|ARID4A-4B|OAF65492.1|TUD-1/2                               -          ARID4A-4B_tudor_final -            1.1e-13   44.4   0.1   1.1e-13   44.3   0.1   1.0   1   0   0   1   1   1   1 -
+Capsaspora_owczarzaki|FILASTEREA|ARID4A-4B|004365968.2|TUD-1/2                    -          ARID4A-4B_tudor_final -            1.6e-13   43.8   0.2   1.7e-13   43.8   0.2   1.0   1   0   0   1   1   1   1 -
+Sphaeroforma_arctica|ICHTHYOSPOREA|ARID4A-4B|014154635.1|TUD-1/2                  -          ARID4A-4B_tudor_final -              2e-13   43.5   0.0   2.1e-13   43.5   0.0   1.0   1   0   0   1   1   1   1 -
+Amphimedon_queenslandica|PORIFERA|ARID4A-4B|011402461.2|TUD-1/2                   -          ARID4A-4B_tudor_final -            4.1e-13   42.5   0.1   4.2e-13   42.5   0.1   1.0   1   0   0   1   1   1   1 -
+Folsomia_candida|ARTHROPODA|ARID4A-4B|021950598.1|TUD-1/2                         -          ARID4A-4B_tudor_final -            8.4e-13   41.6   0.1   8.7e-13   41.5   0.1   1.0   1   0   0   1   1   1   1 -
+Corallochytrium_limacisporum|INCERTAE_SEDIS|ARID4A-4B|evm6s15|TUD-1/2             -          ARID4A-4B_tudor_final -            1.6e-12   40.6   0.1   1.7e-12   40.6   0.1   1.0   1   0   0   1   1   1   1 -
+Schmidtea_mediterranea|PLATYHELMINTHES|ARID4A-4B|SMEST047168002.1|TUD-1/2         -          ARID4A-4B_tudor_final -            3.4e-11   36.4   0.0   3.5e-11   36.3   0.0   1.0   1   0   0   1   1   1   1 -
+Pirum_gemmata|ICHTHYOSPOREA|ARID4A-4B|evm1s13364|TUD-1/2                          -          ARID4A-4B_tudor_final -            3.3e-10   33.2   0.0   3.3e-10   33.2   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/ARID4A-4B_tudor_final.hmm
+# Target file:     ../../ARID4A-4B_tudor_final.fasta
+# Option settings: hmmsearch --tblout ARID4A-4B_tudor_final.txt ../0.5/ARID4A-4B_tudor_final.hmm ../../ARID4A-4B_tudor_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:21 2022
+# [ok]

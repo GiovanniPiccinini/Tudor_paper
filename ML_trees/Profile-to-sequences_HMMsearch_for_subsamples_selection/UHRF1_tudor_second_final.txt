@@ -1,0 +1,107 @@
+#                                                                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                         accession  query name               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                 ------------------- ----------     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Limulus_polyphemus|ARTHROPODA|UHRF1|022254512.1|TUD-2/2               -          UHRF1_tudor_second_final -              4e-51  164.4   0.9   4.6e-51  164.2   0.9   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|UHRF1|013789872.2|TUD-2/2               -          UHRF1_tudor_second_final -            7.7e-50  160.2   0.5   8.4e-50  160.1   0.5   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|UHRF1|034768110.1|TUD-2/2                 -          UHRF1_tudor_second_final -            2.8e-47  152.0   0.4     3e-47  151.9   0.4   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|UHRF1|033857844.2|TUD-2/2                 -          UHRF1_tudor_second_final -            7.6e-47  150.6   0.4   8.3e-47  150.5   0.4   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|UHRF1|998242.1|TUD-2/2                           -          UHRF1_tudor_second_final -            2.1e-46  149.2   0.3   2.3e-46  149.1   0.3   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|UHRF1|002940183.2|TUD-2/2                 -          UHRF1_tudor_second_final -            6.4e-46  147.6   0.6   7.1e-46  147.5   0.6   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|UHRF1|032902552.1|TUD-2/2                  -          UHRF1_tudor_second_final -            1.3e-45  146.7   0.3   1.4e-45  146.6   0.3   1.0   1   0   0   1   1   1   1 -
+Octopus_bimaculoides|MOLLUSCA|UHRF1|014778387.1|TUD-2/2               -          UHRF1_tudor_second_final -            1.5e-44  143.3   0.0   1.6e-44  143.1   0.0   1.0   1   0   0   1   1   1   1 -
+Anneissia_japonica|ECHINODERMATA|UHRF1|033117513.1|TUD-2/2            -          UHRF1_tudor_second_final -            2.6e-44  142.5   0.0   2.8e-44  142.4   0.0   1.0   1   0   0   1   1   1   1 -
+Branchiostoma_floridae|CHORDATA|UHRF1|035698939.1|TUD-2/2             -          UHRF1_tudor_second_final -            4.8e-44  141.6   0.1   5.3e-44  141.5   0.1   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|UHRF1|037414.3|TUD-2/2                          -          UHRF1_tudor_second_final -            5.6e-44  141.4   0.4   6.1e-44  141.3   0.4   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|UHRF1|013414439.1|TUD-4/4                 -          UHRF1_tudor_second_final -            9.1e-44  140.7   0.2     1e-43  140.6   0.2   1.0   1   0   0   1   1   1   1 -
+Notospermus_geniculatus|NEMERTEA|UHRF1|g4419.t1|TUD-2/2               -          UHRF1_tudor_second_final -            1.7e-43  139.9   0.1   1.8e-43  139.8   0.1   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|UHRF1|015155673.2|TUD-2/2                      -          UHRF1_tudor_second_final -              2e-43  139.6   0.3   2.2e-43  139.5   0.3   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|UHRF1|015276077.1|TUD-2/2                    -          UHRF1_tudor_second_final -              4e-43  138.7   1.0   4.4e-43  138.5   1.0   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|UHRF1|012818210.1|TUD-2/2                 -          UHRF1_tudor_second_final -            4.5e-43  138.5   0.2     5e-43  138.3   0.2   1.0   1   0   0   1   1   1   1 -
+Saccoglossus_kowalevskii|HEMICHORDATA|UHRF1|002740994.1|TUD-2/2       -          UHRF1_tudor_second_final -            4.9e-43  138.4   0.1   5.4e-43  138.2   0.1   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|UHRF1|020913852.1|TUD-2/2                -          UHRF1_tudor_second_final -              5e-43  138.3   0.0   5.7e-43  138.2   0.0   1.0   1   0   0   1   1   1   1 -
+Asterias_rubens|ECHINODERMATA|UHRF1|033636529.1|TUD-2/2               -          UHRF1_tudor_second_final -            5.4e-43  138.2   0.2     6e-43  138.1   0.2   1.0   1   0   0   1   1   1   1 -
+Priapulus_caudatus|PRIAPULIDA|UHRF1|014673331.1|TUD-2/2               -          UHRF1_tudor_second_final -            5.7e-43  138.2   0.0   6.3e-43  138.0   0.0   1.0   1   0   0   1   1   1   1 -
+Apostichopus_japonicus|ECHINODERMATA|UHRF1|PIK62591.1|TUD-2/2         -          UHRF1_tudor_second_final -            7.8e-43  137.7   0.0   8.5e-43  137.6   0.0   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|UHRF1|031564407.1|TUD-2/2                  -          UHRF1_tudor_second_final -              1e-42  137.4   0.0   1.1e-42  137.2   0.0   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|UHRF1|015273471.1|TUD-2/2                    -          UHRF1_tudor_second_final -            1.2e-42  137.1   0.2   1.3e-42  137.0   0.2   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|UHRF1|001632528.1|TUD-2/2             -          UHRF1_tudor_second_final -            1.4e-42  136.9   0.0   1.6e-42  136.7   0.0   1.1   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|UHRF1|028404851.1|TUD-2/2            -          UHRF1_tudor_second_final -            1.6e-42  136.7   0.2   1.8e-42  136.6   0.2   1.0   1   0   0   1   1   1   1 -
+Crassostrea_gigas|MOLLUSCA|UHRF1|011454836.2|TUD-2/2                  -          UHRF1_tudor_second_final -            2.8e-42  135.9   0.0   3.1e-42  135.8   0.0   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|UHRF1|004949134.1|TUD-2/2                      -          UHRF1_tudor_second_final -            3.1e-42  135.8   0.4   3.4e-42  135.7   0.4   1.0   1   0   0   1   1   1   1 -
+Mizuhopecten_yessoensis|MOLLUSCA|UHRF1|021356809.1|TUD-2/2            -          UHRF1_tudor_second_final -            4.8e-42  135.2   0.0   5.3e-42  135.0   0.0   1.0   1   0   0   1   1   1   1 -
+Pomacea_canaliculata|MOLLUSCA|UHRF1|025095805.1|TUD-2/2               -          UHRF1_tudor_second_final -              1e-41  134.2   0.1   1.1e-41  134.0   0.1   1.0   1   0   0   1   1   1   1 -
+Strongylocentrotus_purpuratus|ECHINODERMATA|UHRF1|030852332.1|TUD-2/2 -          UHRF1_tudor_second_final -              1e-41  134.1   0.2   1.1e-41  134.0   0.2   1.0   1   0   0   1   1   1   1 -
+Phoronis_australis|PHORONIDA|UHRF1|g6964.t1|TUD-2/2                   -          UHRF1_tudor_second_final -            1.1e-41  134.0   0.2   1.2e-41  133.9   0.2   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|UHRF1|690856.1|TUD-2/2                          -          UHRF1_tudor_second_final -              5e-41  131.9   0.1   5.5e-41  131.8   0.1   1.0   1   0   0   1   1   1   1 -
+Amphimedon_queenslandica|PORIFERA|UHRF1|019849105.1|TUD-2/2           -          UHRF1_tudor_second_final -            5.9e-41  131.7   0.6   6.5e-41  131.5   0.6   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|UHRF1|034771579.1|TUD-2/2                 -          UHRF1_tudor_second_final -              6e-41  131.7   0.5   6.6e-41  131.5   0.5   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|UHRF1|034779983.1|TUD-2/2                 -          UHRF1_tudor_second_final -              6e-41  131.7   0.5   6.6e-41  131.5   0.5   1.0   1   0   0   1   1   1   1 -
+Petromyzon_marinus|CHORDATA|UHRF1|032821928.1|TUD-2/2                 -          UHRF1_tudor_second_final -            1.3e-40  130.6   0.0   1.4e-40  130.4   0.0   1.0   1   0   0   1   1   1   1 -
+Centruroides_sculpturatus|ARTHROPODA|UHRF1|023230679.1|TUD-2/2        -          UHRF1_tudor_second_final -            3.1e-40  129.4   0.1   3.4e-40  129.2   0.1   1.0   1   0   0   1   1   1   1 -
+Acropora_digitifera|CNIDARIA|UHRF1|015764928.1|TUD-2/2                -          UHRF1_tudor_second_final -            4.6e-40  128.8   0.0   5.1e-40  128.7   0.0   1.0   1   0   0   1   1   1   1 -
+Parasteatoda_tepidariorum|ARTHROPODA|UHRF1|015918962.1|TUD-2/2        -          UHRF1_tudor_second_final -            7.8e-40  128.1   0.0   8.5e-40  128.0   0.0   1.0   1   0   0   1   1   1   1 -
+Clytia_hemisphaerica|CNIDARIA|UHRF1|CLYHEMP020791.1|TUD-2/2           -          UHRF1_tudor_second_final -            9.3e-40  127.8   0.6     1e-39  127.7   0.6   1.0   1   0   0   1   1   1   1 -
+Penaeus_vannamei|ARTHROPODA|UHRF1|027232430.1|TUD-2/2                 -          UHRF1_tudor_second_final -            1.2e-39  127.5   0.0   1.3e-39  127.4   0.0   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|UHRF1|027058229.1|TUD-2/2             -          UHRF1_tudor_second_final -            1.9e-39  126.8   0.0   2.1e-39  126.7   0.0   1.0   1   0   0   1   1   1   1 -
+Lottia_gigantea|MOLLUSCA|UHRF1|009052828.1|TUD-2/2                    -          UHRF1_tudor_second_final -            2.1e-39  126.7   0.1   2.3e-39  126.6   0.1   1.0   1   0   0   1   1   1   1 -
+Bugula_neritina|BRIOZOA|UHRF1|KAF6032133.1|TUD-2/2                    -          UHRF1_tudor_second_final -            2.1e-39  126.7   0.0   2.3e-39  126.6   0.0   1.0   1   0   0   1   1   1   1 -
+Aplysia_californica|MOLLUSCA|UHRF1|005101094.1|TUD-2/2                -          UHRF1_tudor_second_final -            2.2e-39  126.6   0.0   2.4e-39  126.5   0.0   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|UHRF1|026474552.1|TUD-2/2            -          UHRF1_tudor_second_final -            5.7e-39  125.3   0.1   6.3e-39  125.2   0.1   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|UHRF1|026474553.1|TUD-2/2            -          UHRF1_tudor_second_final -            5.7e-39  125.3   0.1   6.3e-39  125.2   0.1   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|UHRF1|029835745.1|TUD-2/2                -          UHRF1_tudor_second_final -            5.9e-39  125.3   0.0   6.5e-39  125.1   0.0   1.0   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|UHRF1|022806096.1|TUD-2/2              -          UHRF1_tudor_second_final -            8.8e-39  124.7   0.0   9.6e-39  124.6   0.0   1.0   1   0   0   1   1   1   1 -
+Biomphalaria_glabrata|MOLLUSCA|UHRF1|013088226.1|TUD-2/2              -          UHRF1_tudor_second_final -              1e-38  124.5   0.0   1.1e-38  124.3   0.0   1.0   1   0   0   1   1   1   1 -
+Cryptotermes_secundus|ARTHROPODA|UHRF1|023727164.1|TUD-2/2            -          UHRF1_tudor_second_final -            1.7e-38  123.8   0.0   1.9e-38  123.6   0.0   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|UHRF1|032873853.1|TUD-2/2                  -          UHRF1_tudor_second_final -            1.8e-38  123.7   0.0   1.9e-38  123.6   0.0   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|UHRF1|020629479.1|TUD-2/2                -          UHRF1_tudor_second_final -            2.8e-38  123.1   0.1   3.1e-38  122.9   0.1   1.0   1   0   0   1   1   1   1 -
+Ephydatia_muelleri|PORIFERA|UHRF1|Em0011g1054a|TUD-2/2                -          UHRF1_tudor_second_final -            3.6e-38  122.7   0.1   3.9e-38  122.6   0.1   1.0   1   0   0   1   1   1   1 -
+Styela_clava|CHORDATA|UHRF1|039255281.1|TUD-2/2                       -          UHRF1_tudor_second_final -              5e-38  122.3   0.7   5.5e-38  122.1   0.7   1.0   1   0   0   1   1   1   1 -
+Ciona_intestinalis|CHORDATA|UHRF1|001071846.1|TUD-2/2                 -          UHRF1_tudor_second_final -            9.3e-38  121.4   0.2     1e-37  121.3   0.2   1.0   1   0   0   1   1   1   1 -
+Helobdella_robusta|ANNELIDA|UHRF1|009023456.1|TUD-2/2                 -          UHRF1_tudor_second_final -              2e-37  120.3   0.3   2.2e-37  120.2   0.3   1.0   1   0   0   1   1   1   1 -
+Capitella_teleta|ANNELIDA|UHRF1|ELU05907.1|TUD-2/2                    -          UHRF1_tudor_second_final -            3.6e-37  119.5   0.0     4e-37  119.4   0.0   1.0   1   0   0   1   1   1   1 -
+Morbakka_virulenta|CNIDARIA|UHRF1|scaffold218.g10.t2|TUD-2/2          -          UHRF1_tudor_second_final -            8.1e-37  118.4   0.2   8.9e-37  118.3   0.2   1.0   1   0   0   1   1   1   1 -
+Aphis_gossypii|ARTHROPODA|UHRF1|027841253.1|TUD-2/2                   -          UHRF1_tudor_second_final -            1.8e-36  117.3   0.0     2e-36  117.1   0.0   1.0   1   0   0   1   1   1   1 -
+Helobdella_robusta|ANNELIDA|UHRF1|009017727.1|TUD-2/2                 -          UHRF1_tudor_second_final -            1.4e-35  114.4   0.2   1.5e-35  114.3   0.2   1.0   1   0   0   1   1   1   1 -
+Aphis_gossypii|ARTHROPODA|UHRF1|027841243.1|TUD-2/2                   -          UHRF1_tudor_second_final -            7.8e-35  112.0   0.0   8.5e-35  111.9   0.0   1.0   1   0   0   1   1   1   1 -
+Aphis_gossypii|ARTHROPODA|UHRF1|027847140.1|TUD-2/2                   -          UHRF1_tudor_second_final -            2.6e-34  110.3   0.0   2.8e-34  110.2   0.0   1.0   1   0   0   1   1   1   1 -
+Nymphon_striatum|ARTHROPODA|UHRF1|KAG1659088.1|TUD-2/2                -          UHRF1_tudor_second_final -            1.6e-32  104.6   0.9   1.7e-32  104.5   0.9   1.0   1   0   0   1   1   1   1 -
+Nymphon_striatum|ARTHROPODA|UHRF1|KAG1673909.1|TUD-2/2                -          UHRF1_tudor_second_final -              2e-32  104.3   0.9   2.2e-32  104.2   0.9   1.0   1   0   0   1   1   1   1 -
+Daphnia_magna|ARTHROPODA|UHRF1|032787194.1|TUD-2/2                    -          UHRF1_tudor_second_final -            1.2e-30   98.5   0.1   1.3e-30   98.4   0.1   1.0   1   0   0   1   1   1   1 -
+Apis_mellifera|ARTHROPODA|UHRF1|001229385.1|TUD-2/2                   -          UHRF1_tudor_second_final -            1.2e-30   98.5   0.0   1.4e-30   98.4   0.0   1.0   1   0   0   1   1   1   1 -
+Hydra_vulgaris|CNIDARIA|UHRF1|002163856.1|TUD-2/2                     -          UHRF1_tudor_second_final -            7.7e-29   92.7   0.0   8.2e-29   92.6   0.0   1.0   1   0   0   1   1   1   1 -
+Hormiphora_californiensis|CTENOPHORA|UHRF1|Hcv1.1.c9.g435.i1|TUD-2/2  -          UHRF1_tudor_second_final -            1.2e-27   88.9   0.0   1.3e-27   88.8   0.0   1.0   1   0   0   1   1   1   1 -
+Mnemiopsis_leidyi|CTENOPHORA|UHRF1|ML43438a|TUD-2/2                   -          UHRF1_tudor_second_final -            3.6e-27   87.4   0.0     4e-27   87.2   0.0   1.0   1   0   0   1   1   1   1 -
+Eurytemora_affinis|ARTHROPODA|UHRF1|023326891.1|TUD-2/2               -          UHRF1_tudor_second_final -            9.6e-27   86.0   0.0   1.1e-26   85.9   0.0   1.0   1   0   0   1   1   1   1 -
+Dimorphilus_gyrociliatus|ANNELIDA|UHRF1|CAD5122943.1|TUD-2/2          -          UHRF1_tudor_second_final -            8.3e-26   83.0   0.1   9.3e-26   82.8   0.1   1.0   1   0   0   1   1   1   1 -
+Lepeophtheirus_salmonis|ARTHROPODA|UHRF1|040564804.1|TUD-2/2          -          UHRF1_tudor_second_final -            1.3e-25   82.4   0.0   1.4e-25   82.3   0.0   1.0   1   0   0   1   1   1   1 -
+Sitophilus_oryzae|ARTHROPODA|UHRF1|030761306.1|TUD-2/2                -          UHRF1_tudor_second_final -            2.1e-25   81.7   0.1   2.3e-25   81.6   0.1   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|UHRF1|PAA75535.1|TUD-2/2          -          UHRF1_tudor_second_final -            1.6e-24   78.9   0.0   1.7e-24   78.8   0.0   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|UHRF1|PAA54294.1|TUD-2/2          -          UHRF1_tudor_second_final -            3.2e-24   77.9   0.0   3.5e-24   77.8   0.0   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|UHRF1|PAA71569.1|TUD-2/2          -          UHRF1_tudor_second_final -            3.2e-24   77.9   0.0   3.5e-24   77.8   0.0   1.0   1   0   0   1   1   1   1 -
+Ptychodera_flava|HEMICHORDATA|UHRF1|1g13823.t1|TUD-2/4                -          UHRF1_tudor_second_final -            6.7e-24   76.9   0.4   7.3e-24   76.8   0.4   1.0   1   0   0   1   1   1   1 -
+Hyalella_azteca|ARTHROPODA|UHRF1|018010125.1|TUD-2/2                  -          UHRF1_tudor_second_final -            1.5e-23   75.7   0.0   1.6e-23   75.7   0.0   1.0   1   0   0   1   1   1   1 -
+Tetranychus_urticae|ARTHROPODA|UHRF1|025017518.1|TUD-2/2              -          UHRF1_tudor_second_final -            1.8e-23   75.5   0.0   1.9e-23   75.4   0.0   1.0   1   0   0   1   1   1   1 -
+Tetranychus_urticae|ARTHROPODA|UHRF1|015791215.2|TUD-2/2              -          UHRF1_tudor_second_final -            2.8e-23   74.9   0.0   3.1e-23   74.7   0.0   1.0   1   0   0   1   1   1   1 -
+Eurytemora_affinis|ARTHROPODA|UHRF1|023332887.1|TUD-2/2               -          UHRF1_tudor_second_final -            2.7e-21   68.5   0.5   2.9e-21   68.4   0.5   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|UHRF1|CAB3379951.1|TUD-2/2                 -          UHRF1_tudor_second_final -            1.2e-17   56.7   0.1   1.3e-17   56.6   0.1   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|UHRF1|CAB3379952.1|TUD-2/2                 -          UHRF1_tudor_second_final -            1.2e-17   56.7   0.1   1.3e-17   56.6   0.1   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|UHRF1|CAB3385061.1|TUD-2/2                 -          UHRF1_tudor_second_final -            1.2e-17   56.7   0.1   1.3e-17   56.6   0.1   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|UHRF1|CAB3377183.1|TUD-2/2                 -          UHRF1_tudor_second_final -            8.2e-17   54.1   0.0   8.9e-17   54.0   0.0   1.0   1   0   0   1   1   1   1 -
+Dermatophagoides_pteronyssinus|ARTHROPODA|UHRF1|027204580.1|TUD-2/2   -          UHRF1_tudor_second_final -            1.8e-16   53.0   0.1     2e-16   52.8   0.1   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|UHRF1|CAB3377154.1|TUD-2/2                 -          UHRF1_tudor_second_final -              8e-16   50.9   0.0   8.5e-16   50.8   0.0   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|UHRF1|CAB3377197.1|TUD-2/2                 -          UHRF1_tudor_second_final -            1.7e-15   49.8   0.0   1.9e-15   49.7   0.0   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|UHRF1|CAB3376985.1|TUD-2/2                 -          UHRF1_tudor_second_final -            1.6e-14   46.7   0.0   1.7e-14   46.7   0.0   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|UHRF1|CAB3387887.1|TUD-2/2                 -          UHRF1_tudor_second_final -            1.9e-14   46.5   0.0     2e-14   46.4   0.0   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|UHRF1|CAB3387888.1|TUD-2/2                 -          UHRF1_tudor_second_final -            1.9e-14   46.5   0.0     2e-14   46.4   0.0   1.0   1   0   0   1   1   1   1 -
+Xenoturbella_bocki|XENACOELOMORPHA|UHRF1|scaffold10601_1|TUD-2/2      -          UHRF1_tudor_second_final -            9.5e-08   24.9   0.0   9.9e-08   24.9   0.0   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|UHRF1|013414439.1|TUD-2/4                 -          UHRF1_tudor_second_final -            3.3e-06   20.0   0.6   3.5e-06   19.9   0.6   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/UHRF1_tudor_second_final.hmm
+# Target file:     ../../UHRF1_tudor_second_final.fasta
+# Option settings: hmmsearch --tblout UHRF1_tudor_second_final.txt ../0.5/UHRF1_tudor_second_final.hmm ../../UHRF1_tudor_second_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:26 2022
+# [ok]

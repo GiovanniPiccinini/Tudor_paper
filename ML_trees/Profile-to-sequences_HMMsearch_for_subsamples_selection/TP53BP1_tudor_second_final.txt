@@ -1,0 +1,80 @@
+#                                                                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                           accession  query name                 accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                   ------------------- ----------       -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Nematostella_vectensis|CNIDARIA|TP53BP1|001627370.1|TUD-2/2             -          TP53BP1_tudor_second_final -            1.2e-27   87.9   0.3   1.3e-27   87.8   0.3   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|TP53BP1|020607087.1|TUD-2/2                -          TP53BP1_tudor_second_final -            2.4e-27   86.9   0.1   2.6e-27   86.8   0.1   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|TP53BP1|022246004.1|TUD-2/2               -          TP53BP1_tudor_second_final -              3e-27   86.6   0.2   3.2e-27   86.5   0.2   1.0   1   0   0   1   1   1   1 -
+Acropora_digitifera|CNIDARIA|TP53BP1|015753280.1|TUD-2/2                -          TP53BP1_tudor_second_final -            3.6e-27   86.4   0.0   3.9e-27   86.3   0.0   1.0   1   0   0   1   1   1   1 -
+Saccoglossus_kowalevskii|HEMICHORDATA|TP53BP1|006811677.1|TUD-2/2       -          TP53BP1_tudor_second_final -            4.4e-27   86.1   0.3   4.7e-27   86.0   0.3   1.0   1   0   0   1   1   1   1 -
+Lottia_gigantea|MOLLUSCA|TP53BP1|009054742.1|TUD-2/2                    -          TP53BP1_tudor_second_final -            2.6e-26   83.6   0.1   2.8e-26   83.5   0.1   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|TP53BP1|027053083.1|TUD-2/2             -          TP53BP1_tudor_second_final -            2.7e-26   83.6   0.1   2.9e-26   83.4   0.1   1.0   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|TP53BP1|022781604.1|TUD-2/2              -          TP53BP1_tudor_second_final -            1.1e-25   81.6   0.1   1.2e-25   81.5   0.1   1.0   1   0   0   1   1   1   1 -
+Strongylocentrotus_purpuratus|ECHINODERMATA|TP53BP1|030832528.1|TUD-2/2 -          TP53BP1_tudor_second_final -              2e-24   77.5   0.0   2.2e-24   77.4   0.0   1.0   1   0   0   1   1   1   1 -
+Octopus_bimaculoides|MOLLUSCA|TP53BP1|014783543.1|TUD-2/2               -          TP53BP1_tudor_second_final -            3.2e-24   76.9   0.5   3.6e-24   76.8   0.5   1.0   1   0   0   1   1   1   1 -
+Anneissia_japonica|ECHINODERMATA|TP53BP1|033101243.1|TUD-2/2            -          TP53BP1_tudor_second_final -            5.1e-24   76.3   0.0   5.6e-24   76.1   0.0   1.0   1   0   0   1   1   1   1 -
+Aplysia_californica|MOLLUSCA|TP53BP1|005110268.1|TUD-2/2                -          TP53BP1_tudor_second_final -            5.9e-24   76.1   0.1   6.4e-24   76.0   0.1   1.0   1   0   0   1   1   1   1 -
+Phoronis_australis|PHORONIDA|TP53BP1|g9880.t1|TUD-2/2                   -          TP53BP1_tudor_second_final -            9.9e-24   75.3   0.0   1.1e-23   75.2   0.0   1.0   1   0   0   1   1   1   1 -
+Centruroides_sculpturatus|ARTHROPODA|TP53BP1|023238510.1|TUD-2/2        -          TP53BP1_tudor_second_final -            1.8e-23   74.5   0.3   1.9e-23   74.4   0.3   1.0   1   0   0   1   1   1   1 -
+Owenia_fusiformis|ANNELIDA|TP53BP1|CAC9611523.1|TUD-2/2                 -          TP53BP1_tudor_second_final -            2.4e-23   74.1   0.2   2.6e-23   74.0   0.2   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|TP53BP1|031573490.1|TUD-2/2                  -          TP53BP1_tudor_second_final -            4.2e-23   73.3   0.4   4.4e-23   73.3   0.4   1.0   1   0   0   1   1   1   1 -
+Crassostrea_gigas|MOLLUSCA|TP53BP1|034323582.1|TUD-2/2                  -          TP53BP1_tudor_second_final -            5.3e-23   73.0   0.1   5.7e-23   72.9   0.1   1.0   1   0   0   1   1   1   1 -
+Pomacea_canaliculata|MOLLUSCA|TP53BP1|025078431.1|TUD-2/2               -          TP53BP1_tudor_second_final -            7.8e-23   72.5   0.0   8.6e-23   72.3   0.0   1.0   1   0   0   1   1   1   1 -
+Mizuhopecten_yessoensis|MOLLUSCA|TP53BP1|021358530.1|TUD-2/2            -          TP53BP1_tudor_second_final -            9.2e-23   72.2   0.0     1e-22   72.1   0.0   1.0   1   0   0   1   1   1   1 -
+Ptychodera_flava|HEMICHORDATA|TP53BP1|1g25686.t1|TUD-2/2                -          TP53BP1_tudor_second_final -            1.8e-22   71.3   0.5   1.9e-22   71.2   0.5   1.0   1   0   0   1   1   1   1 -
+Styela_clava|CHORDATA|TP53BP1|039265801.1|TUD-2/2                       -          TP53BP1_tudor_second_final -              4e-22   70.2   0.0   4.4e-22   70.1   0.0   1.0   1   0   0   1   1   1   1 -
+Biomphalaria_glabrata|MOLLUSCA|TP53BP1|013082648.1|TUD-2/2              -          TP53BP1_tudor_second_final -            5.2e-22   69.9   0.0   5.7e-22   69.7   0.0   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|TP53BP1|034757921.1|TUD-2/2                 -          TP53BP1_tudor_second_final -            9.6e-22   69.0   0.0     1e-21   68.9   0.0   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|TP53BP1|034763482.1|TUD-2/2                 -          TP53BP1_tudor_second_final -            9.6e-22   69.0   0.0     1e-21   68.9   0.0   1.0   1   0   0   1   1   1   1 -
+Asterias_rubens|ECHINODERMATA|TP53BP1|033633941.1|TUD-2/2               -          TP53BP1_tudor_second_final -            1.3e-21   68.6   0.6   1.4e-21   68.4   0.6   1.0   1   0   0   1   1   1   1 -
+Didymodactylos_carnosus|ROTIFERA|TP53BP1|CAF1531520.1|TUD-2/2           -          TP53BP1_tudor_second_final -            3.7e-21   67.1   0.1   3.9e-21   67.0   0.1   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|TP53BP1|015265882.1|TUD-2/2                    -          TP53BP1_tudor_second_final -            4.3e-21   66.9   0.0   4.7e-21   66.8   0.0   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|TP53BP1|002932291.3|TUD-2/2                 -          TP53BP1_tudor_second_final -            1.6e-20   65.1   0.0   1.7e-20   65.0   0.0   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|TP53BP1|004944052.1|TUD-2/2                      -          TP53BP1_tudor_second_final -            1.7e-20   65.0   0.0   1.8e-20   64.9   0.0   1.0   1   0   0   1   1   1   1 -
+Petromyzon_marinus|CHORDATA|TP53BP1|032818589.1|TUD-2/2                 -          TP53BP1_tudor_second_final -            1.7e-20   65.0   0.0   1.8e-20   64.9   0.0   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|TP53BP1|001135452.1|TUD-2/2                       -          TP53BP1_tudor_second_final -            2.6e-20   64.4   0.0   2.8e-20   64.3   0.0   1.0   1   0   0   1   1   1   1 -
+Rotaria_socialis|ROTIFERA|TP53BP1|CAF4707486.1|TUD-2/2                  -          TP53BP1_tudor_second_final -            2.9e-20   64.2   0.1   3.2e-20   64.1   0.1   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|TP53BP1|013401551.1|TUD-2/2                 -          TP53BP1_tudor_second_final -            3.3e-20   64.1   0.1   3.5e-20   64.0   0.1   1.0   1   0   0   1   1   1   1 -
+Trichoplax_adhaerens|PLACOZOA|TP53BP1|002110520.1|TUD-2/2               -          TP53BP1_tudor_second_final -            3.7e-20   63.9   0.0   3.9e-20   63.8   0.0   1.0   1   0   0   1   1   1   1 -
+Trichoplax_spH2|PLACOZOA|TP53BP1|RDD46298.1|TUD-2/2                     -          TP53BP1_tudor_second_final -            3.7e-20   63.9   0.0   3.9e-20   63.8   0.0   1.0   1   0   0   1   1   1   1 -
+Cryptotermes_secundus|ARTHROPODA|TP53BP1|023727535.1|TUD-2/2            -          TP53BP1_tudor_second_final -            5.3e-20   63.4   0.1   5.7e-20   63.3   0.1   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|TP53BP1|026464957.1|TUD-2/2            -          TP53BP1_tudor_second_final -            6.5e-20   63.1   0.1   7.1e-20   63.0   0.1   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|TP53BP1|026464958.1|TUD-2/2            -          TP53BP1_tudor_second_final -            6.5e-20   63.1   0.1   7.1e-20   63.0   0.1   1.0   1   0   0   1   1   1   1 -
+Apostichopus_japonicus|ECHINODERMATA|TP53BP1|PIK43713.1|TUD-2/2         -          TP53BP1_tudor_second_final -            2.8e-19   61.1   0.1     3e-19   61.0   0.1   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|TP53BP1|020898199.1|TUD-2/2                -          TP53BP1_tudor_second_final -            3.3e-19   60.9   0.0   3.5e-19   60.8   0.0   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|TP53BP1|022246311.1|TUD-2/2               -          TP53BP1_tudor_second_final -            9.8e-19   59.4   0.1     1e-18   59.3   0.1   1.0   1   0   0   1   1   1   1 -
+Priapulus_caudatus|PRIAPULIDA|TP53BP1|014679974.1|TUD-2/2               -          TP53BP1_tudor_second_final -            2.1e-18   58.3   0.1   2.2e-18   58.2   0.1   1.0   1   0   0   1   1   1   1 -
+Penaeus_vannamei|ARTHROPODA|TP53BP1|027223723.1|TUD-2/2                 -          TP53BP1_tudor_second_final -            2.6e-18   58.0   0.0   2.9e-18   57.9   0.0   1.0   1   0   0   1   1   1   1 -
+Daphnia_magna|ARTHROPODA|TP53BP1|032783082.1|TUD-2/2                    -          TP53BP1_tudor_second_final -            5.9e-18   56.8   0.0   6.5e-18   56.7   0.0   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|TP53BP1|017212355.1|TUD-2/2                        -          TP53BP1_tudor_second_final -            6.1e-18   56.8   0.1   6.4e-18   56.7   0.1   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|TP53BP1|028390927.1|TUD-2/2            -          TP53BP1_tudor_second_final -            1.8e-17   55.3   0.1   1.9e-17   55.2   0.1   1.0   1   0   0   1   1   1   1 -
+Tetranychus_urticae|ARTHROPODA|TP53BP1|015787042.1|TUD-2/2              -          TP53BP1_tudor_second_final -            3.7e-17   54.3   0.1   3.9e-17   54.2   0.1   1.0   1   0   0   1   1   1   1 -
+Capitella_teleta|ANNELIDA|TP53BP1|ELU05990.1|TUD-4/4                    -          TP53BP1_tudor_second_final -            4.8e-17   54.0   0.0   5.1e-17   53.8   0.0   1.0   1   0   0   1   1   1   1 -
+Notospermus_geniculatus|NEMERTEA|TP53BP1|g4034.t1|TUD-2/2               -          TP53BP1_tudor_second_final -            2.1e-16   51.9   0.3   2.3e-16   51.8   0.3   1.0   1   0   0   1   1   1   1 -
+Notospermus_geniculatus|NEMERTEA|TP53BP1|g5668.t1|TUD-2/2               -          TP53BP1_tudor_second_final -            2.1e-16   51.9   0.3   2.3e-16   51.8   0.3   1.0   1   0   0   1   1   1   1 -
+Capitella_teleta|ANNELIDA|TP53BP1|ELU05990.1|TUD-2/4                    -          TP53BP1_tudor_second_final -            2.6e-16   51.6   0.0     3e-16   51.4   0.0   1.0   1   0   0   1   1   1   1 -
+Apis_mellifera|ARTHROPODA|TP53BP1|003250928.2|TUD-2/2                   -          TP53BP1_tudor_second_final -            3.7e-16   51.1   0.5     4e-16   51.0   0.5   1.0   1   0   0   1   1   1   1 -
+Morbakka_virulenta|CNIDARIA|TP53BP1|scaffold4.g19.t1|TUD-2/2            -          TP53BP1_tudor_second_final -            6.7e-16   50.3   0.0   7.1e-16   50.2   0.0   1.0   1   0   0   1   1   1   1 -
+Parasteatoda_tepidariorum|ARTHROPODA|TP53BP1|021001173.1|TUD-2/2        -          TP53BP1_tudor_second_final -            1.5e-15   49.2   0.0   1.6e-15   49.1   0.0   1.0   1   0   0   1   1   1   1 -
+Nymphon_striatum|ARTHROPODA|TP53BP1|KAG1668449.1|TUD-2/2                -          TP53BP1_tudor_second_final -            2.6e-15   48.4   0.1   2.7e-15   48.3   0.1   1.0   1   0   0   1   1   1   1 -
+Chromosphaera_perkinsii|ICHTHYOSPOREA|TP53BP1|evm68s1810|TUD-2/2        -          TP53BP1_tudor_second_final -            6.9e-15   47.0   0.0   8.4e-15   46.8   0.0   1.1   1   0   0   1   1   1   1 -
+Varroa_destructor|ARTHROPODA|TP53BP1|022667373.1|TUD-2/2                -          TP53BP1_tudor_second_final -              1e-14   46.5   0.2   1.1e-14   46.4   0.2   1.0   1   0   0   1   1   1   1 -
+Aurelia_aurita|CNIDARIA|TP53BP1|scaffold82.g43.t1|TUD-2/2               -          TP53BP1_tudor_second_final -            1.8e-14   45.7   0.0     2e-14   45.6   0.0   1.0   1   0   0   1   1   1   1 -
+Ramazzottius_varieornatus|TARDIGRADA|TP53BP1|GAV02284.1|TUD-2/6         -          TP53BP1_tudor_second_final -            3.2e-14   44.9   0.0   3.6e-14   44.7   0.0   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|TP53BP1|PAA76084.1|TUD-2/2          -          TP53BP1_tudor_second_final -            7.3e-14   43.8   0.0     8e-14   43.6   0.0   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|TP53BP1|PAA93409.1|TUD-2/2          -          TP53BP1_tudor_second_final -            7.3e-14   43.8   0.0     8e-14   43.6   0.0   1.0   1   0   0   1   1   1   1 -
+Hypsibius_dujardini|TARDIGRADA|TP53BP1|OQV16154.1|TUD-2/4               -          TP53BP1_tudor_second_final -            3.4e-12   38.4   2.5   3.8e-12   38.3   2.5   1.0   1   0   0   1   1   1   1 -
+Lepeophtheirus_salmonis|ARTHROPODA|TP53BP1|040564957.1|TUD-2/2          -          TP53BP1_tudor_second_final -            4.4e-12   38.0   0.1   4.7e-12   38.0   0.1   1.0   1   0   0   1   1   1   1 -
+Bugula_neritina|BRIOZOA|TP53BP1|KAF6029740.1|TUD-2/2                    -          TP53BP1_tudor_second_final -            7.3e-11   34.1   0.0   9.2e-11   33.8   0.0   1.2   1   0   0   1   1   1   1 -
+Clytia_hemisphaerica|CNIDARIA|TP53BP1|CLYHEMP017891.1|TUD-2/2           -          TP53BP1_tudor_second_final -              9e-10   30.7   0.1     9e-10   30.7   0.1   1.0   1   0   0   1   1   1   1 -
+Aphis_gossypii|ARTHROPODA|TP53BP1|027841862.1|TUD-2/2                   -          TP53BP1_tudor_second_final -            3.6e-08   25.5   0.1   3.9e-08   25.4   0.1   1.0   1   0   0   1   1   1   1 -
+Capsaspora_owczarzaki|FILASTEREA|TP53BP1|004346778.2|TUD-2/2            -          TP53BP1_tudor_second_final -            1.1e-06   20.7   0.0   1.2e-06   20.7   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/TP53BP1_tudor_second_final.hmm
+# Target file:     ../../TP53BP1_tudor_second_final.fasta
+# Option settings: hmmsearch --tblout TP53BP1_tudor_second_final.txt ../0.5/TP53BP1_tudor_second_final.hmm ../../TP53BP1_tudor_second_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:24 2022
+# [ok]

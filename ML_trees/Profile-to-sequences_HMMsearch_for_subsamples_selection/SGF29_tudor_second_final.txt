@@ -1,0 +1,121 @@
+#                                                                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                                 accession  query name               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                         ------------------- ----------     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Notospermus_geniculatus|NEMERTEA|SGF29|g112.t1|TUD-2/2                        -          SGF29_tudor_second_final -              3e-38  122.4   0.9   3.3e-38  122.3   0.9   1.0   1   0   0   1   1   1   1 -
+Notospermus_geniculatus|NEMERTEA|SGF29|g38351.t1|TUD-2/2                      -          SGF29_tudor_second_final -              3e-38  122.4   0.9   3.3e-38  122.3   0.9   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|SGF29|015268666.1|TUD-2/2                            -          SGF29_tudor_second_final -            1.2e-37  120.5   1.4   1.4e-37  120.3   1.4   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|SGF29|001120013.1|TUD-2/2                         -          SGF29_tudor_second_final -            1.2e-37  120.5   1.4   1.4e-37  120.3   1.4   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|SGF29|612423.1|TUD-2/2                                  -          SGF29_tudor_second_final -            1.5e-37  120.2   1.2   1.6e-37  120.1   1.2   1.0   1   0   0   1   1   1   1 -
+Mizuhopecten_yessoensis|MOLLUSCA|SGF29|021370480.1|TUD-2/2                    -          SGF29_tudor_second_final -            1.9e-37  119.8   0.8   2.1e-37  119.7   0.8   1.0   1   0   0   1   1   1   1 -
+Centruroides_sculpturatus|ARTHROPODA|SGF29|023226680.1|TUD-2/2                -          SGF29_tudor_second_final -            2.3e-37  119.6   0.4   2.5e-37  119.5   0.4   1.0   1   0   0   1   1   1   1 -
+Owenia_fusiformis|ANNELIDA|SGF29|CAC9673121.1|TUD-2/2                         -          SGF29_tudor_second_final -            2.6e-37  119.4   0.4   2.8e-37  119.3   0.4   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|SGF29|005163867.1|TUD-2/2                                -          SGF29_tudor_second_final -            2.8e-37  119.4   0.9     3e-37  119.2   0.9   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|SGF29|033854107.1|TUD-2/2                         -          SGF29_tudor_second_final -            2.9e-37  119.3   1.0   3.1e-37  119.2   1.0   1.0   1   0   0   1   1   1   1 -
+Crassostrea_gigas|MOLLUSCA|SGF29|011449805.1|TUD-2/2                          -          SGF29_tudor_second_final -            2.9e-37  119.3   0.6   3.2e-37  119.1   0.6   1.0   1   0   0   1   1   1   1 -
+Branchiostoma_floridae|CHORDATA|SGF29|035690286.1|TUD-2/2                     -          SGF29_tudor_second_final -              3e-37  119.2   1.1   3.3e-37  119.1   1.1   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|SGF29|001026469.1|TUD-2/2                              -          SGF29_tudor_second_final -            3.4e-37  119.1   1.0   3.7e-37  119.0   1.1   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|SGF29|013398555.1|TUD-2/2                         -          SGF29_tudor_second_final -            3.6e-37  119.0   0.2   3.9e-37  118.9   0.2   1.0   1   0   0   1   1   1   1 -
+Helobdella_robusta|ANNELIDA|SGF29|009030879.1|TUD-2/2                         -          SGF29_tudor_second_final -            5.1e-37  118.5   0.4   5.6e-37  118.4   0.4   1.0   1   0   0   1   1   1   1 -
+Morbakka_virulenta|CNIDARIA|SGF29|scaffold41.g79.t2|TUD-2/2                   -          SGF29_tudor_second_final -            6.4e-37  118.2   1.5   6.9e-37  118.1   1.5   1.0   1   0   0   1   1   1   1 -
+Capitella_teleta|ANNELIDA|SGF29|ELU13680.1|TUD-2/2                            -          SGF29_tudor_second_final -            8.1e-37  117.9   0.5   8.8e-37  117.7   0.5   1.0   1   0   0   1   1   1   1 -
+Acropora_digitifera|CNIDARIA|SGF29|015775308.1|TUD-2/2                        -          SGF29_tudor_second_final -            1.3e-36  117.2   2.2   1.4e-36  117.1   2.2   1.0   1   0   0   1   1   1   1 -
+Petromyzon_marinus|CHORDATA|SGF29|032836905.1|TUD-2/2                         -          SGF29_tudor_second_final -            1.5e-36  117.0   1.1   1.7e-36  116.9   1.1   1.0   1   0   0   1   1   1   1 -
+Tetranychus_urticae|ARTHROPODA|SGF29|015785912.1|TUD-2/2                      -          SGF29_tudor_second_final -            1.9e-36  116.6   0.5   2.1e-36  116.5   0.5   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|SGF29|020601852.1|TUD-2/2                        -          SGF29_tudor_second_final -            2.3e-36  116.4   2.0   2.5e-36  116.3   2.0   1.0   1   0   0   1   1   1   1 -
+Anneissia_japonica|ECHINODERMATA|SGF29|033126773.1|TUD-2/2                    -          SGF29_tudor_second_final -            2.6e-36  116.2   0.9   2.8e-36  116.1   0.9   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|SGF29|027037797.1|TUD-2/2                     -          SGF29_tudor_second_final -            2.8e-36  116.1   1.8     3e-36  116.0   1.8   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|SGF29|028396712.1|TUD-2/2                    -          SGF29_tudor_second_final -            2.9e-36  116.1   1.1   3.1e-36  116.0   1.1   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|SGF29|029834913.1|TUD-2/2                        -          SGF29_tudor_second_final -            3.4e-36  115.9   0.2   3.7e-36  115.7   0.2   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|SGF29|029842495.1|TUD-2/2                        -          SGF29_tudor_second_final -            3.4e-36  115.9   0.2   3.7e-36  115.7   0.2   1.0   1   0   0   1   1   1   1 -
+Biomphalaria_glabrata|MOLLUSCA|SGF29|013082433.1|TUD-2/2                      -          SGF29_tudor_second_final -            4.6e-36  115.4   0.6     5e-36  115.3   0.6   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|SGF29|020899701.1|TUD-2/2                        -          SGF29_tudor_second_final -            4.8e-36  115.4   2.0   5.2e-36  115.3   2.0   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|SGF29|020902868.1|TUD-2/2                        -          SGF29_tudor_second_final -            4.8e-36  115.4   2.0   5.2e-36  115.3   2.0   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|SGF29|013782250.1|TUD-2/2                       -          SGF29_tudor_second_final -            5.3e-36  115.2   0.6   5.8e-36  115.1   0.6   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|SGF29|031553216.1|TUD-2/2                          -          SGF29_tudor_second_final -              6e-36  115.1   2.2   6.5e-36  114.9   2.2   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|SGF29|032220466.1|TUD-2/2                     -          SGF29_tudor_second_final -            6.5e-36  115.0   1.3   7.1e-36  114.8   1.3   1.0   1   0   0   1   1   1   1 -
+Phoronis_australis|PHORONIDA|SGF29|g8721.t1|TUD-2/2                           -          SGF29_tudor_second_final -            7.1e-36  114.8   0.2   7.7e-36  114.7   0.2   1.0   1   0   0   1   1   1   1 -
+Strongylocentrotus_purpuratus|ECHINODERMATA|SGF29|030847757.1|TUD-2/2         -          SGF29_tudor_second_final -            7.5e-36  114.8   0.2   8.2e-36  114.6   0.2   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|SGF29|029827253.1|TUD-2/2                        -          SGF29_tudor_second_final -            1.7e-35  113.6   0.2   1.8e-35  113.5   0.2   1.0   1   0   0   1   1   1   1 -
+Apis_mellifera|ARTHROPODA|SGF29|392238.1|TUD-2/2                              -          SGF29_tudor_second_final -            1.7e-35  113.6   1.2   1.9e-35  113.5   1.2   1.0   1   0   0   1   1   1   1 -
+Daphnia_magna|ARTHROPODA|SGF29|032788602.1|TUD-2/2                            -          SGF29_tudor_second_final -            2.3e-35  113.2   1.0   2.5e-35  113.1   1.0   1.0   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|SGF29|022808172.1|TUD-2/2                      -          SGF29_tudor_second_final -            2.6e-35  113.0   2.9   2.8e-35  112.9   2.9   1.0   1   0   0   1   1   1   1 -
+Saccoglossus_kowalevskii|HEMICHORDATA|SGF29|006811226.1|TUD-2/2               -          SGF29_tudor_second_final -            3.3e-35  112.7   1.3   3.7e-35  112.5   1.3   1.0   1   0   0   1   1   1   1 -
+Aurelia_aurita|CNIDARIA|SGF29|scaffold85.g74.t1|TUD-2/2                       -          SGF29_tudor_second_final -            3.4e-35  112.6   2.5   3.7e-35  112.5   2.5   1.0   1   0   0   1   1   1   1 -
+Asterias_rubens|ECHINODERMATA|SGF29|033627725.1|TUD-2/2                       -          SGF29_tudor_second_final -            3.4e-35  112.6   0.2   3.7e-35  112.5   0.2   1.0   1   0   0   1   1   1   1 -
+Clytia_hemisphaerica|CNIDARIA|SGF29|CLYHEMP002519.1|TUD-2/2                   -          SGF29_tudor_second_final -            4.6e-35  112.2   1.8     5e-35  112.1   1.8   1.0   1   0   0   1   1   1   1 -
+Lottia_gigantea|MOLLUSCA|SGF29|009053880.1|TUD-2/2                            -          SGF29_tudor_second_final -            5.3e-35  112.0   0.4   5.7e-35  111.9   0.4   1.0   1   0   0   1   1   1   1 -
+Drosophila_melanogaster|ARTHROPODA|SGF29|001286673.1|TUD-2/2                  -          SGF29_tudor_second_final -            5.7e-35  111.9   1.6   6.2e-35  111.8   1.6   1.0   1   0   0   1   1   1   1 -
+Ciona_intestinalis|CHORDATA|SGF29|002131731.1|TUD-2/2                         -          SGF29_tudor_second_final -            6.1e-35  111.8   0.6   6.6e-35  111.7   0.6   1.0   1   0   0   1   1   1   1 -
+Pomacea_canaliculata|MOLLUSCA|SGF29|025092215.1|TUD-2/2                       -          SGF29_tudor_second_final -            6.8e-35  111.7   0.1   7.4e-35  111.6   0.1   1.0   1   0   0   1   1   1   1 -
+Dimorphilus_gyrociliatus|ANNELIDA|SGF29|CAD5121737.1|TUD-2/2                  -          SGF29_tudor_second_final -            8.9e-35  111.3   0.4   9.7e-35  111.2   0.4   1.0   1   0   0   1   1   1   1 -
+Ephydatia_muelleri|PORIFERA|SGF29|Em0015g825a|TUD-2/2                         -          SGF29_tudor_second_final -            1.3e-34  110.8   1.0   1.4e-34  110.7   1.0   1.0   1   0   0   1   1   1   1 -
+Xenoturbella_bocki|XENACOELOMORPHA|SGF29|scaffold778_5|TUD-2/2                -          SGF29_tudor_second_final -            1.9e-34  110.3   0.3     2e-34  110.2   0.3   1.0   1   0   0   1   1   1   1 -
+Styela_clava|CHORDATA|SGF29|039252328.1|TUD-2/2                               -          SGF29_tudor_second_final -              2e-34  110.2   1.5   2.1e-34  110.1   1.5   1.0   1   0   0   1   1   1   1 -
+Penaeus_vannamei|ARTHROPODA|SGF29|027208623.1|TUD-2/2                         -          SGF29_tudor_second_final -            2.2e-34  110.1   0.8   2.4e-34  110.0   0.8   1.0   1   0   0   1   1   1   1 -
+Penaeus_vannamei|ARTHROPODA|SGF29|027220770.1|TUD-2/2                         -          SGF29_tudor_second_final -            2.2e-34  110.1   0.8   2.4e-34  110.0   0.8   1.0   1   0   0   1   1   1   1 -
+Varroa_destructor|ARTHROPODA|SGF29|022663967.1|TUD-2/2                        -          SGF29_tudor_second_final -            2.5e-34  109.9   0.4   2.7e-34  109.8   0.4   1.0   1   0   0   1   1   1   1 -
+Hyalella_azteca|ARTHROPODA|SGF29|018007814.1|TUD-2/2                          -          SGF29_tudor_second_final -              3e-34  109.6   1.7   3.3e-34  109.5   1.7   1.0   1   0   0   1   1   1   1 -
+Folsomia_candida|ARTHROPODA|SGF29|021967616.1|TUD-2/2                         -          SGF29_tudor_second_final -            5.4e-34  108.8   1.4   5.9e-34  108.7   1.4   1.0   1   0   0   1   1   1   1 -
+Brachionus_calyciflorus|ROTIFERA|SGF29|CAF0735560.1|TUD-2/2                   -          SGF29_tudor_second_final -            5.6e-34  108.8   0.6   6.1e-34  108.6   0.6   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|SGF29|CAB3376225.1|TUD-2/2                         -          SGF29_tudor_second_final -            6.1e-34  108.6   0.8   6.6e-34  108.5   0.8   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|SGF29|CAB3378029.1|TUD-2/2                         -          SGF29_tudor_second_final -            6.1e-34  108.6   0.8   6.6e-34  108.5   0.8   1.0   1   0   0   1   1   1   1 -
+Hydra_vulgaris|CNIDARIA|SGF29|002165233.3|TUD-2/2                             -          SGF29_tudor_second_final -            7.5e-34  108.4   2.6   8.1e-34  108.2   2.6   1.0   1   0   0   1   1   1   1 -
+Amphimedon_queenslandica|PORIFERA|SGF29|003386069.1|TUD-2/2                   -          SGF29_tudor_second_final -            1.1e-33  107.8   1.5   1.2e-33  107.7   1.5   1.0   1   0   0   1   1   1   1 -
+Lepeophtheirus_salmonis|ARTHROPODA|SGF29|040574722.1|TUD-2/2                  -          SGF29_tudor_second_final -            1.2e-33  107.8   0.3   1.3e-33  107.6   0.3   1.0   1   0   0   1   1   1   1 -
+Apostichopus_japonicus|ECHINODERMATA|SGF29|PIK51818.1|TUD-2/2                 -          SGF29_tudor_second_final -            1.2e-33  107.7   0.2   1.3e-33  107.6   0.2   1.0   1   0   0   1   1   1   1 -
+Schistosoma_mansoni|PLATYHELMINTHES|SGF29|018650376.1|TUD-2/2                 -          SGF29_tudor_second_final -            1.6e-33  107.3   0.7   1.7e-33  107.2   0.7   1.0   1   0   0   1   1   1   1 -
+Sitophilus_oryzae|ARTHROPODA|SGF29|030764031.1|TUD-2/2                        -          SGF29_tudor_second_final -            2.1e-33  106.9   0.9   2.3e-33  106.8   0.9   1.0   1   0   0   1   1   1   1 -
+Plectus_sambesii|NEMATODA|SGF29|PSAMB.scaffold1403size31945.g12978.t1|TUD-2/2 -          SGF29_tudor_second_final -            3.1e-33  106.4   2.2   3.4e-33  106.2   2.2   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|SGF29|PAA46652.1|TUD-2/2                  -          SGF29_tudor_second_final -            4.2e-33  105.9   0.4   4.6e-33  105.8   0.4   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|SGF29|PAA62485.1|TUD-2/2                  -          SGF29_tudor_second_final -            4.2e-33  105.9   0.4   4.6e-33  105.8   0.4   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|SGF29|PAA89033.1|TUD-2/2                  -          SGF29_tudor_second_final -            4.2e-33  105.9   0.4   4.6e-33  105.8   0.4   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|SGF29|PAA91002.1|TUD-2/2                  -          SGF29_tudor_second_final -            4.2e-33  105.9   0.4   4.6e-33  105.8   0.4   1.0   1   0   0   1   1   1   1 -
+Opisthorchis_viverrini|PLATYHELMINTHES|SGF29|009166963.1|TUD-2/2              -          SGF29_tudor_second_final -              5e-33  105.7   2.4   5.5e-33  105.6   2.4   1.0   1   0   0   1   1   1   1 -
+Bursaphelenchus_okinawaensis|NEMATODA|SGF29|CAG9111512.1|TUD-2/2              -          SGF29_tudor_second_final -            9.6e-33  104.8   0.7     1e-32  104.7   0.7   1.0   1   0   0   1   1   1   1 -
+Dimorphilus_gyrociliatus|ANNELIDA|SGF29|CAD5120874.1|TUD-2/2                  -          SGF29_tudor_second_final -            1.1e-32  104.7   0.5   1.1e-32  104.6   0.5   1.0   1   0   0   1   1   1   1 -
+Echinococcus_granulosus|PLATYHELMINTHES|SGF29|024347985.1|TUD-2/2             -          SGF29_tudor_second_final -            1.2e-32  104.5   3.1   1.3e-32  104.3   3.1   1.0   1   0   0   1   1   1   1 -
+Aphelenchus_avenae|NEMATODA|SGF29|KAH7712689.1|TUD-2/2                        -          SGF29_tudor_second_final -            1.7e-32  104.0   0.3   1.8e-32  103.9   0.3   1.0   1   0   0   1   1   1   1 -
+Aphelenchus_avenae|NEMATODA|SGF29|KAH7713072.1|TUD-2/2                        -          SGF29_tudor_second_final -            1.7e-32  104.0   0.3   1.8e-32  103.9   0.3   1.0   1   0   0   1   1   1   1 -
+Caenorhabditis_elegans|NEMATODA|SGF29|500635.3|TUD-2/2                        -          SGF29_tudor_second_final -            1.8e-32  104.0   1.5   1.9e-32  103.8   1.5   1.0   1   0   0   1   1   1   1 -
+Fasciola_hepatica|PLATYHELMINTHES|SGF29|THD21053.1|TUD-2/2                    -          SGF29_tudor_second_final -              2e-32  103.8   2.1   2.2e-32  103.7   2.1   1.0   1   0   0   1   1   1   1 -
+Necator_americanus|NEMATODA|SGF29|013292124.1|TUD-2/2                         -          SGF29_tudor_second_final -            2.2e-32  103.6   1.6   2.4e-32  103.5   1.6   1.0   1   0   0   1   1   1   1 -
+Parasteatoda_tepidariorum|ARTHROPODA|SGF29|015909233.1|TUD-2/2                -          SGF29_tudor_second_final -            2.8e-32  103.3   1.1     3e-32  103.2   1.1   1.0   1   0   0   1   1   1   1 -
+Brugia_malayi|NEMATODA|SGF29|001895773.1|TUD-2/2                              -          SGF29_tudor_second_final -            5.2e-32  102.5   1.1   5.6e-32  102.4   1.1   1.0   1   0   0   1   1   1   1 -
+Schmidtea_mediterranea|PLATYHELMINTHES|SGF29|SMEST035119001.1|TUD-2/2         -          SGF29_tudor_second_final -            7.2e-32  102.0   0.4   7.8e-32  101.9   0.4   1.0   1   0   0   1   1   1   1 -
+Dermatophagoides_pteronyssinus|ARTHROPODA|SGF29|027203741.1|TUD-2/2           -          SGF29_tudor_second_final -            1.4e-31  101.0   0.7   1.6e-31  100.9   0.7   1.0   1   0   0   1   1   1   1 -
+Loa_loa|NEMATODA|SGF29|003142479.1|TUD-2/2                                    -          SGF29_tudor_second_final -            1.5e-31  101.0   0.7   1.6e-31  100.9   0.7   1.0   1   0   0   1   1   1   1 -
+Oikopleura_dioica|CHORDATA|SGF29|CBY34948.1|TUD-2/2                           -          SGF29_tudor_second_final -            2.4e-31  100.3   0.1   2.6e-31  100.2   0.1   1.0   1   0   0   1   1   1   1 -
+Praesagittifera_naikaiensis|XENACOELOMORPHA|SGF29|g1664.t1|TUD-2/2            -          SGF29_tudor_second_final -            2.6e-31  100.2   1.3   2.8e-31  100.1   1.3   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|SGF29|CAF0917781.1|TUD-2/2                           -          SGF29_tudor_second_final -            2.8e-31  100.1   0.2     3e-31  100.0   0.2   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|SGF29|CAF1137397.1|TUD-2/2                           -          SGF29_tudor_second_final -            2.8e-31  100.1   0.2     3e-31  100.0   0.2   1.0   1   0   0   1   1   1   1 -
+Rotaria_socialis|ROTIFERA|SGF29|CAF4747258.1|TUD-2/2                          -          SGF29_tudor_second_final -            3.9e-31   99.7   0.2   4.2e-31   99.5   0.2   1.0   1   0   0   1   1   1   1 -
+Intoshia_linei|MESOZOA|SGF29|OAF69228.1|TUD-2/2                               -          SGF29_tudor_second_final -            4.3e-31   99.5   0.4   4.6e-31   99.4   0.4   1.0   1   0   0   1   1   1   1 -
+Trichoplax_adhaerens|PLACOZOA|SGF29|002117346.1|TUD-2/2                       -          SGF29_tudor_second_final -              2e-30   97.4   3.0   2.1e-30   97.3   3.0   1.0   1   0   0   1   1   1   1 -
+Trichoplax_spH2|PLACOZOA|SGF29|RDD38055.1|TUD-2/2                             -          SGF29_tudor_second_final -              2e-30   97.4   3.0   2.1e-30   97.3   3.0   1.0   1   0   0   1   1   1   1 -
+Ephydatia_muelleri|PORIFERA|SGF29|Em0015g863a|TUD-2/2                         -          SGF29_tudor_second_final -            6.7e-30   95.7   0.5   7.1e-30   95.6   0.5   1.0   1   0   0   1   1   1   1 -
+Rotaria_socialis|ROTIFERA|SGF29|CAF4705486.1|TUD-2/2                          -          SGF29_tudor_second_final -            6.8e-30   95.7   0.4   7.4e-30   95.6   0.4   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|SGF29|CAF0757236.1|TUD-2/2                           -          SGF29_tudor_second_final -            8.6e-30   95.4   0.2   9.3e-30   95.2   0.2   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|SGF29|CAF0748725.1|TUD-2/2                           -          SGF29_tudor_second_final -            9.3e-30   95.2   0.2     1e-29   95.1   0.2   1.0   1   0   0   1   1   1   1 -
+Capsaspora_owczarzaki|FILASTEREA|SGF29|004365777.2|TUD-2/2                    -          SGF29_tudor_second_final -              3e-27   87.2   0.2   3.2e-27   87.1   0.2   1.0   1   0   0   1   1   1   1 -
+Strongyloides_ratti|NEMATODA|SGF29|024503800.1|TUD-2/2                        -          SGF29_tudor_second_final -            3.7e-27   86.9   0.0     4e-27   86.8   0.0   1.0   1   0   0   1   1   1   1 -
+Chromosphaera_perkinsii|ICHTHYOSPOREA|SGF29|evm6s335|TUD-2/2                  -          SGF29_tudor_second_final -              4e-27   86.8   1.0   4.5e-27   86.7   1.0   1.0   1   0   0   1   1   1   1 -
+Sphaeroforma_arctica|ICHTHYOSPOREA|SGF29|014157233.1|TUD-4/4                  -          SGF29_tudor_second_final -            9.1e-27   85.7   0.1   1.1e-26   85.4   0.1   1.1   1   0   0   1   1   1   1 -
+Salpingoeca_rosetta|CHOANOFALGELLATA|SGF29|004993299.1|TUD-2/2                -          SGF29_tudor_second_final -            1.3e-26   85.2   0.2   1.4e-26   85.1   0.2   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|SGF29|026463016.1|TUD-2/2                    -          SGF29_tudor_second_final -            7.2e-26   82.8   1.1   9.9e-26   82.3   1.1   1.2   1   0   0   1   1   1   1 -
+Parasteatoda_tepidariorum|ARTHROPODA|SGF29|015924636.1|TUD-2/2                -          SGF29_tudor_second_final -            1.5e-25   81.7   0.5   1.7e-25   81.6   0.5   1.0   1   0   0   1   1   1   1 -
+Aplysia_californica|MOLLUSCA|SGF29|035828593.1|TUD-2/2                        -          SGF29_tudor_second_final -              2e-25   81.4   0.3   2.2e-25   81.2   0.3   1.0   1   0   0   1   1   1   1 -
+Caenorhabditis_elegans|NEMATODA|SGF29|508949.1|TUD-2/2                        -          SGF29_tudor_second_final -            2.8e-25   80.9   0.0     3e-25   80.8   0.0   1.0   1   0   0   1   1   1   1 -
+Aphis_gossypii|ARTHROPODA|SGF29|027847652.1|TUD-2/2                           -          SGF29_tudor_second_final -            2.9e-25   80.8   3.3   3.2e-25   80.7   3.3   1.0   1   0   0   1   1   1   1 -
+Corallochytrium_limacisporum|INCERTAE_SEDIS|SGF29|evm11s183|TUD-2/2           -          SGF29_tudor_second_final -            4.7e-23   73.8   0.0     5e-23   73.7   0.0   1.0   1   0   0   1   1   1   1 -
+Didymodactylos_carnosus|ROTIFERA|SGF29|CAF1655673.1|TUD-2/2                   -          SGF29_tudor_second_final -            2.8e-22   71.3   0.0   2.9e-22   71.2   0.0   1.0   1   0   0   1   1   1   1 -
+Monosiga_brevicollis|CHOANOFLAGELLATA|SGF29|EDQ84504|TUD-2/2                  -          SGF29_tudor_second_final -            1.6e-21   68.8   0.1   1.8e-21   68.7   0.1   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/SGF29_tudor_second_final.hmm
+# Target file:     ../../SGF29_tudor_second_final.fasta
+# Option settings: hmmsearch --tblout SGF29_tudor_second_final.txt ../0.5/SGF29_tudor_second_final.hmm ../../SGF29_tudor_second_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:22 2022
+# [ok]

@@ -1,0 +1,99 @@
+#                                                                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                                      accession  query name              accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                              ------------------- ----------    -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Notospermus_geniculatus|NEMERTEA|PHF20-20L1|g28637.t1|TUD-2/2                      -          PHF20-20L1_tudor_second -            7.4e-28   88.9   0.4     8e-28   88.8   0.4   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|PHF20-20L1|027041228.1|TUD-2/2                     -          PHF20-20L1_tudor_second -            1.1e-27   88.4   0.4   1.1e-27   88.3   0.4   1.0   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|PHF20-20L1|022802937.1|TUD-2/2                      -          PHF20-20L1_tudor_second -            1.1e-27   88.4   0.4   1.1e-27   88.3   0.4   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|PHF20-20L1|032233328.1|TUD-2/2                     -          PHF20-20L1_tudor_second -            1.3e-27   88.2   0.1   1.4e-27   88.1   0.1   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|PHF20-20L1|020617827.1|TUD-2/2                        -          PHF20-20L1_tudor_second -            1.4e-27   88.0   0.7   1.5e-27   87.9   0.7   1.0   1   0   0   1   1   1   1 -
+Branchiostoma_floridae|CHORDATA|PHF20-20L1|035658926.1|TUD-2/2                     -          PHF20-20L1_tudor_second -            3.6e-27   86.7   0.5   3.9e-27   86.6   0.5   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|PHF20-20L1|021335514.1|TUD-2/2                                -          PHF20-20L1_tudor_second -            9.3e-27   85.4   0.5   9.9e-27   85.3   0.5   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|PHF20-20L1|012820619.2|TUD-2/2                         -          PHF20-20L1_tudor_second -            1.5e-26   84.7   0.1   1.6e-26   84.6   0.1   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|PHF20-20L1|057520.2|TUD-2/2                                  -          PHF20-20L1_tudor_second -            1.6e-26   84.7   0.9   1.7e-26   84.6   0.9   1.0   1   0   0   1   1   1   1 -
+Petromyzon_marinus|CHORDATA|PHF20-20L1|032808682.1|TUD-2/2                         -          PHF20-20L1_tudor_second -            1.7e-26   84.6   1.2   1.8e-26   84.5   1.2   1.0   1   0   0   1   1   1   1 -
+Crassostrea_gigas|MOLLUSCA|PHF20-20L1|011428047.2|TUD-2/2                          -          PHF20-20L1_tudor_second -            1.9e-26   84.4   1.2     2e-26   84.3   1.2   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|PHF20-20L1|015138570.1|TUD-2/2                              -          PHF20-20L1_tudor_second -              2e-26   84.4   0.0   2.1e-26   84.3   0.0   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|PHF20-20L1|015271153.1|TUD-2/2                            -          PHF20-20L1_tudor_second -              2e-26   84.4   0.0   2.1e-26   84.3   0.0   1.0   1   0   0   1   1   1   1 -
+Capitella_teleta|ANNELIDA|PHF20-20L1|ELT97191.1|TUD-2/2                            -          PHF20-20L1_tudor_second -            2.2e-26   84.2   0.0   2.3e-26   84.1   0.0   1.0   1   0   0   1   1   1   1 -
+Pomacea_canaliculata|MOLLUSCA|PHF20-20L1|025090170.1|TUD-2/2                       -          PHF20-20L1_tudor_second -            2.9e-26   83.8   0.5   3.1e-26   83.7   0.5   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|PHF20-20L1|015151748.1|TUD-2/2                              -          PHF20-20L1_tudor_second -            3.3e-26   83.7   1.1   3.5e-26   83.6   1.1   1.0   1   0   0   1   1   1   1 -
+Asterias_rubens|ECHINODERMATA|PHF20-20L1|033640346.1|TUD-2/2                       -          PHF20-20L1_tudor_second -            3.3e-26   83.6   0.1   3.5e-26   83.6   0.1   1.0   1   0   0   1   1   1   1 -
+Anneissia_japonica|ECHINODERMATA|PHF20-20L1|033124912.1|TUD-2/2                    -          PHF20-20L1_tudor_second -            4.5e-26   83.2   0.0   4.9e-26   83.1   0.0   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|PHF20-20L1|009290756.1|TUD-2/2                                -          PHF20-20L1_tudor_second -            5.3e-26   83.0   0.1   5.7e-26   82.9   0.1   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|PHF20-20L1|011515377.1|TUD-2/2                               -          PHF20-20L1_tudor_second -            5.5e-26   82.9   0.0   5.9e-26   82.8   0.0   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|PHF20-20L1|015263711.1|TUD-2/2                            -          PHF20-20L1_tudor_second -            7.1e-26   82.6   1.0   7.6e-26   82.5   1.0   1.0   1   0   0   1   1   1   1 -
+Apostichopus_japonicus|ECHINODERMATA|PHF20-20L1|PIK32973.1|TUD-2/2                 -          PHF20-20L1_tudor_second -            7.9e-26   82.4   0.1   8.3e-26   82.4   0.1   1.0   1   0   0   1   1   1   1 -
+Mizuhopecten_yessoensis|MOLLUSCA|PHF20-20L1|021354916.1|TUD-2/2                    -          PHF20-20L1_tudor_second -            9.1e-26   82.2   0.1   9.7e-26   82.1   0.1   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|PHF20-20L1|032876258.1|TUD-2/2                          -          PHF20-20L1_tudor_second -            1.3e-25   81.7   0.0   1.4e-25   81.6   0.0   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|PHF20-20L1|004918557.1|TUD-2/2                         -          PHF20-20L1_tudor_second -            1.8e-25   81.3   0.4     2e-25   81.2   0.4   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|PHF20-20L1|033856449.1|TUD-2/2                         -          PHF20-20L1_tudor_second -            2.2e-25   81.0   0.1   2.4e-25   80.9   0.1   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|PHF20-20L1|034776933.1|TUD-2/2                         -          PHF20-20L1_tudor_second -            2.2e-25   81.0   0.1   2.4e-25   80.9   0.1   1.0   1   0   0   1   1   1   1 -
+Phoronis_australis|PHORONIDA|PHF20-20L1|g3508.t1|TUD-2/2                           -          PHF20-20L1_tudor_second -            2.6e-25   80.8   0.1   2.8e-25   80.7   0.1   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|PHF20-20L1|013792164.1|TUD-2/3                       -          PHF20-20L1_tudor_second -            2.8e-25   80.7   0.3     3e-25   80.6   0.3   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|PHF20-20L1|013405800.1|TUD-2/2                         -          PHF20-20L1_tudor_second -            3.6e-25   80.3   0.3   3.9e-25   80.2   0.3   1.0   1   0   0   1   1   1   1 -
+Centruroides_sculpturatus|ARTHROPODA|PHF20-20L1|023218396.1|TUD-2/2                -          PHF20-20L1_tudor_second -            4.1e-25   80.2   0.0   4.3e-25   80.1   0.0   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|PHF20-20L1|032897715.1|TUD-2/2                          -          PHF20-20L1_tudor_second -            4.2e-25   80.1   0.3   4.5e-25   80.0   0.3   1.0   1   0   0   1   1   1   1 -
+Aplysia_californica|MOLLUSCA|PHF20-20L1|012936055.1|TUD-2/2                        -          PHF20-20L1_tudor_second -            5.4e-25   79.8   0.0   5.8e-25   79.7   0.0   1.0   1   0   0   1   1   1   1 -
+Acropora_digitifera|CNIDARIA|PHF20-20L1|015757337.1|TUD-2/2                        -          PHF20-20L1_tudor_second -            5.8e-25   79.7   0.6   6.2e-25   79.6   0.6   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|PHF20-20L1|033891832.2|TUD-2/2                         -          PHF20-20L1_tudor_second -            1.6e-24   78.2   0.2   1.7e-24   78.1   0.2   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|PHF20-20L1|034761574.1|TUD-2/2                         -          PHF20-20L1_tudor_second -            1.6e-24   78.2   0.2   1.7e-24   78.1   0.2   1.0   1   0   0   1   1   1   1 -
+Owenia_fusiformis|ANNELIDA|PHF20-20L1|CAC9570217.1|TUD-2/2                         -          PHF20-20L1_tudor_second -            1.8e-24   78.1   0.0   1.9e-24   78.0   0.0   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|PHF20-20L1|020895516.1|TUD-2/2                        -          PHF20-20L1_tudor_second -              2e-24   77.9   0.5   2.2e-24   77.8   0.5   1.0   1   0   0   1   1   1   1 -
+Ixodes_scapularis|ARTHROPODA|PHF20-20L1|029836336.1|TUD-2/2                        -          PHF20-20L1_tudor_second -            2.6e-24   77.6   0.1   2.8e-24   77.5   0.1   1.0   1   0   0   1   1   1   1 -
+Biomphalaria_glabrata|MOLLUSCA|PHF20-20L1|013082818.1|TUD-2/2                      -          PHF20-20L1_tudor_second -            3.4e-24   77.2   0.0   3.7e-24   77.1   0.0   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|PHF20-20L1|005162050.1|TUD-2/2                                -          PHF20-20L1_tudor_second -            4.9e-24   76.7   0.9   5.3e-24   76.6   0.9   1.0   1   0   0   1   1   1   1 -
+Cryptotermes_secundus|ARTHROPODA|PHF20-20L1|033607480.1|TUD-2/2                    -          PHF20-20L1_tudor_second -            5.9e-24   76.4   0.1   6.3e-24   76.3   0.1   1.0   1   0   0   1   1   1   1 -
+Strongylocentrotus_purpuratus|ECHINODERMATA|PHF20-20L1|030829630.1|TUD-2/2         -          PHF20-20L1_tudor_second -            1.1e-23   75.6   0.1   1.1e-23   75.5   0.1   1.0   1   0   0   1   1   1   1 -
+Styela_clava|CHORDATA|PHF20-20L1|039260650.1|TUD-5/5                               -          PHF20-20L1_tudor_second -            1.6e-23   75.1   0.0   1.7e-23   75.0   0.0   1.0   1   0   0   1   1   1   1 -
+Saccoglossus_kowalevskii|HEMICHORDATA|PHF20-20L1|006821213.1|TUD-2/2               -          PHF20-20L1_tudor_second -            1.6e-23   75.0   0.1   1.7e-23   75.0   0.1   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|PHF20-20L1|031563221.1|TUD-2/2                          -          PHF20-20L1_tudor_second -            2.3e-23   74.5   0.8   2.5e-23   74.4   0.8   1.0   1   0   0   1   1   1   1 -
+Schmidtea_mediterranea|PLATYHELMINTHES|PHF20-20L1|SMEST042693001.1|TUD-2/2         -          PHF20-20L1_tudor_second -            6.9e-23   73.0   0.5   8.2e-23   72.8   0.5   1.1   1   0   0   1   1   1   1 -
+Ciona_intestinalis|CHORDATA|PHF20-20L1|009861876.2|TUD-5/5                         -          PHF20-20L1_tudor_second -            1.4e-22   72.0   0.1   1.5e-22   71.9   0.1   1.0   1   0   0   1   1   1   1 -
+Styela_clava|CHORDATA|PHF20-20L1|039260650.1|TUD-2/5                               -          PHF20-20L1_tudor_second -            1.8e-22   71.7   0.0   1.9e-22   71.6   0.0   1.0   1   0   0   1   1   1   1 -
+Trichoplax_spH2|PLACOZOA|PHF20-20L1|RDD39330.1|TUD-2/2                             -          PHF20-20L1_tudor_second -            2.2e-22   71.4   0.0   2.4e-22   71.3   0.0   1.0   1   0   0   1   1   1   1 -
+Morbakka_virulenta|CNIDARIA|PHF20-20L1|scaffold98.g45.t1|TUD-2/2                   -          PHF20-20L1_tudor_second -            4.3e-22   70.5   0.1   4.6e-22   70.4   0.1   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|PHF20-20L1|028406007.1|TUD-2/2                    -          PHF20-20L1_tudor_second -            4.9e-22   70.3   1.5   5.2e-22   70.2   1.5   1.0   1   0   0   1   1   1   1 -
+Apis_mellifera|ARTHROPODA|PHF20-20L1|006566199.1|TUD-2/2                           -          PHF20-20L1_tudor_second -            1.1e-21   69.1   0.1   1.2e-21   69.1   0.1   1.0   1   0   0   1   1   1   1 -
+Daphnia_magna|ARTHROPODA|PHF20-20L1|032783307.1|TUD-2/2                            -          PHF20-20L1_tudor_second -            1.2e-21   69.0   0.1   1.3e-21   68.9   0.1   1.0   1   0   0   1   1   1   1 -
+Dermatophagoides_pteronyssinus|ARTHROPODA|PHF20-20L1|027198115.1|TUD-2/2           -          PHF20-20L1_tudor_second -            1.8e-21   68.5   0.4   1.9e-21   68.4   0.4   1.0   1   0   0   1   1   1   1 -
+Aurelia_aurita|CNIDARIA|PHF20-20L1|scaffold228.g23.t1|TUD-2/2                      -          PHF20-20L1_tudor_second -            2.7e-21   67.9   0.0   2.9e-21   67.8   0.0   1.0   1   0   0   1   1   1   1 -
+Ciona_intestinalis|CHORDATA|PHF20-20L1|009861876.2|TUD-2/5                         -          PHF20-20L1_tudor_second -            3.1e-21   67.7   0.0   3.3e-21   67.6   0.0   1.0   1   0   0   1   1   1   1 -
+Oikopleura_dioica|CHORDATA|PHF20-20L1|CBY39881.1|TUD-3/4                           -          PHF20-20L1_tudor_second -            7.5e-21   66.5   0.0   8.2e-21   66.4   0.0   1.0   1   0   0   1   1   1   1 -
+Cloeon_dipterum|ARTHROPODA|PHF20-20L1|CAB3366649.1|TUD-2/2                         -          PHF20-20L1_tudor_second -            8.4e-21   66.3   0.3   8.9e-21   66.3   0.3   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|PHF20-20L1|026477016.1|TUD-2/2                    -          PHF20-20L1_tudor_second -            8.8e-21   66.3   0.0   9.1e-21   66.2   0.0   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|PHF20-20L1|013792164.1|TUD-3/3                       -          PHF20-20L1_tudor_second -            1.4e-20   65.7   0.1   1.5e-20   65.6   0.1   1.0   1   0   0   1   1   1   1 -
+Styela_clava|CHORDATA|PHF20-20L1|039260650.1|TUD-3/5                               -          PHF20-20L1_tudor_second -            2.1e-20   65.0   0.7   2.3e-20   65.0   0.7   1.0   1   0   0   1   1   1   1 -
+Clytia_hemisphaerica|CNIDARIA|PHF20-20L1|CLYHEMP006796.1|TUD-2/2                   -          PHF20-20L1_tudor_second -            4.3e-20   64.1   0.0   4.6e-20   64.0   0.0   1.0   1   0   0   1   1   1   1 -
+Ciona_intestinalis|CHORDATA|PHF20-20L1|009861876.2|TUD-4/5                         -          PHF20-20L1_tudor_second -            6.8e-20   63.4   0.3   7.2e-20   63.3   0.3   1.0   1   0   0   1   1   1   1 -
+Styela_clava|CHORDATA|PHF20-20L1|039260650.1|TUD-4/5                               -          PHF20-20L1_tudor_second -            7.4e-20   63.3   0.6   7.9e-20   63.2   0.6   1.0   1   0   0   1   1   1   1 -
+Ciona_intestinalis|CHORDATA|PHF20-20L1|009861876.2|TUD-3/5                         -          PHF20-20L1_tudor_second -            2.5e-19   61.6   0.1   2.6e-19   61.6   0.1   1.0   1   0   0   1   1   1   1 -
+Hyalella_azteca|ARTHROPODA|PHF20-20L1|018026843.1|TUD-2/2                          -          PHF20-20L1_tudor_second -            2.9e-19   61.4   0.0   3.1e-19   61.3   0.0   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|PHF20-20L1|PAA65971.1|TUD-2/2                  -          PHF20-20L1_tudor_second -            8.6e-19   59.9   0.1   9.3e-19   59.8   0.1   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|PHF20-20L1|PAA66457.1|TUD-2/2                  -          PHF20-20L1_tudor_second -            8.6e-19   59.9   0.1   9.3e-19   59.8   0.1   1.0   1   0   0   1   1   1   1 -
+Macrostomum_lignano|PLATYHELMINTHES|PHF20-20L1|PAA66462.1|TUD-2/2                  -          PHF20-20L1_tudor_second -            8.6e-19   59.9   0.1   9.3e-19   59.8   0.1   1.0   1   0   0   1   1   1   1 -
+Capsaspora_owczarzaki|FILASTEREA|PHF20-20L1|004348170.1|TUD-2/2                    -          PHF20-20L1_tudor_second -            2.8e-18   58.3   0.0     3e-18   58.2   0.0   1.0   1   0   0   1   1   1   1 -
+Drosophila_melanogaster|ARTHROPODA|PHF20-20L1|731688.2|TUD-2/2                     -          PHF20-20L1_tudor_second -            4.3e-18   57.7   0.0   4.6e-18   57.6   0.0   1.0   1   0   0   1   1   1   1 -
+Sitophilus_oryzae|ARTHROPODA|PHF20-20L1|030752278.1|TUD-2/2                        -          PHF20-20L1_tudor_second -            2.3e-17   55.3   0.2   2.5e-17   55.2   0.2   1.0   1   0   0   1   1   1   1 -
+Brachionus_calyciflorus|ROTIFERA|PHF20-20L1|CAF0916481.1|TUD-2/2                   -          PHF20-20L1_tudor_second -            2.4e-17   55.2   0.1   2.7e-17   55.1   0.1   1.0   1   0   0   1   1   1   1 -
+Ephydatia_muelleri|PORIFERA|PHF20-20L1|Em0005g1676a|TUD-2/2                        -          PHF20-20L1_tudor_second -            6.9e-17   53.8   0.0   7.1e-17   53.8   0.0   1.0   1   0   0   1   1   1   1 -
+Bugula_neritina|BRIOZOA|PHF20-20L1|KAF6031691.1|TUD-2/2                            -          PHF20-20L1_tudor_second -            1.7e-16   52.6   0.1   1.8e-16   52.5   0.1   1.0   1   0   0   1   1   1   1 -
+Parasteatoda_tepidariorum|ARTHROPODA|PHF20-20L1|015912983.1|TUD-2/2                -          PHF20-20L1_tudor_second -            2.6e-16   52.0   0.2   2.8e-16   51.9   0.2   1.0   1   0   0   1   1   1   1 -
+Plectus_sambesii|NEMATODA|PHF20-20L1|PSAMB.scaffold1074size36356.g11333.t1|TUD-2/2 -          PHF20-20L1_tudor_second -            5.8e-16   50.8   0.0   6.6e-16   50.7   0.0   1.1   1   0   0   1   1   1   1 -
+Plectus_sambesii|NEMATODA|PHF20-20L1|PSAMB.scaffold1699size28609.g14572.t1|TUD-2/2 -          PHF20-20L1_tudor_second -            5.8e-16   50.8   0.0   6.6e-16   50.7   0.0   1.1   1   0   0   1   1   1   1 -
+Salpingoeca_rosetta|CHOANOFALGELLATA|PHF20-20L1|004989648.1|TUD-2/2                -          PHF20-20L1_tudor_second -            5.6e-15   47.7   0.2   6.4e-15   47.5   0.2   1.1   1   0   0   1   1   1   1 -
+Corallochytrium_limacisporum|INCERTAE_SEDIS|PHF20-20L1|evm66s153|TUD-2/2           -          PHF20-20L1_tudor_second -            1.5e-14   46.3   1.0   1.6e-14   46.2   1.0   1.0   1   0   0   1   1   1   1 -
+Hypsibius_dujardini|TARDIGRADA|PHF20-20L1|OQV22300.1|TUD-2/2                       -          PHF20-20L1_tudor_second -            4.6e-14   44.8   0.0   4.9e-14   44.7   0.0   1.0   1   0   0   1   1   1   1 -
+Oikopleura_dioica|CHORDATA|PHF20-20L1|CBY39881.1|TUD-2/4                           -          PHF20-20L1_tudor_second -            1.7e-12   39.8   0.1   1.8e-12   39.6   0.1   1.0   1   0   0   1   1   1   1 -
+Amphimedon_queenslandica|PORIFERA|PHF20-20L1|019853491.1|TUD-2/2                   -          PHF20-20L1_tudor_second -            3.4e-12   38.8   0.4   3.7e-12   38.7   0.4   1.0   1   0   0   1   1   1   1 -
+Oikopleura_dioica|CHORDATA|PHF20-20L1|CBY39881.1|TUD-4/4                           -          PHF20-20L1_tudor_second -            5.3e-12   38.2   0.8   5.7e-12   38.1   0.8   1.0   1   0   0   1   1   1   1 -
+Ramazzottius_varieornatus|TARDIGRADA|PHF20-20L1|GAV05327.1|TUD-2/2                 -          PHF20-20L1_tudor_second -            1.8e-10   33.2   0.0   2.1e-10   33.1   0.0   1.1   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/PHF20-20L1_tudor_second.hmm
+# Target file:     ../../PHF20-20L1_tudor_second.fasta
+# Option settings: hmmsearch --tblout PHF20-20L1_tudor_second.txt ../0.5/PHF20-20L1_tudor_second.hmm ../../PHF20-20L1_tudor_second.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:22 2022
+# [ok]

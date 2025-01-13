@@ -1,0 +1,20 @@
+#                                                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Gekko_japonicus|CHORDATA|TDRD10|015274585.1|TUD-1/1      -          TDRD10_tudor_final   -            3.4e-55  173.8   0.2   3.8e-55  173.7   0.2   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|TDRD10|011507454.1|TUD-1/1         -          TDRD10_tudor_final   -            4.5e-54  170.2   0.3     5e-54  170.0   0.3   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|TDRD10|032871766.1|TUD-1/1    -          TDRD10_tudor_final   -            1.8e-53  168.3   0.3   1.9e-53  168.2   0.3   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|TDRD10|004920072.2|TUD-1/1   -          TDRD10_tudor_final   -            2.1e-51  161.6   0.2   2.3e-51  161.5   0.2   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|TDRD10|034775873.1|TUD-1/1   -          TDRD10_tudor_final   -            1.8e-47  149.0   0.2   2.1e-47  148.8   0.2   1.1   1   0   0   1   1   1   1 -
+Pomacea_canaliculata|MOLLUSCA|TDRD10|025076996.1|TUD-1/1 -          TDRD10_tudor_final   -            1.8e-38  120.0   0.1     2e-38  119.9   0.1   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|TDRD10|034775851.1|TUD-1/1   -          TDRD10_tudor_final   -            3.8e-21   64.4   0.0     4e-21   64.3   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/TDRD10_tudor_final.hmm
+# Target file:     ../../TDRD10_tudor_final.fasta
+# Option settings: hmmsearch --tblout TDRD10_tudor_final.txt ../0.5/TDRD10_tudor_final.hmm ../../TDRD10_tudor_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:22 2022
+# [ok]

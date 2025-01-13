@@ -1,0 +1,22 @@
+#                                                                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                                     accession  query name            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                             ------------------- ----------  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Plectus_sambesii|NEMATODA|OG0019651|PSAMB.scaffold309size57607.g4429.t2|TUD-1/2   -          OG0019651_tudor_final -            3.6e-49  154.8   0.0     4e-49  154.6   0.0   1.0   1   0   0   1   1   1   1 -
+Plectus_sambesii|NEMATODA|OG0019651|PSAMB.scaffold2415size23357.g17768.t1|TUD-1/2 -          OG0019651_tudor_final -              3e-48  151.8   0.0   3.3e-48  151.7   0.0   1.0   1   0   0   1   1   1   1 -
+Caenorhabditis_elegans|NEMATODA|OG0019651|741669.2|TUD-1/2                        -          OG0019651_tudor_final -            3.1e-46  145.3   0.0   3.4e-46  145.2   0.0   1.0   1   0   0   1   1   1   1 -
+Caenorhabditis_elegans|NEMATODA|OG0019651|501230.1|TUD-1/2                        -          OG0019651_tudor_final -              2e-43  136.3   0.0   2.2e-43  136.1   0.0   1.0   1   0   0   1   1   1   1 -
+Brugia_malayi|NEMATODA|OG0019651|001892262.1|TUD-2/2                              -          OG0019651_tudor_final -            6.4e-43  134.6   0.0   7.1e-43  134.5   0.0   1.0   1   0   0   1   1   1   1 -
+Loa_loa|NEMATODA|OG0019651|003142086.1|TUD-2/2                                    -          OG0019651_tudor_final -            2.7e-41  129.4   0.0   2.9e-41  129.3   0.0   1.0   1   0   0   1   1   1   1 -
+Hypsibius_dujardini|TARDIGRADA|OG0019651|OQV22458.1|TUD-1/1                       -          OG0019651_tudor_final -              8e-33  102.1   0.0   8.7e-33  102.0   0.0   1.0   1   0   0   1   1   1   1 -
+Brugia_malayi|NEMATODA|OG0019651|001892262.1|TUD-1/2                              -          OG0019651_tudor_final -            3.5e-30   93.7   0.2   3.7e-30   93.5   0.2   1.0   1   0   0   1   1   1   1 -
+Loa_loa|NEMATODA|OG0019651|003142086.1|TUD-1/2                                    -          OG0019651_tudor_final -            3.6e-29   90.4   0.2   3.9e-29   90.3   0.2   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/OG0019651_tudor_final.hmm
+# Target file:     ../../OG0019651_tudor_final.fasta
+# Option settings: hmmsearch --tblout OG0019651_tudor_final.txt ../0.5/OG0019651_tudor_final.hmm ../../OG0019651_tudor_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:21 2022
+# [ok]

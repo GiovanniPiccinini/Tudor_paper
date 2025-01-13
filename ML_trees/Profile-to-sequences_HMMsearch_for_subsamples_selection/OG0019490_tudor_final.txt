@@ -1,0 +1,19 @@
+#                                                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                accession  query name            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                        ------------------- ----------  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Aplysia_californica|MOLLUSCA|OG0019490|012946537.1|TUD-1/1   -          OG0019490_tudor_final -            5.5e-63  199.0   0.1     6e-63  198.9   0.1   1.0   1   0   0   1   1   1   1 -
+Biomphalaria_glabrata|MOLLUSCA|OG0019490|013082782.1|TUD-1/1 -          OG0019490_tudor_final -            4.8e-55  173.5   0.1   5.2e-55  173.3   0.1   1.0   1   0   0   1   1   1   1 -
+Aplysia_californica|MOLLUSCA|OG0019490|012946235.1|TUD-1/1   -          OG0019490_tudor_final -            5.3e-50  157.2   0.1   5.9e-50  157.1   0.1   1.0   1   0   0   1   1   1   1 -
+Aplysia_californica|MOLLUSCA|OG0019490|012946533.1|TUD-1/1   -          OG0019490_tudor_final -            1.7e-48  152.3   0.0   1.9e-48  152.2   0.0   1.0   1   0   0   1   1   1   1 -
+Aplysia_californica|MOLLUSCA|OG0019490|012942127.1|TUD-1/1   -          OG0019490_tudor_final -            6.3e-38  118.4   0.0   6.8e-38  118.2   0.0   1.0   1   0   0   1   1   1   1 -
+Aplysia_californica|MOLLUSCA|OG0019490|012942160.1|TUD-1/1   -          OG0019490_tudor_final -            5.7e-27   83.1   0.3   6.1e-27   83.0   0.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/OG0019490_tudor_final.hmm
+# Target file:     ../../OG0019490_tudor_final.fasta
+# Option settings: hmmsearch --tblout OG0019490_tudor_final.txt ../0.5/OG0019490_tudor_final.hmm ../../OG0019490_tudor_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:21 2022
+# [ok]

@@ -1,0 +1,61 @@
+#                                                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                   accession  query name                 accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                           ------------------- ----------       -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Actinia_tenebrosa|CNIDARIA|OG0010217|031568553.1|TUD-6/8        -          OG0010217_tudor_even_final -            1.2e-30   96.8   0.4   1.3e-30   96.7   0.4   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|001622487.1|TUD-6/8   -          OG0010217_tudor_even_final -            9.5e-30   93.9   0.3     1e-29   93.8   0.3   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|032227014.1|TUD-6/8   -          OG0010217_tudor_even_final -            9.8e-30   93.9   0.2   1.1e-29   93.8   0.2   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020604698.1|TUD-4/4      -          OG0010217_tudor_even_final -            1.3e-29   93.5   0.2   1.4e-29   93.4   0.2   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|OG0010217|031568553.1|TUD-4/8        -          OG0010217_tudor_even_final -            2.1e-29   92.8   0.2   2.2e-29   92.8   0.2   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|032227014.1|TUD-8/8   -          OG0010217_tudor_even_final -            4.9e-29   91.7   0.3   5.2e-29   91.6   0.3   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|001622487.1|TUD-8/8   -          OG0010217_tudor_even_final -            1.4e-28   90.2   0.3   1.5e-28   90.1   0.3   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|001622487.1|TUD-4/8   -          OG0010217_tudor_even_final -            3.1e-28   89.1   0.7   3.3e-28   89.0   0.7   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|OG0010217|031568553.1|TUD-2/8        -          OG0010217_tudor_even_final -            3.3e-28   89.0   0.1   3.6e-28   88.9   0.1   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|OG0010217|031568553.1|TUD-8/8        -          OG0010217_tudor_even_final -            2.5e-27   86.2   0.1   2.7e-27   86.1   0.1   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020616585.1|TUD-4/8      -          OG0010217_tudor_even_final -            3.9e-27   85.6   1.8   8.7e-27   84.5   1.8   1.5   1   1   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020616585.1|TUD-8/8      -          OG0010217_tudor_even_final -            3.9e-27   85.6   1.8   8.7e-27   84.5   1.8   1.5   1   1   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|OG0010217|031568556.1|TUD-4/8        -          OG0010217_tudor_even_final -            6.7e-27   84.8   0.1   7.1e-27   84.7   0.1   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|001622487.1|TUD-2/8   -          OG0010217_tudor_even_final -            7.2e-27   84.7   0.0   7.7e-27   84.6   0.0   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|032233056.1|TUD-2/2   -          OG0010217_tudor_even_final -            7.2e-27   84.7   0.0   7.7e-27   84.6   0.0   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020616583.1|TUD-8/8      -          OG0010217_tudor_even_final -            7.4e-27   84.7   4.7   3.4e-26   82.5   4.7   1.8   1   1   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|OG0010217|020912338.1|TUD-4/8      -          OG0010217_tudor_even_final -            1.7e-26   83.5   0.3   1.9e-26   83.4   0.3   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|032227014.1|TUD-2/8   -          OG0010217_tudor_even_final -            2.2e-26   83.2   0.0   2.3e-26   83.1   0.0   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|OG0010217|031568556.1|TUD-8/8        -          OG0010217_tudor_even_final -              5e-26   82.0   0.2   5.3e-26   81.9   0.2   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|OG0010217|031568556.1|TUD-6/8        -          OG0010217_tudor_even_final -            5.7e-26   81.8   0.7   6.1e-26   81.7   0.7   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|OG0010217|020912338.1|TUD-6/8      -          OG0010217_tudor_even_final -            6.4e-25   78.5   0.0   6.9e-25   78.4   0.0   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|OG0010217|020912338.1|TUD-2/8      -          OG0010217_tudor_even_final -            7.4e-25   78.3   0.0   7.9e-25   78.2   0.0   1.0   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|OG0010217|022786580.1|TUD-4/4    -          OG0010217_tudor_even_final -            5.7e-24   75.4   0.2   6.2e-24   75.3   0.2   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020619301.1|TUD-4/4      -          OG0010217_tudor_even_final -            9.5e-24   74.7   0.1     1e-23   74.6   0.1   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020619303.1|TUD-4/4      -          OG0010217_tudor_even_final -            9.5e-24   74.7   0.1     1e-23   74.6   0.1   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|OG0010217|031568556.1|TUD-2/8        -          OG0010217_tudor_even_final -            2.1e-23   73.6   0.5   2.3e-23   73.5   0.5   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|OG0010217|027045737.1|TUD-4/4   -          OG0010217_tudor_even_final -            2.2e-23   73.6   0.3   2.3e-23   73.5   0.3   1.0   1   0   0   1   1   1   1 -
+Myxobolus_squamalis|CNIDARIA|OG0010217|KAF1743808.1|TUD-2/2     -          OG0010217_tudor_even_final -            5.8e-23   72.2   0.0   6.3e-23   72.1   0.0   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|032227014.1|TUD-4/8   -          OG0010217_tudor_even_final -            6.3e-23   72.1   0.1   6.8e-23   72.0   0.1   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020616583.1|TUD-6/8      -          OG0010217_tudor_even_final -            1.9e-22   70.6   1.7     2e-22   70.5   1.7   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020616585.1|TUD-2/8      -          OG0010217_tudor_even_final -            1.9e-22   70.6   1.7     2e-22   70.5   1.7   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020616585.1|TUD-6/8      -          OG0010217_tudor_even_final -            1.9e-22   70.6   1.7     2e-22   70.5   1.7   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|OG0010217|020912338.1|TUD-8/8      -          OG0010217_tudor_even_final -            6.1e-22   68.9   0.1   6.6e-22   68.8   0.1   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020616583.1|TUD-2/8      -          OG0010217_tudor_even_final -            7.4e-22   68.7   2.0   7.9e-22   68.6   2.0   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020604698.1|TUD-2/4      -          OG0010217_tudor_even_final -            1.2e-21   68.0   0.6   1.3e-21   67.9   0.6   1.0   1   0   0   1   1   1   1 -
+Aurelia_aurita|CNIDARIA|OG0010217|scaffold308.g8.t2|TUD-2/2     -          OG0010217_tudor_even_final -            1.2e-20   64.8   0.2   1.3e-20   64.7   0.2   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020619301.1|TUD-2/4      -          OG0010217_tudor_even_final -            1.5e-20   64.5   0.1   1.6e-20   64.4   0.1   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0010217|020619303.1|TUD-2/4      -          OG0010217_tudor_even_final -            1.5e-20   64.5   0.1   1.6e-20   64.4   0.1   1.0   1   0   0   1   1   1   1 -
+Hydra_vulgaris|CNIDARIA|OG0010217|012563804.1|TUD-2/2           -          OG0010217_tudor_even_final -            2.2e-20   64.0   0.0   2.4e-20   63.8   0.0   1.0   1   0   0   1   1   1   1 -
+Morbakka_virulenta|CNIDARIA|OG0010217|scaffold27.g21.t1|TUD-2/2 -          OG0010217_tudor_even_final -            1.4e-19   61.4   0.1   1.5e-19   61.3   0.1   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|032223853.1|TUD-2/5   -          OG0010217_tudor_even_final -            1.1e-18   58.6   1.6   1.1e-18   58.5   1.6   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|032226236.1|TUD-2/5   -          OG0010217_tudor_even_final -            1.1e-18   58.6   1.6   1.1e-18   58.5   1.6   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|OG0010217|027045737.1|TUD-2/4   -          OG0010217_tudor_even_final -            2.4e-18   57.4   0.0   2.6e-18   57.3   0.0   1.0   1   0   0   1   1   1   1 -
+Clytia_hemisphaerica|CNIDARIA|OG0010217|CLYHEMP006506.1|TUD-2/2 -          OG0010217_tudor_even_final -            4.1e-18   56.7   1.0   4.4e-18   56.6   1.0   1.0   1   0   0   1   1   1   1 -
+Aurelia_aurita|CNIDARIA|OG0010217|scaffold443.g4.t1|TUD-2/2     -          OG0010217_tudor_even_final -            5.9e-18   56.2   0.0   6.4e-18   56.1   0.0   1.0   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|OG0010217|022786580.1|TUD-2/4    -          OG0010217_tudor_even_final -            2.9e-17   54.0   0.0   3.1e-17   53.8   0.0   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|032223853.1|TUD-4/5   -          OG0010217_tudor_even_final -            9.2e-17   52.4   0.3   9.9e-17   52.2   0.3   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0010217|032226236.1|TUD-4/5   -          OG0010217_tudor_even_final -            1.4e-15   48.6   0.2   1.5e-15   48.4   0.2   1.1   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/OG0010217_tudor_even_final.hmm
+# Target file:     ../../OG0010217_tudor_even_final.fasta
+# Option settings: hmmsearch --tblout OG0010217_tudor_even_final.txt ../0.5/OG0010217_tudor_even_final.hmm ../../OG0010217_tudor_even_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:21 2022
+# [ok]

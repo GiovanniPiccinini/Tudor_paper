@@ -1,0 +1,60 @@
+#                                                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                       accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                               ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Lingula_anatina|BRACHIOPODA|LBR|013389222.1|TUD-1/1                 -          LBR_tudor_final      -            9.1e-26   81.5   0.1   9.7e-26   81.4   0.1   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|LBR|013404620.1|TUD-1/1                 -          LBR_tudor_final      -            9.1e-26   81.5   0.1   9.7e-26   81.4   0.1   1.0   1   0   0   1   1   1   1 -
+Danio_rerio|CHORDATA|LBR|001002720.1|TUD-1/1                        -          LBR_tudor_final      -            7.7e-25   78.5   0.1   8.3e-25   78.4   0.1   1.0   1   0   0   1   1   1   1 -
+Anneissia_japonica|ECHINODERMATA|LBR|033103942.1|TUD-1/1            -          LBR_tudor_final      -            1.7e-24   77.4   0.1   1.8e-24   77.3   0.1   1.0   1   0   0   1   1   1   1 -
+Penaeus_vannamei|ARTHROPODA|LBR|027231327.1|TUD-1/1                 -          LBR_tudor_final      -            2.4e-24   76.9   1.5   3.1e-24   76.6   1.5   1.2   1   0   0   1   1   1   1 -
+Petromyzon_marinus|CHORDATA|LBR|032804040.1|TUD-1/1                 -          LBR_tudor_final      -            2.6e-24   76.8   0.1   2.8e-24   76.7   0.1   1.0   1   0   0   1   1   1   1 -
+Apostichopus_japonicus|ECHINODERMATA|LBR|PIK61428.1|TUD-1/1         -          LBR_tudor_final      -            3.1e-24   76.6   0.1   3.4e-24   76.5   0.1   1.0   1   0   0   1   1   1   1 -
+Branchiostoma_floridae|CHORDATA|LBR|035673737.1|TUD-1/1             -          LBR_tudor_final      -            3.9e-24   76.2   0.2   4.2e-24   76.1   0.2   1.0   1   0   0   1   1   1   1 -
+Strongylocentrotus_purpuratus|ECHINODERMATA|LBR|003723672.2|TUD-1/1 -          LBR_tudor_final      -            4.9e-24   75.9   0.0   5.2e-24   75.9   0.0   1.0   1   0   0   1   1   1   1 -
+Asterias_rubens|ECHINODERMATA|LBR|033640148.1|TUD-1/1               -          LBR_tudor_final      -            5.6e-24   75.8   0.2   5.9e-24   75.7   0.2   1.0   1   0   0   1   1   1   1 -
+Gallus_gallus|CHORDATA|LBR|990673.1|TUD-1/1                         -          LBR_tudor_final      -            1.4e-23   74.5   0.4   1.5e-23   74.4   0.4   1.0   1   0   0   1   1   1   1 -
+Eurytemora_affinis|ARTHROPODA|LBR|023339913.1|TUD-1/1               -          LBR_tudor_final      -            2.1e-23   73.9   0.8   2.3e-23   73.8   0.8   1.0   1   0   0   1   1   1   1 -
+Styela_clava|CHORDATA|LBR|039260378.1|TUD-1/1                       -          LBR_tudor_final      -            2.4e-23   73.7   0.0   2.6e-23   73.6   0.0   1.0   1   0   0   1   1   1   1 -
+Homo_sapiens|CHORDATA|LBR|002287.2|TUD-1/1                          -          LBR_tudor_final      -            2.7e-23   73.6   0.1   2.9e-23   73.4   0.1   1.0   1   0   0   1   1   1   1 -
+Nymphon_striatum|ARTHROPODA|LBR|KAG1708455.1|TUD-1/1                -          LBR_tudor_final      -            3.4e-23   73.2   0.3   3.6e-23   73.2   0.3   1.0   1   0   0   1   1   1   1 -
+Amblyraja_radiata|CHORDATA|LBR|032876498.1|TUD-1/1                  -          LBR_tudor_final      -            3.5e-23   73.2   0.1   3.7e-23   73.1   0.1   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|LBR|031555225.1|TUD-1/1                  -          LBR_tudor_final      -            3.8e-23   73.1   0.4   4.1e-23   73.0   0.4   1.0   1   0   0   1   1   1   1 -
+Acipenser_ruthenus|CHORDATA|LBR|033875155.1|TUD-1/1                 -          LBR_tudor_final      -            9.8e-23   71.8   0.1     1e-22   71.7   0.1   1.0   1   0   0   1   1   1   1 -
+Acropora_digitifera|CNIDARIA|LBR|015747867.1|TUD-1/1                -          LBR_tudor_final      -              1e-22   71.7   0.1   1.1e-22   71.6   0.1   1.0   1   0   0   1   1   1   1 -
+Acropora_digitifera|CNIDARIA|LBR|015780033.1|TUD-1/1                -          LBR_tudor_final      -              1e-22   71.7   0.1   1.1e-22   71.6   0.1   1.0   1   0   0   1   1   1   1 -
+Gekko_japonicus|CHORDATA|LBR|015261951.1|TUD-1/1                    -          LBR_tudor_final      -            1.6e-22   71.1   0.1   1.8e-22   71.0   0.1   1.0   1   0   0   1   1   1   1 -
+Xenopus_tropicalis|CHORDATA|LBR|031757390.1|TUD-1/1                 -          LBR_tudor_final      -            2.1e-22   70.7   0.4   2.2e-22   70.6   0.4   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|LBR|022244276.1|TUD-1/1               -          LBR_tudor_final      -            3.7e-22   69.9   0.5   3.9e-22   69.9   0.5   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|LBR|028409831.1|TUD-1/1            -          LBR_tudor_final      -            4.6e-22   69.6   0.0     5e-22   69.5   0.0   1.0   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|LBR|022787402.1|TUD-1/1              -          LBR_tudor_final      -            1.3e-21   68.2   0.9   1.4e-21   68.1   0.9   1.0   1   0   0   1   1   1   1 -
+Lepeophtheirus_salmonis|ARTHROPODA|LBR|040574656.1|TUD-1/1          -          LBR_tudor_final      -            2.3e-21   67.4   2.1   2.5e-21   67.3   2.1   1.0   1   0   0   1   1   1   1 -
+Ciona_intestinalis|CHORDATA|LBR|002126360.1|TUD-1/1                 -          LBR_tudor_final      -              3e-21   67.0   0.0   3.2e-21   66.9   0.0   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|LBR|027044935.1|TUD-1/1             -          LBR_tudor_final      -            4.8e-21   66.4   1.1   5.1e-21   66.3   1.1   1.0   1   0   0   1   1   1   1 -
+Limulus_polyphemus|ARTHROPODA|LBR|022258948.1|TUD-1/1               -          LBR_tudor_final      -            4.9e-21   66.3   0.3   5.1e-21   66.3   0.3   1.0   1   0   0   1   1   1   1 -
+Hyalella_azteca|ARTHROPODA|LBR|018010670.1|TUD-1/1                  -          LBR_tudor_final      -            6.3e-21   66.0   0.2   6.7e-21   65.9   0.2   1.0   1   0   0   1   1   1   1 -
+Didymodactylos_carnosus|ROTIFERA|LBR|CAF0805936.1|TUD-1/1           -          LBR_tudor_final      -            8.6e-21   65.5   0.0   9.2e-21   65.5   0.0   1.0   1   0   0   1   1   1   1 -
+Owenia_fusiformis|ANNELIDA|LBR|CAC9629609.1|TUD-1/1                 -          LBR_tudor_final      -            1.5e-20   64.8   0.4   1.6e-20   64.7   0.4   1.0   1   0   0   1   1   1   1 -
+Hydra_vulgaris|CNIDARIA|LBR|004206570.1|TUD-1/1                     -          LBR_tudor_final      -              4e-20   63.4   0.3   4.3e-20   63.3   0.3   1.0   1   0   0   1   1   1   1 -
+Aurelia_aurita|CNIDARIA|LBR|scaffold62.g72.t1|TUD-1/1               -          LBR_tudor_final      -            4.8e-20   63.2   0.1   5.3e-20   63.0   0.1   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|LBR|001623699.2|TUD-1/1             -          LBR_tudor_final      -            9.5e-20   62.2   1.8     1e-19   62.1   1.8   1.0   1   0   0   1   1   1   1 -
+Parasteatoda_tepidariorum|ARTHROPODA|LBR|015926758.1|TUD-1/1        -          LBR_tudor_final      -            1.3e-19   61.8   0.1   1.4e-19   61.7   0.1   1.0   1   0   0   1   1   1   1 -
+Apis_mellifera|ARTHROPODA|LBR|026296555.1|TUD-1/1                   -          LBR_tudor_final      -            1.4e-19   61.7   0.1   1.5e-19   61.6   0.1   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|LBR|CAF1595467.1|TUD-1/1                   -          LBR_tudor_final      -            3.3e-19   60.5   0.0   3.5e-19   60.4   0.0   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|LBR|020915331.1|TUD-1/1                -          LBR_tudor_final      -            3.6e-19   60.4   0.3   3.8e-19   60.3   0.3   1.0   1   0   0   1   1   1   1 -
+Rotaria_socialis|ROTIFERA|LBR|CAF4626210.1|TUD-1/1                  -          LBR_tudor_final      -            4.8e-19   60.0   0.2   5.1e-19   59.9   0.2   1.0   1   0   0   1   1   1   1 -
+Notospermus_geniculatus|NEMERTEA|LBR|g20111.t1|TUD-1/1              -          LBR_tudor_final      -            5.4e-19   59.8   0.1   5.9e-19   59.7   0.1   1.0   1   0   0   1   1   1   1 -
+Daphnia_magna|ARTHROPODA|LBR|032791558.1|TUD-1/1                    -          LBR_tudor_final      -            5.6e-19   59.7   0.2     6e-19   59.6   0.2   1.0   1   0   0   1   1   1   1 -
+Adineta_ricciae|ROTIFERA|LBR|CAF1595120.1|TUD-1/1                   -          LBR_tudor_final      -            7.8e-19   59.3   0.0   8.3e-19   59.2   0.0   1.0   1   0   0   1   1   1   1 -
+Morbakka_virulenta|CNIDARIA|LBR|scaffold83.g66.t1|TUD-1/1           -          LBR_tudor_final      -            1.6e-18   58.3   0.6   1.7e-18   58.2   0.6   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|LBR|026472327.1|TUD-1/1            -          LBR_tudor_final      -            1.6e-18   58.3   0.0   1.7e-18   58.2   0.0   1.0   1   0   0   1   1   1   1 -
+Ctenocephalides_felis|ARTHROPODA|LBR|026472976.1|TUD-1/1            -          LBR_tudor_final      -            1.6e-18   58.3   0.0   1.7e-18   58.2   0.0   1.0   1   0   0   1   1   1   1 -
+Nymphon_striatum|ARTHROPODA|LBR|KAG1714466.1|TUD-1/1                -          LBR_tudor_final      -            2.1e-18   57.9   0.1   2.2e-18   57.8   0.1   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/LBR_tudor_final.hmm
+# Target file:     ../../LBR_tudor_final.fasta
+# Option settings: hmmsearch --tblout LBR_tudor_final.txt ../0.5/LBR_tudor_final.hmm ../../LBR_tudor_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:21 2022
+# [ok]

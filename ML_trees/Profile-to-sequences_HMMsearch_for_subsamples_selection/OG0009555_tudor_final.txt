@@ -1,0 +1,49 @@
+#                                                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                      accession  query name            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                              ------------------- ----------  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Stylophora_pistillata|CNIDARIA|OG0009555|022781840.1|TUD-1/2       -          OG0009555_tudor_final -            1.2e-48  155.1   0.1   1.3e-48  155.0   0.1   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|OG0009555|027056589.1|TUD-1/2      -          OG0009555_tudor_final -            3.2e-48  153.7   0.1   3.6e-48  153.6   0.1   1.0   1   0   0   1   1   1   1 -
+Acropora_digitifera|CNIDARIA|OG0009555|015755562.1|TUD-1/1         -          OG0009555_tudor_final -            1.1e-46  148.8   0.1   1.2e-46  148.6   0.1   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0009555|020627001.1|TUD-1/2         -          OG0009555_tudor_final -            1.4e-46  148.4   0.0   1.5e-46  148.3   0.0   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|OG0009555|031565546.1|TUD-1/2           -          OG0009555_tudor_final -            5.7e-42  133.6   0.0   6.3e-42  133.4   0.0   1.0   1   0   0   1   1   1   1 -
+Clytia_hemisphaerica|CNIDARIA|OG0009555|CLYHEMP013241.1|TUD-1/2    -          OG0009555_tudor_final -              6e-42  133.5   0.0   6.6e-42  133.4   0.0   1.0   1   0   0   1   1   1   1 -
+Clytia_hemisphaerica|CNIDARIA|OG0009555|CLYHEMP014213.1|TUD-1/2    -          OG0009555_tudor_final -              6e-42  133.5   0.0   6.6e-42  133.4   0.0   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0009555|032232202.1|TUD-1/2      -          OG0009555_tudor_final -            7.5e-42  133.2   0.0   8.2e-42  133.0   0.0   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|OG0009555|028519565.1|TUD-1/2         -          OG0009555_tudor_final -            4.3e-40  127.5   0.0   4.8e-40  127.4   0.0   1.0   1   0   0   1   1   1   1 -
+Morbakka_virulenta|CNIDARIA|OG0009555|scaffold732.g6.t1|TUD-1/1    -          OG0009555_tudor_final -              1e-36  116.6   0.0   1.1e-36  116.5   0.0   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|OG0009555|028411769.1|TUD-1/2     -          OG0009555_tudor_final -            4.1e-36  114.7   0.0   4.5e-36  114.6   0.0   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|OG0009555|028416942.1|TUD-1/2     -          OG0009555_tudor_final -            4.1e-36  114.7   0.0   4.5e-36  114.6   0.0   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0009555|020627001.1|TUD-2/2         -          OG0009555_tudor_final -            6.7e-35  110.8   0.0   7.5e-35  110.6   0.0   1.0   1   0   0   1   1   1   1 -
+Actinia_tenebrosa|CNIDARIA|OG0009555|031565546.1|TUD-2/2           -          OG0009555_tudor_final -            1.7e-34  109.4   0.0   1.9e-34  109.3   0.0   1.0   1   0   0   1   1   1   1 -
+Branchiostoma_floridae|CHORDATA|OG0009555|035699474.1|TUD-1/2      -          OG0009555_tudor_final -            2.5e-34  108.9   0.0   2.7e-34  108.8   0.0   1.0   1   0   0   1   1   1   1 -
+Crassostrea_gigas|MOLLUSCA|OG0009555|019928907.2|TUD-1/1           -          OG0009555_tudor_final -            2.5e-33  105.7   0.0   2.7e-33  105.6   0.0   1.0   1   0   0   1   1   1   1 -
+Mizuhopecten_yessoensis|MOLLUSCA|OG0009555|021345932.1|TUD-1/1     -          OG0009555_tudor_final -            2.8e-33  105.6   0.0     3e-33  105.4   0.0   1.0   1   0   0   1   1   1   1 -
+Branchiostoma_floridae|CHORDATA|OG0009555|035699474.1|TUD-2/2      -          OG0009555_tudor_final -            8.4e-33  104.0   0.0   9.8e-33  103.8   0.0   1.1   1   0   0   1   1   1   1 -
+Stylophora_pistillata|CNIDARIA|OG0009555|022781840.1|TUD-2/2       -          OG0009555_tudor_final -              7e-32  101.0   0.0   7.7e-32  100.9   0.0   1.0   1   0   0   1   1   1   1 -
+Pocillopora_damicornis|CNIDARIA|OG0009555|027056589.1|TUD-2/2      -          OG0009555_tudor_final -            3.2e-31   98.9   0.0   3.5e-31   98.8   0.0   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|OG0009555|028411769.1|TUD-2/2     -          OG0009555_tudor_final -            9.2e-31   97.4   0.0     1e-30   97.3   0.0   1.0   1   0   0   1   1   1   1 -
+Dendronephthya_gigantea|CNIDARIA|OG0009555|028416942.1|TUD-2/2     -          OG0009555_tudor_final -            9.2e-31   97.4   0.0     1e-30   97.3   0.0   1.0   1   0   0   1   1   1   1 -
+Priapulus_caudatus|PRIAPULIDA|OG0009555|014664734.1|TUD-1/1        -          OG0009555_tudor_final -            1.1e-30   97.2   0.0   1.2e-30   97.1   0.0   1.0   1   0   0   1   1   1   1 -
+Clytia_hemisphaerica|CNIDARIA|OG0009555|CLYHEMP013241.1|TUD-2/2    -          OG0009555_tudor_final -              4e-30   95.4   0.0   4.4e-30   95.2   0.0   1.0   1   0   0   1   1   1   1 -
+Nematostella_vectensis|CNIDARIA|OG0009555|032232202.1|TUD-2/2      -          OG0009555_tudor_final -              5e-30   95.1   0.0   6.1e-30   94.8   0.0   1.0   1   0   0   1   1   1   1 -
+Clytia_hemisphaerica|CNIDARIA|OG0009555|CLYHEMP014213.1|TUD-2/2    -          OG0009555_tudor_final -            5.3e-30   95.0   0.0   5.8e-30   94.8   0.0   1.0   1   0   0   1   1   1   1 -
+Hydra_vulgaris|CNIDARIA|OG0009555|012560450.1|TUD-1/2              -          OG0009555_tudor_final -            1.3e-28   90.5   0.0   1.4e-28   90.4   0.0   1.0   1   0   0   1   1   1   1 -
+Aurelia_aurita|CNIDARIA|OG0009555|scaffold86.g67.t1|TUD-1/2        -          OG0009555_tudor_final -            3.3e-27   86.0   0.0   3.6e-27   85.9   0.0   1.0   1   0   0   1   1   1   1 -
+Morbakka_virulenta|CNIDARIA|OG0009555|scaffold202.g1.t1|TUD-1/1    -          OG0009555_tudor_final -            5.3e-27   85.3   0.1   5.9e-27   85.2   0.1   1.0   1   0   0   1   1   1   1 -
+Lingula_anatina|BRACHIOPODA|OG0009555|013389916.1|TUD-1/1          -          OG0009555_tudor_final -            8.7e-27   84.6   0.2   9.5e-27   84.5   0.2   1.0   1   0   0   1   1   1   1 -
+Xenoturbella_bocki|XENACOELOMORPHA|OG0009555|scaffold431_2|TUD-1/1 -          OG0009555_tudor_final -            3.7e-26   82.6   0.0     4e-26   82.5   0.0   1.0   1   0   0   1   1   1   1 -
+Capitella_teleta|ANNELIDA|OG0009555|ELU02613.1|TUD-1/1             -          OG0009555_tudor_final -            8.9e-25   78.1   0.0   9.8e-25   78.0   0.0   1.0   1   0   0   1   1   1   1 -
+Hydra_vulgaris|CNIDARIA|OG0009555|012560450.1|TUD-2/2              -          OG0009555_tudor_final -            3.6e-24   76.2   0.1     4e-24   76.0   0.1   1.0   1   0   0   1   1   1   1 -
+Aurelia_aurita|CNIDARIA|OG0009555|scaffold86.g67.t1|TUD-2/2        -          OG0009555_tudor_final -            1.9e-23   73.9   0.0     2e-23   73.7   0.0   1.0   1   0   0   1   1   1   1 -
+Exaiptasia_diaphana|CNIDARIA|OG0009555|028519565.1|TUD-2/2         -          OG0009555_tudor_final -            2.2e-21   67.2   0.1   2.4e-21   67.1   0.1   1.0   1   0   0   1   1   1   1 -
+Orbicella_faveolata|CNIDARIA|OG0009555|020608206.1|TUD-1/1         -          OG0009555_tudor_final -            1.9e-16   51.3   0.0     2e-16   51.2   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../0.5/OG0009555_tudor_final.hmm
+# Target file:     ../../OG0009555_tudor_final.fasta
+# Option settings: hmmsearch --tblout OG0009555_tudor_final.txt ../0.5/OG0009555_tudor_final.hmm ../../OG0009555_tudor_final.fasta 
+# Current dir:     /home/STUDENTI/shared/2022_OG_analyses/TUDOR_DOMAINS/fasta_wheaders/length_cutoff/final_alignments/Profiles/subsample
+# Date:            Mon May  9 18:41:21 2022
+# [ok]
