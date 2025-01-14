@@ -3,7 +3,7 @@
 In the main directory there are the sequences of all T3 domains of OG164.
 
 ### Dir ML_trees:
-IQTREE outputs for the 10 ML replicates + topology evaluation file. Replicates considered in the paper are rooted. For the three replicates excluded, the raw IQTREE output is present.
+Tudor domain trimmed alignment + IQTREE outputs for the 10 ML replicates + topology evaluation file. Replicates considered in the paper are rooted. For the three replicates excluded, the raw IQTREE output is present.
 The Directory "Profile-to-sequences_HMMsearch_for_subsamples_selection" contains the hmm-to-fasta alignments used to subsample the 50% of sequences more similar to the profile in order to ease tree inference. 
   
 ### Dir HMM_profiles:
