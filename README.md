@@ -13,7 +13,7 @@ HMM profiles for each OG used to build the distance matrix for the NJ tree.
 Single-OG alignments, comprehending all sequences before subsampling (see Materials and Methods). All alignments were later merged and realigned altogether with MAFFT-DASH, previous to ML tree inference (except for OG164 subclades, that were excluded from the ML inference).
 
 ### Dir OG164
-Raw fasta file of the OG164 as outputted by OrthoFinder + whole sequence alignment and tree inference to feed DISCO with + DISCO output subclades.
+Raw fasta file of the OG164 as outputted by OrthoFinder + tree inference .iqtree output to feed DISCO with + DISCO output subclades.
 
 ### Dir Ichthyosporea_T3-Piwi_analyses
 T3-containing Ichthyosporea proteins (both I. hoferi and C. perkinsii), all sequences of the Piwi-like OG that contained a Piwi domain, a directory containing the 20 trees used for the I.hoferi-OG164 topology tests, and a directoy containing the 40 trees used for the Piwi+PAZ topology tests.
