@@ -1,0 +1,388 @@
+
+RAxML-NG v. 1.1.0 released on 29.11.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz, 28 cores, 503 GB RAM
+
+RAxML-NG was called at 18-Jan-2024 14:27:17 as follows:
+
+raxml-ng --evaluate -msa concatenated_prunedforstatistics.fasta --model trimmed_alns.best_scheme_forRAxML --tree Species_tree_metazoa_prunedforstats.txt -blopt nr_safe --threads 10 --redo
+
+Analysis options:
+  run mode: Evaluate tree likelihood
+  start tree(s): user
+  random seed: 1705584437
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  branch lengths: proportional (ML estimate, algorithm: NR-SAFE)
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (10 threads), thread pinning: OFF
+
+WARNING: Running in REDO mode: existing checkpoints are ignored, and all result files will be overwritten!
+
+[00:00:00] Reading alignment from file: concatenated_prunedforstatistics.fasta
+[00:00:00] Loaded alignment with 81 taxa and 130784 sites
+
+Alignment comprises 53 partitions and 127670 patterns
+
+Partition 0: 102804at33208.fasta_aln_trim2_131349at33208.fasta_aln_trim2_186208at33208.fasta_aln_trim2_234290at33208.fasta_aln_trim2_274044at33208.fasta_aln_trim2_274769at33208.fasta_aln_trim2_308610at33208.fasta_aln_trim2_323473at33208.fasta_aln_trim2_340558at33208.fasta_aln_trim2_355210at33208.fasta_aln_trim2_422751at33208.fasta_aln_trim2_429274at33208.fasta_aln_trim2_459253at33208.fasta_aln_trim2_480735at33208.fasta_aln_trim2_503333at33208.fasta_aln_trim2_548327at33208.fasta_aln_trim2_560694at33208.fasta_aln_trim2_568022at33208.fasta_aln_trim2_568839at33208.fasta_aln_trim2_572074at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 8330 / 8182
+Gaps: 11.02 %
+Invariant sites: 6.82 %
+
+Partition 1: 103854at33208.fasta_aln_trim2_129179at33208.fasta_aln_trim2_134492at33208.fasta_aln_trim2_135294at33208.fasta_aln_trim2_177718at33208.fasta_aln_trim2_186707at33208.fasta_aln_trim2_210614at33208.fasta_aln_trim2_227087at33208.fasta_aln_trim2_239016at33208.fasta_aln_trim2_249486at33208.fasta_aln_trim2_261284at33208.fasta_aln_trim2_273040at33208.fasta_aln_trim2_334342at33208.fasta_aln_trim2_355739at33208.fasta_aln_trim2_363634at33208.fasta_aln_trim2_363851at33208.fasta_aln_trim2_372257at33208.fasta_aln_trim2_427789at33208.fasta_aln_trim2_435678at33208.fasta_aln_trim2_453687at33208.fasta_aln_trim2_455941at33208.fasta_aln_trim2_462325at33208.fasta_aln_trim2_49474at33208.fasta_aln_trim2_504207at33208.fasta_aln_trim2_50756at33208.fasta_aln_trim2_563359at33208.fasta_aln_trim2_570262at33208.fasta_aln_trim2_572754at33208.fasta_aln_trim2_578726at33208.fasta_aln_trim2_618516at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 14155 / 14126
+Gaps: 11.52 %
+Invariant sites: 1.82 %
+
+Partition 2: 107151at33208.fasta_aln_trim2_581547at33208.fasta_aln_trim2_586719at33208.fasta_aln_trim2_608924at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 1355 / 1346
+Gaps: 11.01 %
+Invariant sites: 6.20 %
+
+Partition 3: 109109at33208.fasta_aln_trim2_184717at33208.fasta_aln_trim2_616613at33208.fasta_aln_trim2_636300at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 1508 / 1423
+Gaps: 10.81 %
+Invariant sites: 17.97 %
+
+Partition 4: 111730at33208.fasta_aln_trim2_119591at33208.fasta_aln_trim2_130245at33208.fasta_aln_trim2_132087at33208.fasta_aln_trim2_168850at33208.fasta_aln_trim2_227979at33208.fasta_aln_trim2_271742at33208.fasta_aln_trim2_311758at33208.fasta_aln_trim2_398013at33208.fasta_aln_trim2_437653at33208.fasta_aln_trim2_452208at33208.fasta_aln_trim2_517525at33208.fasta_aln_trim2_518569at33208.fasta_aln_trim2_537548at33208.fasta_aln_trim2_9639at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 9114 / 9077
+Gaps: 11.08 %
+Invariant sites: 3.12 %
+
+Partition 5: 118209at33208.fasta_aln_trim2_197652at33208.fasta_aln_trim2_371526at33208.fasta_aln_trim2_378768at33208.fasta_aln_trim2_424392at33208.fasta_aln_trim2_449189at33208.fasta_aln_trim2_457777at33208.fasta_aln_trim2_504731at33208.fasta_aln_trim2_515640at33208.fasta_aln_trim2_535524at33208.fasta_aln_trim2_561417at33208.fasta_aln_trim2_57158at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 5189 / 5006
+Gaps: 7.61 %
+Invariant sites: 11.00 %
+
+Partition 6: 119252at33208.fasta_aln_trim2_389367at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 935 / 886
+Gaps: 10.72 %
+Invariant sites: 12.51 %
+
+Partition 7: 123923at33208.fasta_aln_trim2_262757at33208.fasta_aln_trim2_312577at33208.fasta_aln_trim2_319574at33208.fasta_aln_trim2_442203at33208.fasta_aln_trim2_461123at33208.fasta_aln_trim2_468757at33208.fasta_aln_trim2_495100at33208.fasta_aln_trim2_529852at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 2991 / 2953
+Gaps: 13.71 %
+Invariant sites: 5.18 %
+
+Partition 8: 124302at33208.fasta_aln_trim2_212972at33208.fasta_aln_trim2_332870at33208.fasta_aln_trim2_365691at33208.fasta_aln_trim2_398202at33208.fasta_aln_trim2_483489at33208.fasta_aln_trim2_573313at33208.fasta_aln_trim2_88053at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 3758 / 3747
+Gaps: 20.82 %
+Invariant sites: 1.62 %
+
+Partition 9: 130256at33208.fasta_aln_trim2_200997at33208.fasta_aln_trim2_334336at33208.fasta_aln_trim2_519777at33208.fasta_aln_trim2_520011at33208.fasta_aln_trim2_540193at33208.fasta_aln_trim2_547341at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2685 / 2675
+Gaps: 14.09 %
+Invariant sites: 2.68 %
+
+Partition 10: 137383at33208.fasta_aln_trim2_255117at33208.fasta_aln_trim2_270594at33208.fasta_aln_trim2_469367at33208.fasta_aln_trim2_606539at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2563 / 2561
+Gaps: 10.24 %
+Invariant sites: 1.33 %
+
+Partition 11: 13816at33208.fasta_aln_trim2_414571at33208.fasta_aln_trim2_592094at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 2640 / 2635
+Gaps: 16.96 %
+Invariant sites: 1.97 %
+
+Partition 12: 143619at33208.fasta_aln_trim2_168924at33208.fasta_aln_trim2_202545at33208.fasta_aln_trim2_280914at33208.fasta_aln_trim2_414603at33208.fasta_aln_trim2_99987at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 3011 / 3008
+Gaps: 10.70 %
+Invariant sites: 2.23 %
+
+Partition 13: 146671at33208.fasta_aln_trim2_158845at33208.fasta_aln_trim2_158962at33208.fasta_aln_trim2_231157at33208.fasta_aln_trim2_260752at33208.fasta_aln_trim2_285146at33208.fasta_aln_trim2_285902at33208.fasta_aln_trim2_382750at33208.fasta_aln_trim2_389527at33208.fasta_aln_trim2_395556at33208.fasta_aln_trim2_416175at33208.fasta_aln_trim2_495175at33208.fasta_aln_trim2_551831at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 5396 / 5343
+Gaps: 12.12 %
+Invariant sites: 5.00 %
+
+Partition 14: 147873at33208.fasta_aln_trim2_215654at33208.fasta_aln_trim2_219856at33208.fasta_aln_trim2_338191at33208.fasta_aln_trim2_464987at33208.fasta_aln_trim2_592759at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2602 / 2523
+Gaps: 10.35 %
+Invariant sites: 11.61 %
+
+Partition 15: 153034at33208.fasta_aln_trim2_301572at33208.fasta_aln_trim2_359075at33208.fasta_aln_trim2_372707at33208.fasta_aln_trim2_458807at33208.fasta_aln_trim2_493913at33208.fasta_aln_trim2_552201at33208.fasta_aln_trim2_566116at33208.fasta_aln_trim2_586690at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2872 / 2796
+Gaps: 9.25 %
+Invariant sites: 8.77 %
+
+Partition 16: 157109at33208.fasta_aln_trim2_406927at33208.fasta_aln_trim2_516716at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 1025 / 1013
+Gaps: 15.54 %
+Invariant sites: 3.71 %
+
+Partition 17: 16244at33208.fasta_aln_trim2_206786at33208.fasta_aln_trim2_251076at33208.fasta_aln_trim2_278227at33208.fasta_aln_trim2_295775at33208.fasta_aln_trim2_344581at33208.fasta_aln_trim2_361203at33208.fasta_aln_trim2_365561at33208.fasta_aln_trim2_366814at33208.fasta_aln_trim2_366936at33208.fasta_aln_trim2_401779at33208.fasta_aln_trim2_419502at33208.fasta_aln_trim2_427349at33208.fasta_aln_trim2_488559at33208.fasta_aln_trim2_594842at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 6460 / 6327
+Gaps: 9.73 %
+Invariant sites: 8.28 %
+
+Partition 18: 162821at33208.fasta_aln_trim2_371241at33208.fasta_aln_trim2_424569at33208.fasta_aln_trim2_465092at33208.fasta_aln_trim2_470523at33208.fasta_aln_trim2_486993at33208.fasta_aln_trim2_539360at33208.fasta_aln_trim2_557292at33208.fasta_aln_trim2_561054at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2553 / 2495
+Gaps: 12.59 %
+Invariant sites: 7.76 %
+
+Partition 19: 164767at33208.fasta_aln_trim2_189414at33208.fasta_aln_trim2_231700at33208.fasta_aln_trim2_251577at33208.fasta_aln_trim2_395948at33208.fasta_aln_trim2_496070at33208.fasta_aln_trim2_567650at33208.fasta_aln_trim2_75406at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 3300 / 3296
+Gaps: 13.96 %
+Invariant sites: 1.03 %
+
+Partition 20: 178537at33208.fasta_aln_trim2_376982at33208.fasta_aln_trim2_63697at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2118 / 1760
+Gaps: 8.91 %
+Invariant sites: 34.23 %
+
+Partition 21: 179485at33208.fasta_aln_trim2_226941at33208.fasta_aln_trim2_434863at33208.fasta_aln_trim2_468248at33208.fasta_aln_trim2_537470at33208.fasta_aln_trim2_613851at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 1858 / 1822
+Gaps: 9.03 %
+Invariant sites: 6.73 %
+
+Partition 22: 180808at33208.fasta_aln_trim2_195986at33208.fasta_aln_trim2_267439at33208.fasta_aln_trim2_318532at33208.fasta_aln_trim2_373040at33208.fasta_aln_trim2_555162at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2800 / 2585
+Gaps: 11.47 %
+Invariant sites: 17.96 %
+
+Partition 23: 184508at33208.fasta_aln_trim2_207599at33208.fasta_aln_trim2_379636at33208.fasta_aln_trim2_401220at33208.fasta_aln_trim2_407472at33208.fasta_aln_trim2_438433at33208.fasta_aln_trim2_471787at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2805 / 2785
+Gaps: 13.18 %
+Invariant sites: 4.53 %
+
+Partition 24: 190726at33208.fasta_aln_trim2_333062at33208.fasta_aln_trim2_352854at33208.fasta_aln_trim2_514740at33208.fasta_aln_trim2_576633at33208.fasta_aln_trim2_601242at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 1885 / 1874
+Gaps: 9.86 %
+Invariant sites: 4.56 %
+
+Partition 25: 192250at33208.fasta_aln_trim2_245482at33208.fasta_aln_trim2_434068at33208.fasta_aln_trim2_495605at33208.fasta_aln_trim2_535268at33208.fasta_aln_trim2_616120at33208.fasta_aln_trim2_618986at33208.fasta_aln_trim2_632566at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2407 / 2384
+Gaps: 13.66 %
+Invariant sites: 6.44 %
+
+Partition 26: 196950at33208.fasta_aln_trim2_266460at33208.fasta_aln_trim2_291505at33208.fasta_aln_trim2_428202at33208.fasta_aln_trim2_432155at33208.fasta_aln_trim2_436007at33208.fasta_aln_trim2_461193at33208.fasta_aln_trim2_466616at33208.fasta_aln_trim2_474144at33208.fasta_aln_trim2_510522at33208.fasta_aln_trim2_525542at33208.fasta_aln_trim2_532406at33208.fasta_aln_trim2_616716at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 4618 / 4583
+Gaps: 12.51 %
+Invariant sites: 3.33 %
+
+Partition 27: 222489at33208.fasta_aln_trim2_435921at33208.fasta_aln_trim2_438133at33208.fasta_aln_trim2_476036at33208.fasta_aln_trim2_529093at33208.fasta_aln_trim2_603370at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 1596 / 1507
+Gaps: 9.73 %
+Invariant sites: 12.34 %
+
+Partition 28: 224280at33208.fasta_aln_trim2_274992at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 929 / 887
+Gaps: 6.66 %
+Invariant sites: 11.95 %
+
+Partition 29: 235149at33208.fasta_aln_trim2_475826at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 747 / 744
+Gaps: 11.39 %
+Invariant sites: 1.74 %
+
+Partition 30: 245567at33208.fasta_aln_trim2_334331at33208.fasta_aln_trim2_56573at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2026 / 2008
+Gaps: 11.44 %
+Invariant sites: 3.50 %
+
+Partition 31: 268397at33208.fasta_aln_trim2_284059at33208.fasta_aln_trim2_368565at33208.fasta_aln_trim2_371297at33208.fasta_aln_trim2_393895at33208.fasta_aln_trim2_411755at33208.fasta_aln_trim2_412542at33208.fasta_aln_trim2_553585at33208.fasta_aln_trim2_611258at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 3382 / 3362
+Gaps: 10.12 %
+Invariant sites: 4.41 %
+
+Partition 32: 271297at33208.fasta_aln_trim2_315393at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 630 / 617
+Gaps: 11.66 %
+Invariant sites: 9.37 %
+
+Partition 33: 283637at33208.fasta_aln_trim2_448196at33208.fasta_aln_trim2_478073at33208.fasta_aln_trim2_534312at33208.fasta_aln_trim2_567809at33208.fasta_aln_trim2_617441at33208.fasta_aln_trim2_623324at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 1511 / 1351
+Gaps: 8.09 %
+Invariant sites: 22.44 %
+
+Partition 34: 313091at33208.fasta_aln_trim2_348544at33208.fasta_aln_trim2_364383at33208.fasta_aln_trim2_378316at33208.fasta_aln_trim2_438453at33208.fasta_aln_trim2_467106at33208.fasta_aln_trim2_610427at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2209 / 2165
+Gaps: 9.44 %
+Invariant sites: 7.38 %
+
+Partition 35: 324249at33208.fasta_aln_trim2_481557at33208.fasta_aln_trim2_585809at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 798 / 798
+Gaps: 14.27 %
+Invariant sites: 1.25 %
+
+Partition 36: 334764at33208.fasta_aln_trim2_356503at33208.fasta_aln_trim2_367957at33208.fasta_aln_trim2_464312at33208.fasta_aln_trim2_491289at33208.fasta_aln_trim2_591498at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 1845 / 1813
+Gaps: 8.41 %
+Invariant sites: 5.75 %
+
+Partition 37: 347600at33208.fasta_aln_trim2_389570at33208.fasta_aln_trim2_411515at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 962 / 946
+Gaps: 10.16 %
+Invariant sites: 7.38 %
+
+Partition 38: 352600at33208.fasta_aln_trim2_397019at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 671 / 648
+Gaps: 10.48 %
+Invariant sites: 15.65 %
+
+Partition 39: 354829at33208.fasta_aln_trim2_560453at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 503 / 477
+Gaps: 7.67 %
+Invariant sites: 15.31 %
+
+Partition 40: 364694at33208.fasta_aln_trim2_444160at33208.fasta_aln_trim2_546751at33208.fasta_aln_trim2_599320at33208.fasta_aln_trim2_66018at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2322 / 2274
+Gaps: 11.61 %
+Invariant sites: 9.86 %
+
+Partition 41: 382262at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 289 / 289
+Gaps: 26.91 %
+Invariant sites: 0.00 %
+
+Partition 42: 384187at33208.fasta_aln_trim2_399092at33208.fasta_aln_trim2_496219at33208.fasta_aln_trim2_509494at33208.fasta_aln_trim2_514698at33208.fasta_aln_trim2_541421at33208.fasta_aln_trim2_570717at33208.fasta_aln_trim2_582473at33208.fasta_aln_trim2_607862at33208.fasta_aln_trim2_622560at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2136 / 2082
+Gaps: 8.90 %
+Invariant sites: 10.16 %
+
+Partition 43: 395183at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 271 / 264
+Gaps: 13.46 %
+Invariant sites: 11.07 %
+
+Partition 44: 429751at33208.fasta_aln_trim2_486370at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 603 / 603
+Gaps: 14.87 %
+Invariant sites: 0.50 %
+
+Partition 45: 432050at33208.fasta_aln_trim2_526487at33208.fasta_aln_trim2_555390at33208.fasta_aln_trim2_557596at33208.fasta_aln_trim2_581621at33208.fasta_aln_trim2_632234at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 1190 / 1113
+Gaps: 9.01 %
+Invariant sites: 14.54 %
+
+Partition 46: 442823at33208.fasta_aln_trim2_620546at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 493 / 493
+Gaps: 8.00 %
+Invariant sites: 1.01 %
+
+Partition 47: 486431at33208.fasta_aln_trim2_515425at33208.fasta_aln_trim2_625077at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 717 / 716
+Gaps: 14.75 %
+Invariant sites: 1.81 %
+
+Partition 48: 535650at33208.fasta_aln_trim2_558791at33208.fasta_aln_trim2_587958at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 479 / 424
+Gaps: 10.60 %
+Invariant sites: 25.05 %
+
+Partition 49: 551166at33208.fasta_aln_trim2_556337at33208.fasta_aln_trim2_558552at33208.fasta_aln_trim2_580288at33208.fasta_aln_trim2_582341at33208.fasta_aln_trim2_594172at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 853 / 761
+Gaps: 9.13 %
+Invariant sites: 22.74 %
+
+Partition 50: 564286at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 186 / 181
+Gaps: 19.73 %
+Invariant sites: 8.60 %
+
+Partition 51: 5951at33208.fasta_aln_trim2
+Model: LG+B
+Alignment sites / patterns: 2317 / 1752
+Gaps: 8.32 %
+Invariant sites: 41.43 %
+
+Partition 52: 598405at33208.fasta_aln_trim2
+Model: LG+FC+B
+Alignment sites / patterns: 186 / 184
+Gaps: 24.23 %
+Invariant sites: 9.14 %
+
+
+NOTE: Binary MSA file created: concatenated_prunedforstatistics.fasta.raxml.rba
+
+Parallelization scheme autoconfig: 1 worker(s) x 10 thread(s)
+
+Parallel reduction/worker buffer size: 8 KB  / 0 KB
+
+[00:00:00] Loading user starting tree(s) from: Species_tree_metazoa_prunedforstats.txt
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 7 / 12767 / 255340
+[00:00:00] Data distribution: max. searches per worker: 1
+
+Evaluating 1 trees
+
+[00:00:00] Tree #1, initial LogLikelihood: -11501095.975061
+
+[00:00:01 -11501095.975061] Initial branch length optimization
+[00:00:06 -10718337.320654] Model parameter optimization (eps = 0.100000)
+
+[00:00:12] Tree #1, final logLikelihood: -10718072.229726
+
+
+
+Final LogLikelihood: -10718072.229726
+
+AIC score: 21437288.459452 / AICc score: 21437293.493681 / BIC score: 21442883.364417
+Free parameters (model + branch lengths): 572
+
+Best ML tree saved to: /home/STUDENTI/shared/2022_proteomes/longest_isoform/BUSCO_bestscore_set90/concatenated_prunedforstatistics.fasta.raxml.bestTree
+Optimized model saved to: /home/STUDENTI/shared/2022_proteomes/longest_isoform/BUSCO_bestscore_set90/concatenated_prunedforstatistics.fasta.raxml.bestModel
+
+Execution log saved to: /home/STUDENTI/shared/2022_proteomes/longest_isoform/BUSCO_bestscore_set90/concatenated_prunedforstatistics.fasta.raxml.log
+
+Analysis started: 18-Jan-2024 14:27:17 / finished: 18-Jan-2024 14:27:30
+
+Elapsed time: 12.731 seconds
+
+Consumed energy: 0.571 Wh
+
