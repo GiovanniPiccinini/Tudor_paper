@@ -1,6 +1,5 @@
 # Tudor_paper
 
-In the main directory there are the sequences of all T3 domains of OG164.
 
 ### Dir ML_trees:
 Tudor domain trimmed alignment + IQTREE outputs for the 10 ML replicates + topology evaluation file. Replicates considered in the paper are rooted. For the three replicates excluded, the raw IQTREE output is present.
