@@ -18,4 +18,4 @@ Raw fasta file of the OG164 as outputted by OrthoFinder + tree inference .iqtree
 T3-containing Ichthyosporea proteins (both I. hoferi and C. perkinsii), all sequences of the Piwi-like OG that contained a Piwi domain, a directory containing the 20 trees used for the I.hoferi-OG164 topology tests, and a directoy containing the 40 trees used for the Piwi+PAZ topology tests.
 
 ### Dir Metazoa_tree_for_PICs
-Contains alignment file and output of RAxML branch length optimization on the Metazoa tree (built from references in Extended_referenced.pdf) used to calculated Phylgenetic Independent Contrasts for statistical analyses
+Contains alignment file and output of RAxML branch length optimization on the Metazoa tree (built from references in Extended_referenced.pdf) used to calculated Phylogenetic Independent Contrasts for statistical analyses
