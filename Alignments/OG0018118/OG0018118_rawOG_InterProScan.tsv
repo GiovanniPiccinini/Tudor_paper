@@ -1,0 +1,145 @@
+Brachionus_calyciflorus_CAF0752252.1	7296fa94dd1c14663dbfbf3bb9a409b5	282	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	224	246	-	T	18-02-2022
+Brachionus_calyciflorus_CAF0752252.1	7296fa94dd1c14663dbfbf3bb9a409b5	282	CDD	cd04508	TUDOR	119	160	1.16677E-8	T	18-02-2022
+Brachionus_calyciflorus_CAF0752252.1	7296fa94dd1c14663dbfbf3bb9a409b5	282	Gene3D	G3DSA:2.40.50.90	-	65	222	2.5E-13	T	18-02-2022	IPR035437	SNase-like, OB-fold superfamily
+Brachionus_calyciflorus_CAF0752252.1	7296fa94dd1c14663dbfbf3bb9a409b5	282	Pfam	PF00567	Tudor domain	69	180	2.6E-10	T	18-02-2022	IPR002999	Tudor domain
+Brachionus_calyciflorus_CAF0752252.1	7296fa94dd1c14663dbfbf3bb9a409b5	282	SMART	SM00333	TUDOR_7	111	167	0.0058	T	18-02-2022	IPR002999	Tudor domain
+Brachionus_calyciflorus_CAF0752252.1	7296fa94dd1c14663dbfbf3bb9a409b5	282	Gene3D	G3DSA:2.30.30.140	-	88	173	2.5E-13	T	18-02-2022
+Brachionus_calyciflorus_CAF0752252.1	7296fa94dd1c14663dbfbf3bb9a409b5	282	SUPERFAMILY	SSF63748	Tudor/PWWP/MBT	91	182	8.27E-13	T	18-02-2022
+Dicyema_japonicum_g4222.t1	1967f511c677fe683554d6ee9c5866d9	346	MobiDBLite	mobidb-lite	consensus disorder prediction	128	148	-	T	23-02-2022
+Dicyema_japonicum_g4222.t1	1967f511c677fe683554d6ee9c5866d9	346	MobiDBLite	mobidb-lite	consensus disorder prediction	150	346	-	T	23-02-2022
+Dicyema_japonicum_g4222.t1	1967f511c677fe683554d6ee9c5866d9	346	Pfam	PF00076	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	46	100	2.4E-10	T	23-02-2022	IPR000504	RNA recognition motif domain
+Dicyema_japonicum_g4222.t1	1967f511c677fe683554d6ee9c5866d9	346	ProSiteProfiles	PS50102	Eukaryotic RNA Recognition Motif (RRM) profile.	44	129	12.765	T	23-02-2022	IPR000504	RNA recognition motif domain
+Dicyema_japonicum_g4222.t1	1967f511c677fe683554d6ee9c5866d9	346	SMART	SM00360	rrm1_1	45	115	4.2E-12	T	23-02-2022	IPR000504	RNA recognition motif domain
+Dicyema_japonicum_g4222.t1	1967f511c677fe683554d6ee9c5866d9	346	Gene3D	G3DSA:3.30.70.330	-	22	121	5.7E-14	T	23-02-2022	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+Dicyema_japonicum_g4222.t1	1967f511c677fe683554d6ee9c5866d9	346	MobiDBLite	mobidb-lite	consensus disorder prediction	128	346	-	T	23-02-2022
+Dicyema_japonicum_g4222.t1	1967f511c677fe683554d6ee9c5866d9	346	CDD	cd00590	RRM_SF	46	112	1.42435E-12	T	23-02-2022
+Dicyema_japonicum_g4222.t1	1967f511c677fe683554d6ee9c5866d9	346	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	39	113	2.55E-15	T	23-02-2022	IPR035979	RNA-binding domain superfamily
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	CDD	cd00590	RRM_SF	131	177	1.29543E-4	T	08-12-2020
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	Coils	Coil	Coil	478	532	-	T	08-12-2020
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	MobiDBLite	mobidb-lite	consensus disorder prediction	408	430	-	T	08-12-2020
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	Gene3D	G3DSA:1.10.10.1880	-	9	77	1.0E-8	T	08-12-2020	IPR041966	LOTUS-like domain	
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	Gene3D	G3DSA:2.30.30.140	-	278	357	8.2E-9	T	08-12-2020
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	Gene3D	G3DSA:3.30.70.330	-	128	194	5.3E-5	T	08-12-2020	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily	
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	120	194	1.8E-7	T	08-12-2020	IPR035979	RNA-binding domain superfamily	GO:0003676
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	CDD	cd04508	TUDOR	300	345	8.92913E-5	T	08-12-2020
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	MobiDBLite	mobidb-lite	consensus disorder prediction	576	607	-	T	08-12-2020
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	MobiDBLite	mobidb-lite	consensus disorder prediction	402	430	-	T	08-12-2020
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	Pfam	PF00567	Tudor domain	298	356	5.7E-8	T	08-12-2020	IPR002999	Tudor domain	
+Helobdella_robusta_NW_008705254.1_prot_XP_009025729.1_17029	19f50a23e0ce45192bec47c0640fc678	607	SUPERFAMILY	SSF63748	Tudor/PWWP/MBT	292	359	1.35E-9	T	08-12-2020
+Ichthyophonus_hoferi_Ihof_evm8s171	d3b6f2cc73afbf2880f79f8bccda0c4f	322	Pfam	PF00076	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	7	73	1.3E-13	T	27-02-2022	IPR000504	RNA recognition motif domain
+Ichthyophonus_hoferi_Ihof_evm8s171	d3b6f2cc73afbf2880f79f8bccda0c4f	322	MobiDBLite	mobidb-lite	consensus disorder prediction	210	322	-	T	27-02-2022
+Ichthyophonus_hoferi_Ihof_evm8s171	d3b6f2cc73afbf2880f79f8bccda0c4f	322	Gene3D	G3DSA:3.30.70.330	-	1	118	5.0E-22	T	27-02-2022	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+Ichthyophonus_hoferi_Ihof_evm8s171	d3b6f2cc73afbf2880f79f8bccda0c4f	322	MobiDBLite	mobidb-lite	consensus disorder prediction	152	180	-	T	27-02-2022
+Ichthyophonus_hoferi_Ihof_evm8s171	d3b6f2cc73afbf2880f79f8bccda0c4f	322	MobiDBLite	mobidb-lite	consensus disorder prediction	82	115	-	T	27-02-2022
+Ichthyophonus_hoferi_Ihof_evm8s171	d3b6f2cc73afbf2880f79f8bccda0c4f	322	ProSiteProfiles	PS50102	Eukaryotic RNA Recognition Motif (RRM) profile.	5	80	15.067	T	27-02-2022	IPR000504	RNA recognition motif domain
+Ichthyophonus_hoferi_Ihof_evm8s171	d3b6f2cc73afbf2880f79f8bccda0c4f	322	MobiDBLite	mobidb-lite	consensus disorder prediction	210	259	-	T	27-02-2022
+Ichthyophonus_hoferi_Ihof_evm8s171	d3b6f2cc73afbf2880f79f8bccda0c4f	322	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	3	106	3.53E-23	T	27-02-2022	IPR035979	RNA-binding domain superfamily
+Ichthyophonus_hoferi_Ihof_evm8s171	d3b6f2cc73afbf2880f79f8bccda0c4f	322	MobiDBLite	mobidb-lite	consensus disorder prediction	264	280	-	T	27-02-2022
+Ichthyophonus_hoferi_Ihof_evm8s171	d3b6f2cc73afbf2880f79f8bccda0c4f	322	PANTHER	PTHR13952	U1 SMALL NUCLEAR RIBONUCLEOPROTEIN 70 KD	4	281	1.4E-16	T	27-02-2022
+Ichthyophonus_hoferi_Ihof_evm8s171	d3b6f2cc73afbf2880f79f8bccda0c4f	322	SMART	SM00360	rrm1_1	6	76	6.9E-19	T	27-02-2022	IPR000504	RNA recognition motif domain
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	Pfam	PF00567	Tudor domain	416	527	3.8E-8	T	27-02-2022	IPR002999	Tudor domain
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	ProSiteProfiles	PS50102	Eukaryotic RNA Recognition Motif (RRM) profile.	266	353	9.951	T	27-02-2022	IPR000504	RNA recognition motif domain
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	MobiDBLite	mobidb-lite	consensus disorder prediction	129	146	-	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	41	111	4.97E-13	T	27-02-2022	IPR035979	RNA-binding domain superfamily
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	MobiDBLite	mobidb-lite	consensus disorder prediction	170	185	-	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	MobiDBLite	mobidb-lite	consensus disorder prediction	186	220	-	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	MobiDBLite	mobidb-lite	consensus disorder prediction	34	53	-	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	Gene3D	G3DSA:3.30.70.330	-	133	357	3.7E-10	T	27-02-2022	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	MobiDBLite	mobidb-lite	consensus disorder prediction	124	225	-	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	CDD	cd04508	TUDOR	477	511	7.29693E-5	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	SUPERFAMILY	SSF63748	Tudor/PWWP/MBT	473	527	4.89E-9	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	SMART	SM00360	rrm1_1	267	349	0.0011	T	27-02-2022	IPR000504	RNA recognition motif domain
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	SMART	SM00360	rrm1_1	59	121	2.4E-6	T	27-02-2022	IPR000504	RNA recognition motif domain
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	MobiDBLite	mobidb-lite	consensus disorder prediction	611	679	-	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	Pfam	PF00076	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	60	111	3.1E-8	T	27-02-2022	IPR000504	RNA recognition motif domain
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	Pfam	PF00076	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	288	344	8.8E-5	T	27-02-2022	IPR000504	RNA recognition motif domain
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	257	352	7.12E-10	T	27-02-2022	IPR035979	RNA-binding domain superfamily
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	ProSiteProfiles	PS50102	Eukaryotic RNA Recognition Motif (RRM) profile.	58	125	10.718	T	27-02-2022	IPR000504	RNA recognition motif domain
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	MobiDBLite	mobidb-lite	consensus disorder prediction	1	15	-	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	PRINTS	PR00334	HMW kininogen signature	624	647	1.4E-13	T	27-02-2022	IPR002395	HMW kininogen
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	PRINTS	PR00334	HMW kininogen signature	599	620	1.4E-13	T	27-02-2022	IPR002395	HMW kininogen
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	PRINTS	PR00334	HMW kininogen signature	670	679	1.4E-13	T	27-02-2022	IPR002395	HMW kininogen
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	Gene3D	G3DSA:3.30.70.330	-	34	132	5.5E-13	T	27-02-2022	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	MobiDBLite	mobidb-lite	consensus disorder prediction	1	25	-	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	CDD	cd00590	RRM_SF	60	111	6.02202E-10	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	PANTHER	PTHR23003	RNA RECOGNITION MOTIF  RRM  DOMAIN CONTAINING PROTEIN	163	626	5.2E-22	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	PANTHER	PTHR23003	RNA RECOGNITION MOTIF  RRM  DOMAIN CONTAINING PROTEIN	26	111	5.2E-22	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	CDD	cd00590	RRM_SF	268	349	1.7265E-8	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	MobiDBLite	mobidb-lite	consensus disorder prediction	147	168	-	T	27-02-2022
+Notospermus_geniculatus_g27361.t1	6585134bd4057dcf5f6a7c55901ac6df	679	Gene3D	G3DSA:2.30.30.140	-	454	525	1.2E-7	T	27-02-2022
+Notospermus_geniculatus_g28523.t1	8f848ae7b48e05e258727b80524ff7bd	118	Gene3D	G3DSA:3.30.70.330	-	17	114	4.4E-13	T	27-02-2022	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+Notospermus_geniculatus_g28523.t1	8f848ae7b48e05e258727b80524ff7bd	118	CDD	cd00590	RRM_SF	28	79	1.699E-9	T	27-02-2022
+Notospermus_geniculatus_g28523.t1	8f848ae7b48e05e258727b80524ff7bd	118	ProSiteProfiles	PS50102	Eukaryotic RNA Recognition Motif (RRM) profile.	26	93	10.377	T	27-02-2022	IPR000504	RNA recognition motif domain
+Notospermus_geniculatus_g28523.t1	8f848ae7b48e05e258727b80524ff7bd	118	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	13	79	3.94E-13	T	27-02-2022	IPR035979	RNA-binding domain superfamily
+Notospermus_geniculatus_g28523.t1	8f848ae7b48e05e258727b80524ff7bd	118	MobiDBLite	mobidb-lite	consensus disorder prediction	97	111	-	T	27-02-2022
+Notospermus_geniculatus_g28523.t1	8f848ae7b48e05e258727b80524ff7bd	118	MobiDBLite	mobidb-lite	consensus disorder prediction	87	118	-	T	27-02-2022
+Notospermus_geniculatus_g28523.t1	8f848ae7b48e05e258727b80524ff7bd	118	MobiDBLite	mobidb-lite	consensus disorder prediction	1	23	-	T	27-02-2022
+Notospermus_geniculatus_g28523.t1	8f848ae7b48e05e258727b80524ff7bd	118	Pfam	PF00076	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	28	79	5.6E-8	T	27-02-2022	IPR000504	RNA recognition motif domain
+Notospermus_geniculatus_g28523.t1	8f848ae7b48e05e258727b80524ff7bd	118	SMART	SM00360	rrm1_1	27	89	1.0E-4	T	27-02-2022	IPR000504	RNA recognition motif domain
+Notospermus_geniculatus_g42485.t1	727912e8335266633be39281cdae2f81	185	Gene3D	G3DSA:3.30.70.330	-	1	61	7.2E-7	T	27-02-2022	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+Notospermus_geniculatus_g42485.t1	727912e8335266633be39281cdae2f81	185	CDD	cd00590	RRM_SF	1	55	3.06731E-6	T	27-02-2022
+Notospermus_geniculatus_g42485.t1	727912e8335266633be39281cdae2f81	185	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	2	59	4.21E-7	T	27-02-2022	IPR035979	RNA-binding domain superfamily
+Octopus_bimaculoides_NW_014664470.1_prot_XP_014773546.1_8877	a289968df369c0bd4d5537b3814cb4a0	409	SMART	SM00333	TUDOR_7	304	360	8.5E-4	T	13-12-2020	IPR002999	Tudor domain	
+Octopus_bimaculoides_NW_014664470.1_prot_XP_014773546.1_8877	a289968df369c0bd4d5537b3814cb4a0	409	Gene3D	G3DSA:3.30.70.330	-	15	144	2.2E-5	T	13-12-2020	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily	
+Octopus_bimaculoides_NW_014664470.1_prot_XP_014773546.1_8877	a289968df369c0bd4d5537b3814cb4a0	409	SUPERFAMILY	SSF63748	Tudor/PWWP/MBT	310	369	1.13E-10	T	13-12-2020
+Octopus_bimaculoides_NW_014664470.1_prot_XP_014773546.1_8877	a289968df369c0bd4d5537b3814cb4a0	409	Gene3D	G3DSA:2.40.50.90	-	263	366	1.6E-10	T	13-12-2020	IPR035437	SNase-like, OB-fold superfamily	
+Octopus_bimaculoides_NW_014664470.1_prot_XP_014773546.1_8877	a289968df369c0bd4d5537b3814cb4a0	409	Pfam	PF00567	Tudor domain	262	370	8.8E-9	T	13-12-2020	IPR002999	Tudor domain	
+Octopus_bimaculoides_NW_014664470.1_prot_XP_014773546.1_8877	a289968df369c0bd4d5537b3814cb4a0	409	MobiDBLite	mobidb-lite	consensus disorder prediction	19	60	-	T	13-12-2020
+Octopus_bimaculoides_NW_014664470.1_prot_XP_014773546.1_8877	a289968df369c0bd4d5537b3814cb4a0	409	MobiDBLite	mobidb-lite	consensus disorder prediction	19	33	-	T	13-12-2020
+Octopus_bimaculoides_NW_014664470.1_prot_XP_014773546.1_8877	a289968df369c0bd4d5537b3814cb4a0	409	CDD	cd04508	TUDOR	311	353	3.87296E-7	T	13-12-2020
+Octopus_bimaculoides_NW_014664470.1_prot_XP_014773546.1_8877	a289968df369c0bd4d5537b3814cb4a0	409	Gene3D	G3DSA:2.30.30.140	-	292	358	1.6E-10	T	13-12-2020
+Octopus_bimaculoides_NW_014664470.1_prot_XP_014773546.1_8877	a289968df369c0bd4d5537b3814cb4a0	409	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	99	136	4.43E-6	T	13-12-2020	IPR035979	RNA-binding domain superfamily	GO:0003676
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	Pfam	PF00076	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	143	210	7.1E-14	T	28-02-2022	IPR000504	RNA recognition motif domain
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	Pfam	PF00076	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	10	71	9.3E-11	T	28-02-2022	IPR000504	RNA recognition motif domain
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	Gene3D	G3DSA:3.30.70.330	-	9	77	3.0E-11	T	28-02-2022	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	SMART	SM00360	rrm1_1	9	77	3.3E-7	T	28-02-2022	IPR000504	RNA recognition motif domain
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	SMART	SM00360	rrm1_1	142	212	6.6E-17	T	28-02-2022	IPR000504	RNA recognition motif domain
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	Gene3D	G3DSA:2.40.50.90	-	307	333	5.0E-6	T	28-02-2022	IPR035437	SNase-like, OB-fold superfamily
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	5	76	1.88E-11	T	28-02-2022	IPR035979	RNA-binding domain superfamily
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	Pfam	PF00567	Tudor domain	305	413	2.0E-7	T	28-02-2022	IPR002999	Tudor domain
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	Gene3D	G3DSA:3.30.70.330	-	131	219	9.8E-17	T	28-02-2022	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	ProSiteProfiles	PS50102	Eukaryotic RNA Recognition Motif (RRM) profile.	8	83	12.765	T	28-02-2022	IPR000504	RNA recognition motif domain
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	ProSiteProfiles	PS50102	Eukaryotic RNA Recognition Motif (RRM) profile.	141	216	13.157	T	28-02-2022	IPR000504	RNA recognition motif domain
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	CDD	cd00590	RRM_SF	143	212	2.91605E-18	T	28-02-2022
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	CDD	cd00590	RRM_SF	10	53	1.52244E-6	T	28-02-2022
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	PANTHER	PTHR23003	RNA RECOGNITION MOTIF  RRM  DOMAIN CONTAINING PROTEIN	3	228	8.5E-29	T	28-02-2022
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	141	217	6.58E-17	T	28-02-2022	IPR035979	RNA-binding domain superfamily
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	Gene3D	G3DSA:2.30.30.140	-	334	394	5.0E-6	T	28-02-2022
+Owenia_fusiformis_CAIIXF010000017.1_prot_CAC9669778.1_29310	9b71a0713513034084f98e0b9a4cb3d0	455	SUPERFAMILY	SSF63748	Tudor/PWWP/MBT	346	414	6.77E-6	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	ProSiteProfiles	PS50304	Tudor domain profile.	763	820	8.75	T	28-02-2022	IPR002999	Tudor domain
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	Gene3D	G3DSA:2.30.30.140	-	750	816	3.4E-17	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	555	639	1.34E-10	T	28-02-2022	IPR035979	RNA-binding domain superfamily
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	MobiDBLite	mobidb-lite	consensus disorder prediction	464	496	-	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	MobiDBLite	mobidb-lite	consensus disorder prediction	668	692	-	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	Gene3D	G3DSA:3.30.70.330	-	293	407	1.4E-11	T	28-02-2022	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	MobiDBLite	mobidb-lite	consensus disorder prediction	497	512	-	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	Pfam	PF12872	OST-HTH/LOTUS domain	49	112	6.9E-10	T	28-02-2022	IPR025605	OST-HTH/LOTUS domain
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	MobiDBLite	mobidb-lite	consensus disorder prediction	236	291	-	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	181	227	7.33E-5	T	28-02-2022	IPR035979	RNA-binding domain superfamily
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	CDD	cd04508	TUDOR	769	812	1.78123E-10	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	MobiDBLite	mobidb-lite	consensus disorder prediction	443	521	-	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	PANTHER	PTHR22948	TUDOR DOMAIN CONTAINING PROTEIN	528	827	3.0E-24	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	CDD	cd00590	RRM_SF	184	225	0.00512472	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	ProSiteProfiles	PS50102	Eukaryotic RNA Recognition Motif (RRM) profile.	321	394	10.377	T	28-02-2022	IPR000504	RNA recognition motif domain
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	CDD	cd00590	RRM_SF	323	389	1.32063E-9	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	MobiDBLite	mobidb-lite	consensus disorder prediction	236	258	-	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	Pfam	PF00076	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	323	388	6.4E-6	T	28-02-2022	IPR000504	RNA recognition motif domain
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	SMART	SM00333	TUDOR_7	761	818	2.1E-5	T	28-02-2022	IPR002999	Tudor domain
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	MobiDBLite	mobidb-lite	consensus disorder prediction	443	463	-	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	Pfam	PF00567	Tudor domain	718	827	1.4E-16	T	28-02-2022	IPR002999	Tudor domain
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	ProSiteProfiles	PS51644	OST-type HTH domain profile.	47	120	14.594	T	28-02-2022	IPR025605	OST-HTH/LOTUS domain
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	SUPERFAMILY	SSF63748	Tudor/PWWP/MBT	747	827	1.13E-15	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	CDD	cd09972	LOTUS_TDRD_OSKAR	49	123	1.10088E-18	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	CDD	cd00590	RRM_SF	566	634	1.10368E-8	T	28-02-2022
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	Gene3D	G3DSA:2.40.50.90	-	722	827	3.4E-17	T	28-02-2022	IPR035437	SNase-like, OB-fold superfamily
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	Gene3D	G3DSA:1.10.10.1880	-	43	123	3.6E-16	T	28-02-2022	IPR041966	LOTUS-like domain
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	SMART	SM00360	rrm1_1	565	634	2.4E-5	T	28-02-2022	IPR000504	RNA recognition motif domain
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	SMART	SM00360	rrm1_1	174	241	1.6	T	28-02-2022	IPR000504	RNA recognition motif domain
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	SMART	SM00360	rrm1_1	322	390	1.9E-9	T	28-02-2022	IPR000504	RNA recognition motif domain
+Phoronis_australis_g4807.t1	140d3732693212cc9fcbf40af8e52eb9	863	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	307	417	2.82E-14	T	28-02-2022	IPR035979	RNA-binding domain superfamily
+Ptychodera_flava_pfl_40v0_9_20150316_1g8886.t1	e4c54a105cc89d0c45f5aaa86b73afb4	371	Gene3D	G3DSA:2.30.30.140	-	160	193	1.1E-6	T	27-02-2022
+Ptychodera_flava_pfl_40v0_9_20150316_1g8886.t1	e4c54a105cc89d0c45f5aaa86b73afb4	371	Pfam	PF00076	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	118	154	2.0E-4	T	27-02-2022	IPR000504	RNA recognition motif domain
+Ptychodera_flava_pfl_40v0_9_20150316_1g8886.t1	e4c54a105cc89d0c45f5aaa86b73afb4	371	Gene3D	G3DSA:2.40.50.90	-	194	215	1.1E-6	T	27-02-2022	IPR035437	SNase-like, OB-fold superfamily
+Ptychodera_flava_pfl_40v0_9_20150316_1g8886.t1	e4c54a105cc89d0c45f5aaa86b73afb4	371	SUPERFAMILY	SSF54928	RNA-binding domain, RBD	81	157	2.42E-7	T	27-02-2022	IPR035979	RNA-binding domain superfamily
+Ptychodera_flava_pfl_40v0_9_20150316_1g8886.t1	e4c54a105cc89d0c45f5aaa86b73afb4	371	MobiDBLite	mobidb-lite	consensus disorder prediction	322	371	-	T	27-02-2022
+Ptychodera_flava_pfl_40v0_9_20150316_1g8886.t1	e4c54a105cc89d0c45f5aaa86b73afb4	371	SUPERFAMILY	SSF63748	Tudor/PWWP/MBT	158	206	3.31E-5	T	27-02-2022
