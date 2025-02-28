@@ -10,6 +10,7 @@ HMM profiles for each OG used to build the distance matrix for the NJ tree.
   
 ###  Dir Alignments:
 Single-OG alignments, comprehending all sequences before subsampling (see Materials and Methods). All alignments were later merged and realigned altogether with MAFFT-DASH, previous to ML tree inference (except for OG164 subclades, that were excluded from the ML inference).
+In this directory is also present, for each OG, a sub-directory containing the raw OG.fasta file (raw output of OrthoFinder), the InterProScan anntoation of it, and the output file of the custom Tudor domain extraction (script domain_extraction.sh provided).
 
 ### Dir OG164
 Raw fasta file of the OG164 as outputted by OrthoFinder + tree inference .iqtree output to feed DISCO with + DISCO output subclades.
